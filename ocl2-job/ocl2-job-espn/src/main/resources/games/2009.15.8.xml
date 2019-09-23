@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="15" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10488">
+            <player-slot/>
+            <player-name>Sidney Rice, Min WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 7-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 24-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11282">
+            <player-slot/>
+            <player-name>Fred Davis, Was TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 12-45</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 16-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9475">
+            <player-slot/>
+            <player-name>Ryan Grant, GB RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 36-37</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 19-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, NYJ RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 7-10</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 36-37</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 24-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 7-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12516">
+            <player-slot/>
+            <player-name>Knowshon Moreno, Den RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 19-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 31-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 27-13</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 17-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1756">
+            <player-slot/>
+            <player-name>Ricky Williams, Mia RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 24-27</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

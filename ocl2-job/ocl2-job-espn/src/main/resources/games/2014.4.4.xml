@@ -1,0 +1,142 @@
+<game season="2014" scoringPeriod="4" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Den TE</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>4</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 10-38</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 41-14</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 24-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Wsh WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-45</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith Sr., Bal WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 38-10</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 17-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 41-17</game-status>
+            <points>31</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Wsh D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-45</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 14-38</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot/>
+            <player-name>Cody Parkey, Phi K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot/>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 10-38</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12500">
+            <player-slot/>
+            <player-name>Shonn Greene, Ten RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-41</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14877">
+            <player-slot/>
+            <player-name>Nick Foles, StL QB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>3</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot/>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 38-17</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

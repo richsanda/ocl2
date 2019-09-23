@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="6" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 19-25</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Bal WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 29-14</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 20-16</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 24-6</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 24-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 20-13</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Wsh WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 13-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12473">
+            <player-slot/>
+            <player-name>Josh Freeman, TB QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 26-20</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, NO K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3593">
+            <player-slot/>
+            <player-name>Deion Branch, NE WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 20-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 26-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 20-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 3-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 24-17</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="3" team="10">
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 24-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 23-45</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr393">
+            <player-slot/>
+            <player-name>Drew Bledsoe, Dal QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-31</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 24-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, NO WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 16-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Chi WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 7-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 23-20</game-status>
+            <points>34</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 10-30</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, Jac RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 26-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 45-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 16-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 12-37</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 24-7</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 31-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 16-33</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

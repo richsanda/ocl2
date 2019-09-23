@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="2" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr16760">
+            <player-slot>QB</player-slot>
+            <player-name>Jimmy Garoppolo, SF QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 30-27</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr18187">
+            <player-slot>RB</player-slot>
+            <player-name>Alvin Kamara, NO RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 21-18</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>T 29-29</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 13-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR/TE</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 34-23</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 19-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot>D/ST</player-slot>
+            <player-name>Saints D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 21-18</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18409">
+            <player-slot>K</player-slot>
+            <player-name>Harrison Butker, KC K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 42-37</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 21-18</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr18260">
+            <player-slot>RB</player-slot>
+            <player-name>Dalvin Cook, Min RB   Q</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>T 29-29</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15072">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Marvin Jones Jr., Det WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 27-30</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 19-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jarvis Landry, Cle WR   Q</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 18-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>T 29-29</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 23-34</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

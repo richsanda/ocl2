@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="7" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr14123">
+            <player-slot/>
+            <player-name>Alex Henery, Phi K</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 3-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Wsh WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 45-41</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 7-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 24-27</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr13203">
+            <player-slot/>
+            <player-name>C.J. Spiller, Buf RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 16-17</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Great Jaerbs Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 41-45</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, Min WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 7-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 34-22</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Den TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 33-39</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 27-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Mia WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 21-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 41-45</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

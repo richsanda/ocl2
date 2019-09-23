@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="12" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 21-31</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 31-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 13-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, NO RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 21-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15092">
+            <player-slot/>
+            <player-name>Bryce Brown, Phi RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 22-30</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 28-10</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Cle RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 20-14</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13228">
+            <player-slot/>
+            <player-name>Jermaine Gresham, Cin TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 34-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 24-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 17-9</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 38-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 31-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 16-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 17-9</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

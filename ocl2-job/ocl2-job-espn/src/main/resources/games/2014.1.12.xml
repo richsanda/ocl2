@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="1" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 6-34</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 14-19</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13536">
+            <player-slot/>
+            <player-name>Joique Bell, Det RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 35-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 36-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Mia TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 33-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Buf WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14877">
+            <player-slot/>
+            <player-name>Nick Foles, StL QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 6-34</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 16-36</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jac TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-34</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 23-16</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 14-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 31-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, SF RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15823">
+            <player-slot/>
+            <player-name>Montee Ball, Den RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 31-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 20-33</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

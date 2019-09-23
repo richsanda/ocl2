@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="15" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17133">
+            <player-slot/>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 0-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12576">
+            <player-slot/>
+            <player-name>Brandon LaFell, NE WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 19-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 17-7</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, NE TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-13</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 12-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 10-22</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14900">
+            <player-slot/>
+            <player-name>Coby Fleener, Ind TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 17-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 19-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 16-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 31-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-20</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 22-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot/>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 0-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 17-10</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

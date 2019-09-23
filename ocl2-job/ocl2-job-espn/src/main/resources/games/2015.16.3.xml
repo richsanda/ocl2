@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="16" team="3">
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot/>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-24</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, NYG K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-49</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 38-8</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr16803">
+            <player-slot/>
+            <player-name>Jeremy Hill, Cin RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 20-17</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cramalama Swiss CakeRolls Box Score</header>
+      <players>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Benjamin Watson, Bal TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 20-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot/>
+            <player-name>Cairo Santos, KC K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Wsh WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14583">
+            <player-slot/>
+            <player-name>Kamar Aiken, Bal WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 20-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17505">
+            <player-slot/>
+            <player-name>Jeremy Langford, Chi RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 26-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 8-38</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 32-17</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

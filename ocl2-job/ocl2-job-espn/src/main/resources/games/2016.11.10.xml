@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="11" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr17907">
+            <player-slot>QB</player-slot>
+            <player-name>Dak Prescott, Dal QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-17</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB</player-slot>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17869">
+            <player-slot>RB/WR</player-slot>
+            <player-name>C.J. Prosise, Sea RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 26-15</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 22-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16791">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Donte Moncrief, Ind WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 24-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12699">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Miller, Chi TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 16-22</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60012">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chiefs D/ST D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-42</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 30-17</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot>RB</player-slot>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 23-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 30-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot>WR</player-slot>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 19-26</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Steve Smith Sr., Bal WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 17-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14145">
+            <player-slot>TE</player-slot>
+            <player-name>Charles Clay, Buf TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 16-12</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cowboys D/ST D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot>K</player-slot>
+            <player-name>Cairo Santos, KC K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-19</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

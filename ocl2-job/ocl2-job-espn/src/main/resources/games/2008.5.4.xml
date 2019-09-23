@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="5" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 10-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 41-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 41-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 31-22</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 0-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10585">
+            <player-slot/>
+            <player-name>Steve Breaston, Ari WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 41-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 16-13</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 34-0</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 24-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 44-6</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 10-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 44-6</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 22-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy E. Williams, Dal WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 31-22</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 0-34</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

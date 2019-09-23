@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="7" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr17610">
+            <player-slot>QB</player-slot>
+            <player-name>Marcus Mariota, Ten QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 26-34</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 26-34</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 21-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-17</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 26-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 27-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 27-16</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-26</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 16-27</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16782">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jerick McKinnon, Min RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 10-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 33-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11364">
+            <player-slot>TE</player-slot>
+            <player-name>Gary Barnidge, Cle TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 17-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 27-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 20-17</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

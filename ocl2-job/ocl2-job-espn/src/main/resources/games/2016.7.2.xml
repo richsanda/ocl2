@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="7" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr14163">
+            <player-slot>QB</player-slot>
+            <player-name>Tyrod Taylor, Buf QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 25-28</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>T 6-6</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 30-33</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot>WR</player-slot>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 21-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 26-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>T 6-6</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>T 6-6</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 30-33</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr17399">
+            <player-slot>QB</player-slot>
+            <player-name>Jameis Winston, TB QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-17</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot>RB</player-slot>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-26</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17834">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Michael Thomas, NO WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 21-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 16-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 28-25</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16766">
+            <player-slot>TE</player-slot>
+            <player-name>C.J. Fiedorowicz, Hou TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 9-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 10-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15965">
+            <player-slot>K</player-slot>
+            <player-name>Dustin Hopkins, Wsh K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

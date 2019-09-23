@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="11" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 10-11</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 33-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>T 13-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 34-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11264">
+            <player-slot/>
+            <player-name>Dustin Keller, NYJ TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 34-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Atl K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 20-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 30-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 30-20</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 20-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 10-30</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, TB K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 19-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 26-20</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 14-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 20-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 10-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 24-20</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

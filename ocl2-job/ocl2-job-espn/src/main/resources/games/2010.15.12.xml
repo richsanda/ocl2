@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="15" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr12731">
+            <player-slot/>
+            <player-name>Ryan Succop, KC K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 20-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11461">
+            <player-slot/>
+            <player-name>Peyton Hillis, Cle RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 17-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 33-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 17-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Dal QB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 33-30</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 17-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10482">
+            <player-slot/>
+            <player-name>Zach Miller, Oak TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 39-23</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 27-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 24-30</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, StL K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 13-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 34-18</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 13-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11252">
+            <player-slot/>
+            <player-name>Joe Flacco, Bal QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 30-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 17-31</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 24-34</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

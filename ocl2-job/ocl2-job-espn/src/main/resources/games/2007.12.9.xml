@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="12" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 36-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 37-26</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 31-13</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 31-6</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, Pit K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 3-0</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, SD WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 32-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 37-31</game-status>
+            <points>34</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-32</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 17-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3582">
+            <player-slot/>
+            <player-name>Maurice Morris, Sea RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 24-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 34-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-32</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 31-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 35-6</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+</game>

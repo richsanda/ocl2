@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="3" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 19-37</game-status>
+            <points>-6</points>
+         </player>
+         <player id="plyr17134">
+            <player-slot/>
+            <player-name>Alfred Blue, Hou RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 17-30</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 37-19</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 20-26</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot/>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 9-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr16725">
+            <player-slot/>
+            <player-name>Sammy Watkins, Buf WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 10-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 19-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 44-17</game-status>
+            <points>33</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 34-31</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot/>
+            <player-name>Jared Cook, StL TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 31-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 26-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 22-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 23-21</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14028">
+            <player-slot/>
+            <player-name>Stevan Ridley, NYJ RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 19-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 16-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 10-22</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="3" team="4">
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 24-7</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1822">
+            <player-slot/>
+            <player-name>Steve Heiden, Cle TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 6-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr278">
+            <player-slot/>
+            <player-name>Jimmy Smith, Jac WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 26-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-31</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr1177">
+            <player-slot/>
+            <player-name>Jake Plummer, Den QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 30-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1432">
+            <player-slot/>
+            <player-name>Ahman Green, GB RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 16-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1042">
+            <player-slot/>
+            <player-name>Joe Horn, NO WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 16-33</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-23</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 13-6</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr43">
+            <player-slot/>
+            <player-name>John Carney, NO K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 16-33</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 24-27</game-status>
+            <points>39</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 23-20</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ind RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 13-6</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-24</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="11" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, LAC QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 22-23</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17933">
+            <player-slot>RB</player-slot>
+            <player-name>Alex Collins, Bal RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 19-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 27-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 22-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 21-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bears D/ST D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 25-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>W 23-22</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-16</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 54-51</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18193">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Joe Mixon, Cin RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 21-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 24-27</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 54-51</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, GB TE   Q</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 24-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 22-23</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Min K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 20-25</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

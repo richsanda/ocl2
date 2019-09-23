@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="11" team="4">
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 37-45</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr3556">
+            <player-slot/>
+            <player-name>Jerramy Stevens, Sea TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-25</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr866">
+            <player-slot/>
+            <player-name>Rod Smith, Den WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-0</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2320">
+            <player-slot/>
+            <player-name>Mike Anderson, Den RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-0</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr278">
+            <player-slot/>
+            <player-name>Jimmy Smith, Jac WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 30-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1175">
+            <player-slot/>
+            <player-name>Warrick Dunn, Atl RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 27-30</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1177">
+            <player-slot/>
+            <player-name>Jake Plummer, Den QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-0</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Ferguson Box Score</header>
+      <players>
+         <player id="plyr4559">
+            <player-slot/>
+            <player-name>Domanick Davis, Hou RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 17-45</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 38-28</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr943">
+            <player-slot/>
+            <player-name>Eddie Kennison, KC WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 45-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 45-37</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 20-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 37-45</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-0</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="1" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr943">
+            <player-slot/>
+            <player-name>Eddie Kennison, KC WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 16-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 24-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 23-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 9-6</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 9-6</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr3757">
+            <player-slot/>
+            <player-name>David Givens, Ten WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 16-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 6-20</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 9-6</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 17-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, Phi WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 24-10</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 27-0</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1263">
+            <player-slot/>
+            <player-name>Derrick Mason, Bal WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 27-0</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3784">
+            <player-slot/>
+            <player-name>Chester Taylor, Min RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 19-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 23-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 19-17</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

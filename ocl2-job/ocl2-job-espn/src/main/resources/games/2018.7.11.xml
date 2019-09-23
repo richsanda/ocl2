@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="7" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17794">
+            <player-slot>QB</player-slot>
+            <player-name>Jared Goff, LAR QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 39-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr18589">
+            <player-slot>RB</player-slot>
+            <player-name>Sony Michel, NE RB   D</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 38-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr18823">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Phillip Lindsay, Den RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 45-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 37-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 38-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17861">
+            <player-slot>TE</player-slot>
+            <player-name>Austin Hooper, Atl TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 23-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 17-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17438">
+            <player-slot>K</player-slot>
+            <player-name>Jason Myers, NYJ K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 17-37</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Min QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 37-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, Jax RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 7-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14922">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Mohamed Sanu, Atl WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 23-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot>WR</player-slot>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 32-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jarvis Landry, Cle WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 23-26</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 17-21</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 37-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 23-24</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

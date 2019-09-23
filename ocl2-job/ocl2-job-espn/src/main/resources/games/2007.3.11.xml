@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="3" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr9361">
+            <player-slot/>
+            <player-name>Shaun Suisham, Was K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 17-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr3593">
+            <player-slot/>
+            <player-name>Deion Branch, Sea WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-21</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 30-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 38-7</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-13</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 37-16</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 10-34</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 17-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 16-37</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Bal K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 26-23</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-21</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 31-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 3-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Chi RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 10-34</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

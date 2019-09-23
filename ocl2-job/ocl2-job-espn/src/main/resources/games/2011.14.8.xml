@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="14" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr13272">
+            <player-slot/>
+            <player-name>Ed Dickson, Bal TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 24-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, NYG RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 37-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 10-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 37-10</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14192">
+            <player-slot/>
+            <player-name>Roy Helu, Wsh RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 27-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 21-19</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 31-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13203">
+            <player-slot/>
+            <player-name>C.J. Spiller, Buf RB, WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 10-37</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 34-28</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 34-37</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 46-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 46-16</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 46-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 30-13</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 34-28</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 20-19</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

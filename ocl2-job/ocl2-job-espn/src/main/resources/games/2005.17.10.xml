@@ -1,0 +1,180 @@
+<game season="2005" scoringPeriod="17" team="10">
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr5645">
+            <player-slot/>
+            <player-name>Ernest Wilford, Jac WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 40-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr548">
+            <player-slot/>
+            <player-name>Marshall Faulk, StL RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 20-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Ben Watson, NE TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 26-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 35-21</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr622">
+            <player-slot/>
+            <player-name>Gus Frerotte, Mia QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 28-26</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 20-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 21-35</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 30-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr393">
+            <player-slot/>
+            <player-name>Drew Bledsoe, Dal QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 10-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, NO WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Chi WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-7</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 26-30</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 3-37</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr3556">
+            <player-slot/>
+            <player-name>Jerramy Stevens, Sea TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 17-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr866">
+            <player-slot/>
+            <player-name>Rod Smith, Den WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2320">
+            <player-slot/>
+            <player-name>Mike Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 27-13</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr1175">
+            <player-slot/>
+            <player-name>Warrick Dunn, Atl RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 11-44</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr276">
+            <player-slot/>
+            <player-name>Keenan McCardell, SD WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 7-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1177">
+            <player-slot/>
+            <player-name>Jake Plummer, Den QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-7</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+</game>

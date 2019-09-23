@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="1" team="9">
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers*, GB QB   IR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 17-9</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18078">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Rob Kelley*, Wsh RB   IR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 17-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14402">
+            <player-slot>WR</player-slot>
+            <player-name>Chris Hogan*, NE WR   O</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 27-42</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 29-19</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot>TE</player-slot>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 19-3</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot>D/ST</player-slot>
+            <player-name>Texans D/ST D/ST</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>L 7-29</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-17</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB   Q</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 35-23</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 21-12</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 46-9</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 27-42</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 17-9</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16504">
+            <player-slot>TE</player-slot>
+            <player-name>Jack Doyle, Ind TE</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>L 9-46</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bills D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 21-12</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 19-29</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

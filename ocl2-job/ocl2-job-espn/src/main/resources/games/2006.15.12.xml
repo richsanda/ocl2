@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="15" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5662">
+            <player-slot/>
+            <player-name>Josh Scobee, Jac K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 17-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 16-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 16-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 14-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3576">
+            <player-slot/>
+            <player-name>Reche Caldwell, NE WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 40-7</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 26-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 13-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 24-14</game-status>
+            <points>25</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 37-3</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 20-0</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 17-9</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-16</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 10-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1196">
+            <player-slot/>
+            <player-name>Corey Dillon, NE RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 40-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 36-22</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

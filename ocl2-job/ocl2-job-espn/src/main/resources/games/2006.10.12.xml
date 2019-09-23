@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="10" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5662">
+            <player-slot/>
+            <player-name>Josh Scobee, Jac K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 10-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 3-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 10-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 41-49</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Det QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 13-19</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4532">
+            <player-slot/>
+            <player-name>Kevin Curtis, StL WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 22-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 19-13</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 24-10</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 31-38</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 49-41</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 13-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-38</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 17-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 13-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, Chi RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 13-19</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

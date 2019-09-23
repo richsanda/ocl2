@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="3" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 22-26</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-0</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr15994">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Theo Riddick, Det RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 27-34</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot>WR</player-slot>
+            <player-name>Brandon Marshall, NYG WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 27-29</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyrell Williams, SD WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 22-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot>TE</player-slot>
+            <player-name>Julius Thomas, Mia TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 37-18</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 26-22</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 3-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 31-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr17809">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Will Fuller V, Hou WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 0-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 3-34</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 29-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 22-10</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 31-17</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

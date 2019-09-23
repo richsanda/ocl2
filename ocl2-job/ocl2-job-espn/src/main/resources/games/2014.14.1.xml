@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="14" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr14901">
+            <player-slot/>
+            <player-name>Dwayne Allen, Ind TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 25-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 41-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, SF WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 13-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 41-28</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 24-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15920">
+            <player-slot/>
+            <player-name>Latavius Murray, Oak RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 24-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 28-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-24</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 37-43</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 14-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14922">
+            <player-slot/>
+            <player-name>Mohamed Sanu, Cin WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 21-42</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14876">
+            <player-slot/>
+            <player-name>Ryan Tannehill, Mia QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 13-28</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 14-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, Atl RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 37-43</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, Cle WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 24-25</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 24-14</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="15" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr11788">
+            <player-slot/>
+            <player-name>Danny Woodhead, SD RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 27-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 20-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12490">
+            <player-slot/>
+            <player-name>Andre Brown, Hou RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 3-25</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 27-26</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 37-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 18-16</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 26-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 27-26</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 30-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 36-37</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr13440">
+            <player-slot/>
+            <player-name>Andrew Quarless, GB TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 37-36</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16159">
+            <player-slot/>
+            <player-name>Da'Rick Rogers, Ind WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 25-3</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14017">
+            <player-slot/>
+            <player-name>Shane Vereen, NE RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 20-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 36-37</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Det RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 16-18</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, Oak WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 31-56</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

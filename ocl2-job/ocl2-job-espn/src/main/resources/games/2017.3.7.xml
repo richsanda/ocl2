@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="3" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 30-26</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 13-34</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 10-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 27-33</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyrell Williams, LAC WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 10-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 16-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 36-33</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr17399">
+            <player-slot>QB</player-slot>
+            <player-name>Jameis Winston*, TB QB   O</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-34</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB   SSPD</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 28-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 39-41</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-23</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17834">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Thomas, NO WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 34-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr14145">
+            <player-slot>TE</player-slot>
+            <player-name>Charles Clay, Buf TE   Q</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 26-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 7-44</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot>K</player-slot>
+            <player-name>Blair Walsh, Sea K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 27-33</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

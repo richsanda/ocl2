@@ -1,0 +1,141 @@
+<game season="2014" scoringPeriod="10" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 20-16</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 31-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 17-27</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 16-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 45-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 41-17</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr14145">
+            <player-slot/>
+            <player-name>Charles Clay, Buf TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 13-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14912">
+            <player-slot/>
+            <player-name>Alshon Jeffery, Chi WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 14-55</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15918">
+            <player-slot/>
+            <player-name>Caleb Sturgis, Mia K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 16-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jac TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-31</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 3-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14895">
+            <player-slot/>
+            <player-name>Ronnie Hillman, Den RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 41-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, Oak WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-41</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 41-17</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="1" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 20-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 10-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-27</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 31-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot/>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 34-6</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Wsh WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 6-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 19-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 24-31</game-status>
+            <points>29</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, Buf WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 37-34</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 14-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13210">
+            <player-slot/>
+            <player-name>Ben Tate, Pit RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11267">
+            <player-slot/>
+            <player-name>Donnie Avery, KC WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 10-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, Atl RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 37-34</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 36-16</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

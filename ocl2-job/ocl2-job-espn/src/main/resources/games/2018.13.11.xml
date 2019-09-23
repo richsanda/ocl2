@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="13" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17794">
+            <player-slot>QB</player-slot>
+            <player-name>Jared Goff, LAR QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 30-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18823">
+            <player-slot>RB</player-slot>
+            <player-name>Phillip Lindsay, Den RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 24-10</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr18589">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Sony Michel, NE RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 24-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 24-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17861">
+            <player-slot>TE</player-slot>
+            <player-name>Austin Hooper, Atl TE   Q</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 16-26</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot>D/ST</player-slot>
+            <player-name>Steelers D/ST D/ST</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 30-33</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot>K</player-slot>
+            <player-name>Greg Zuerlein, LAR K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 30-16</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, LAC QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 33-30</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr18592">
+            <player-slot>RB</player-slot>
+            <player-name>Nick Chubb, Cle RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 13-29</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 17-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR</player-slot>
+            <player-name>Doug Baldwin, Sea WR   Q</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 43-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 33-30</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE   D</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 13-28</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bears D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 27-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 0-6</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

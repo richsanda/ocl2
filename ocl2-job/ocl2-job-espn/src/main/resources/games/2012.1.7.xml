@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="1" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Dal RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 24-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 24-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 22-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 24-17</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 16-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 40-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4582">
+            <player-slot/>
+            <player-name>Brandon Lloyd, NE WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 41-21</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 27-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12898">
+            <player-slot/>
+            <player-name>Isaac Redman, Pit RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 19-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 27-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 28-48</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11282">
+            <player-slot/>
+            <player-name>Fred Davis, Wsh TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 40-32</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-13</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 48-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 17-16</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

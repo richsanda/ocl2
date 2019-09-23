@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="14" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 38-10</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 17-23</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 23-26</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 38-10</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 16-11</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 38-10</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-27</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 28-16</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 23-26</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 42-14</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot>WR</player-slot>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 28-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 22-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 10-38</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot>D/ST</player-slot>
+            <player-name>Colts D/ST D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 17-22</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 42-14</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

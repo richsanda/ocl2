@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="11" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 20-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 30-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 7-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 21-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 37-38</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 24-20</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 24-30</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 17-15</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1170">
+            <player-slot/>
+            <player-name>Olindo Mare, Sea K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 9-35</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11323">
+            <player-slot/>
+            <player-name>Steve Slaton, Hou RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 17-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 21-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 24-20</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 31-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-14</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Ochocinco, Cin WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 17-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

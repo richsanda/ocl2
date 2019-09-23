@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="10" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr14881">
+            <player-slot>QB</player-slot>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 22-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB</player-slot>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 47-10</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr18187">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Alvin Kamara, NO RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 47-10</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR</player-slot>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 21-45</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 38-30</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14145">
+            <player-slot>TE</player-slot>
+            <player-name>Charles Clay, Buf TE   Q</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 10-47</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 45-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 17-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-7</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot>RB</player-slot>
+            <player-name>Adrian Peterson, Ari RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 16-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 45-21</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>WR</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 22-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 16-41</game-status>
+            <points>-6</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-16</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

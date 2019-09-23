@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="6" team="3">
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, Cle K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Cle RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13228">
+            <player-slot/>
+            <player-name>Jermaine Gresham, Cin TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 24-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 17-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 35-24</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 26-3</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 35-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 10-38</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr11373">
+            <player-slot/>
+            <player-name>Jacob Tamme, Den TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 35-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 23-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Min WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 26-38</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 23-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 16-19</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 31-29</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14028">
+            <player-slot/>
+            <player-name>Stevan Ridley, NE RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 23-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 23-20</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

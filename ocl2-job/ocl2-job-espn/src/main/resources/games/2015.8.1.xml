@@ -1,0 +1,141 @@
+<game season="2015" scoringPeriod="8" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr17676">
+            <player-slot/>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-20</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 12-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 13-12</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 49-52</game-status>
+            <points>42</points>
+         </player>
+         <player id="plyr11364">
+            <player-slot/>
+            <player-name>Gary Barnidge, Cle TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 20-34</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-34</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13587">
+            <player-slot/>
+            <player-name>Chris Ivory, Jax RB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 20-6</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 23-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 20-6</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 36-7</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 10-29</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr17746">
+            <player-slot/>
+            <player-name>Josh Lambo, SD K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 26-29</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Dal RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 12-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 34-20</game-status>
+            <points>32</points>
+         </player>
+      </players>
+   </team>
+</game>

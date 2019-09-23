@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="13" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, Cle K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 21-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-23</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 27-37</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 24-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 20-28</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr9475">
+            <player-slot/>
+            <player-name>Ryan Grant, GB RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 27-37</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr3636">
+            <player-slot/>
+            <player-name>David Garrard, Jac QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 25-28</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 27-21</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Den RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 21-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 20-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 37-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-34</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 24-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 10-24</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

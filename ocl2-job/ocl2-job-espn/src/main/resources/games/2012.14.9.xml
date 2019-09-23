@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="14" team="9">
+   <team>
+      <header>Christ Punchers Box Score</header>
+      <players>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, NYG TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 52-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-21</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 27-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 52-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 21-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14898">
+            <player-slot/>
+            <player-name>Vick Ballard, Ind RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-30</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot/>
+            <player-name>Greg Zuerlein, StL K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 15-12</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 7-30</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13553">
+            <player-slot/>
+            <player-name>Victor Cruz, NYG WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 52-27</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot/>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 30-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 19-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12705">
+            <player-slot/>
+            <player-name>Brandon Myers, Oak TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 13-26</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11737">
+            <player-slot/>
+            <player-name>Connor Barth, TB K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 21-23</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

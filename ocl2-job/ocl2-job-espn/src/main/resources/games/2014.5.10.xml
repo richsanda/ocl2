@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="5" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-0</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 31-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr15826">
+            <player-slot/>
+            <player-name>Giovani Bernard, Cin RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 17-43</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14908">
+            <player-slot/>
+            <player-name>Michael Floyd, Ari WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-41</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14360">
+            <player-slot/>
+            <player-name>Matt Asiata, Min RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 10-42</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9329">
+            <player-slot/>
+            <player-name>Nick Novak, SD K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-0</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 42-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 14-17</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr14914">
+            <player-slot/>
+            <player-name>Brian Quick, StL WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 28-34</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot/>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 29-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15707">
+            <player-slot/>
+            <player-name>Larry Donnell, NYG TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 30-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot/>
+            <player-name>Blair Walsh, Min K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 10-42</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 20-30</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-41</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr11252">
+            <player-slot/>
+            <player-name>Joe Flacco, Bal QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 13-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-0</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

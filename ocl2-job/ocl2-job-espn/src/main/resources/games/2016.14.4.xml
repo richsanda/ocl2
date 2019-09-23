@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="14" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 17-22</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 27-20</game-status>
+            <points>51</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Mia RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 26-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 10-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot>TE</player-slot>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 23-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 28-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 20-17</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 20-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-27</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr16803">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jeremy Hill, Cin RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 23-10</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 30-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 17-22</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 25-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 23-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15918">
+            <player-slot>K</player-slot>
+            <player-name>Caleb Sturgis, Phi K</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 22-27</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

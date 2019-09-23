@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="4" team="5">
+   <team>
+      <header>Westerly Donnabairds Box Score</header>
+      <players>
+         <player id="plyr17795">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Wentz, Phi QB   Q</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 23-26</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, LAC RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-27</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 23-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18584">
+            <player-slot>WR</player-slot>
+            <player-name>Calvin Ridley, Atl WR   Q</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 36-37</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr18322">
+            <player-slot>WR/TE</player-slot>
+            <player-name>O.J. Howard, TB TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 10-48</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 27-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot>D/ST</player-slot>
+            <player-name>Texans D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 37-34</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 14-26</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr18210">
+            <player-slot>QB</player-slot>
+            <player-name>Patrick Mahomes, KC QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 27-23</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17689">
+            <player-slot>RB</player-slot>
+            <player-name>Tevin Coleman, Atl RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 36-37</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18341">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Carson, Sea RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 20-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 27-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR   Q</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 37-34</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE   Q</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot>D/ST</player-slot>
+            <player-name>Rams D/ST D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 38-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 33-18</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

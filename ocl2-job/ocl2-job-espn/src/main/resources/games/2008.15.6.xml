@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="15" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 24-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 16-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 16-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 13-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 27-31</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr982">
+            <player-slot/>
+            <player-name>Joe Nedney, SF K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 9-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 8-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, NYJ RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 31-27</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 13-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 12-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 14-9</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 20-8</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 13-12</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-21</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 35-14</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Mia K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 14-9</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

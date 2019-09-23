@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="4" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr2287">
+            <player-slot/>
+            <player-name>Sammy Morris, NE RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-13</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 13-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 26-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9596">
+            <player-slot/>
+            <player-name>Matt Leinart, Ari QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 21-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 16-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2670">
+            <player-slot/>
+            <player-name>Correll Buckhalter, Phi RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 3-16</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 16-3</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr909">
+            <player-slot/>
+            <player-name>Marcus Pollard, Sea TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 23-3</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2149">
+            <player-slot/>
+            <player-name>Chad Pennington, NYJ QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 13-34</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 23-3</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 14-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4532">
+            <player-slot/>
+            <player-name>Kevin Curtis, Phi WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 3-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, NYJ RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-17</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

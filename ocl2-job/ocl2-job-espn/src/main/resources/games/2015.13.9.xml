@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="13" team="9">
+   <team>
+      <header>Cramalama Swiss CakeRolls Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 42-39</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Benjamin Watson, Bal TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 13-15</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot/>
+            <player-name>Cairo Santos, KC K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 34-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Wsh WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, NE WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 28-35</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-23</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 28-35</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 23-27</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Wsh D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Stevie Johnson, SD WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 3-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, NE TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 28-35</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Pit RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 45-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot/>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17682">
+            <player-slot/>
+            <player-name>Devin Funchess, Car WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 41-38</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 41-38</game-status>
+            <points>39</points>
+         </player>
+      </players>
+   </team>
+</game>

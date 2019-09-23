@@ -1,0 +1,141 @@
+<game season="2011" scoringPeriod="6" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 24-3</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14056">
+            <player-slot/>
+            <player-name>Daniel Thomas, Mia RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 6-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10520">
+            <player-slot/>
+            <player-name>Jason Hill, Den WR</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>8</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 31-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 14-29</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 10-39</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Mia WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 6-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 25-19</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 19-25</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 24-3</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 24-3</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13205">
+            <player-slot/>
+            <player-name>Jahvid Best, Det RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 19-25</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 19-25</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 14-29</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 20-16</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

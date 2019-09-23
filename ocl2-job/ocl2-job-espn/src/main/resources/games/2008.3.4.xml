@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="3" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 38-14</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 28-10</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 17-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 17-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 14-38</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 28-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 34-32</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 24-27</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 37-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 10-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 24-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9611">
+            <player-slot/>
+            <player-name>Santonio Holmes, Pit WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-27</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-13</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+</game>

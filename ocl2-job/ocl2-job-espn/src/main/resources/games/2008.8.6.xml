@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="8" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 14-27</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 16-25</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1693">
+            <player-slot/>
+            <player-name>Jake Delhomme, Car QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 27-23</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 23-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr982">
+            <player-slot/>
+            <player-name>Joe Nedney, SF K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 13-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 21-14</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, NYJ RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 28-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 17-23</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr11272">
+            <player-slot/>
+            <player-name>John Carlson, Sea TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 32-37</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, NYJ QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 28-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 27-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 28-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Atl K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 14-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 21-14</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 37-32</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

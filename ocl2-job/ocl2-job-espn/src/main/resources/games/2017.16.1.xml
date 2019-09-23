@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="16" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 17-26</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-23</game-status>
+            <points>44</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-37</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 13-23</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 37-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 21-12</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 16-0</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 23-13</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 27-11</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr17856">
+            <player-slot>RB</player-slot>
+            <player-name>Kenyan Drake, Mia RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-29</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 6-34</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 29-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 19-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 37-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jaguars D/ST D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 33-44</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-6</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

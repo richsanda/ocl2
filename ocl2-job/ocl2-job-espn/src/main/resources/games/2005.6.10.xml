@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="6" team="10">
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 13-16</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr775">
+            <player-slot/>
+            <player-name>Curtis Martin, NYJ RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 17-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Chi WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 28-3</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr734">
+            <player-slot/>
+            <player-name>Kerry Collins, Oak QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 14-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 42-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 28-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-17</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Ferguson Box Score</header>
+      <players>
+         <player id="plyr4559">
+            <player-slot/>
+            <player-name>Domanick Davis, Hou RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 10-42</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr943">
+            <player-slot/>
+            <player-name>Eddie Kennison, KC WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 28-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, NE K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 45-28</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 16-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 13-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1485">
+            <player-slot/>
+            <player-name>Joe Jurevicius, Sea WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 42-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 34-31</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

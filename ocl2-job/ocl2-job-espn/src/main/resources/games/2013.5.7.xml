@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="5" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14900">
+            <player-slot/>
+            <player-name>Coby Fleener, Ind TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 34-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 26-18</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-3</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-3</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot/>
+            <player-name>Ryan Mathews, SD RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 17-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, NE WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 6-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 18-26</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 6-13</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, NYJ RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 30-28</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15918">
+            <player-slot/>
+            <player-name>Caleb Sturgis, Mia K</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 23-26</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 28-34</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 22-9</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 28-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 28-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Car RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 6-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 9-22</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

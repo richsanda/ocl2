@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="7" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Wsh D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 31-30</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 19-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot/>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 37-29</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 21-27</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot/>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 7-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 30-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 26-44</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 30-31</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 27-21</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14017">
+            <player-slot/>
+            <player-name>Shane Vereen, NYG RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot/>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jax TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 34-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 20-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 29-37</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 23-30</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

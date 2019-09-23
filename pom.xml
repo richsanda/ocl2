@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>w.whateva</groupId>
+    <artifactId>ocl2</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>ocl2</name>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.processor.version>3.3.2</maven.processor.version>
+        <utilities.version>1.0-SNAPSHOT</utilities.version>
+        <spring.boot.version>2.0.6.RELEASE</spring.boot.version>
+        <spring.oxm.version>5.0.10.RELEASE</spring.oxm.version>
+        <spring.orm.version>5.0.10.RELEASE</spring.orm.version>
+        <h2.version>1.4.199</h2.version>
+        <hibernate.version>5.1.0.Final</hibernate.version>
+        <hibernate-jpa-2.1-api.version>1.0.0.Final</hibernate-jpa-2.1-api.version>
+        <mysql-connector.version>5.1.35</mysql-connector.version>
+        <jackson-datatype.version>2.9.0</jackson-datatype.version>
+        <lombok.version>1.18.2</lombok.version>
+    </properties>
+
+    <modules>
+        <module>ocl2-app</module>
+        <module>ocl2-job</module>
+        <module>ocl2-service</module>
+        <module>ocl2-api</module>
+    <module>ocl2-web</module>
+  </modules>
+
+    <dependencyManagement>
+
+        <dependencies>
+
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-web</artifactId>
+                <version>${spring.boot.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-data-jpa</artifactId>
+                <version>${spring.boot.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>org.springframework</groupId>
+                <artifactId>spring-oxm</artifactId>
+                <version>${spring.oxm.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.h2database</groupId>
+                <artifactId>h2</artifactId>
+                <version>${h2.version}</version>
+            </dependency>
+
+            <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+            <dependency>
+                <groupId>org.projectlombok</groupId>
+                <artifactId>lombok</artifactId>
+                <version>${lombok.version}</version>
+                <scope>provided</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+</project>

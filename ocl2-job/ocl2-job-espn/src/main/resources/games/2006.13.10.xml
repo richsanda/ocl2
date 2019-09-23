@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="13" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 34-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 31-28</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1693">
+            <player-slot/>
+            <player-name>Jake Delhomme, Car QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 24-27</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr3784">
+            <player-slot/>
+            <player-name>Chester Taylor, Min RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 13-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 23-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-21</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 20-34</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 20-34</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr5799">
+            <player-slot/>
+            <player-name>Terrance Copper, NO WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 34-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 23-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1170">
+            <player-slot/>
+            <player-name>Olindo Mare, Mia K</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 10-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 24-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9607">
+            <player-slot/>
+            <player-name>Laurence Maroney, NE RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-21</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 23-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 20-3</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

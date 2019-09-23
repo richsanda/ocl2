@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="6" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr17455">
+            <player-slot>QB</player-slot>
+            <player-name>Trevor Siemian, Den QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 13-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 28-3</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 26-28</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14151">
+            <player-slot>WR</player-slot>
+            <player-name>Jeremy Kerley, SF WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 16-45</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 20-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 26-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 28-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17438">
+            <player-slot>K</player-slot>
+            <player-name>Jason Myers, Jax K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-16</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 35-17</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot>RB</player-slot>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 13-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 38-41</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 24-26</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, SD TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 21-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 13-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 13-21</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

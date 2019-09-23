@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="7" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 16-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 17-3</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12576">
+            <player-slot/>
+            <player-name>Brandon LaFell, NE WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 27-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 27-30</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 17-3</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16013">
+            <player-slot/>
+            <player-name>Joseph Randle, Dal RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 17-3</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Det RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 24-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 27-30</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12731">
+            <player-slot/>
+            <player-name>Ryan Succop, KC K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 17-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot/>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 45-41</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 34-22</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 34-22</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 23-31</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 7-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 22-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Car RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 30-15</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

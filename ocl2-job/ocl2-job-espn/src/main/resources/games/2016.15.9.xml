@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="15" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 30-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 13-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 41-48</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 30-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 3-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 20-26</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 30-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 6-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr16803">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jeremy Hill, Cin RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 16-3</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 34-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 6-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15918">
+            <player-slot>K</player-slot>
+            <player-name>Caleb Sturgis, Phi K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 26-27</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

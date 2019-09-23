@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="10" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 29-26</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot>RB</player-slot>
+            <player-name>Adrian Peterson, Wsh RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 16-3</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Doug Martin, Oak RB</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 6-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot>WR</player-slot>
+            <player-name>Josh Gordon, NE WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 10-34</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Robinson, Chi WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-22</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>TE</player-slot>
+            <player-name>Evan Engram, NYG TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 31-12</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 22-34</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 51-14</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr17700">
+            <player-slot>RB</player-slot>
+            <player-name>Mike Davis, Sea RB</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>L 31-36</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18218">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Leonard Fournette, Jax RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 26-29</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Dal WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 27-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 20-27</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr17690">
+            <player-slot>TE</player-slot>
+            <player-name>Jesse James, Pit TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 52-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot>D/ST</player-slot>
+            <player-name>Falcons D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 16-28</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot>K</player-slot>
+            <player-name>Cody Parkey, Chi K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-22</game-status>
+            <points>-5</points>
+         </player>
+      </players>
+   </team>
+</game>

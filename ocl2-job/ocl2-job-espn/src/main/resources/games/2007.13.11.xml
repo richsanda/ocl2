@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="13" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 28-25</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 37-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 42-10</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 27-37</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 16-21</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-10</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 23-27</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 17-16</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 27-37</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 23-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 17-16</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 10-24</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

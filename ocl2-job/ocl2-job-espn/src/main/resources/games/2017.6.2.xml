@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="6" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr18246">
+            <player-slot>QB</player-slot>
+            <player-name>Deshaun Watson*, Hou QB   IR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 33-17</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB</player-slot>
+            <player-name>Devonta Freeman*, Atl RB   O</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15966">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Thompson*, Wsh RB   IR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 26-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 16-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 17-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot>D/ST</player-slot>
+            <player-name>Redskins D/ST D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 26-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12731">
+            <player-slot>K</player-slot>
+            <player-name>Ryan Succop, Ten K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 36-22</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 24-17</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot>RB</player-slot>
+            <player-name>Marshawn Lynch, Oak RB</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 16-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR   Q</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 10-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, LAC TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 17-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot>D/ST</player-slot>
+            <player-name>Titans D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 36-22</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-23</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="16" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Hou K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 16-19</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 20-14</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 10-38</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-29</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11264">
+            <player-slot/>
+            <player-name>Dustin Keller, NYJ TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-29</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 35-21</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 19-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13621">
+            <player-slot/>
+            <player-name>David Nelson, Buf WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 40-14</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, SF K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 19-17</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 29-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 35-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 10-38</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 48-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9611">
+            <player-slot/>
+            <player-name>Santonio Holmes, NYJ WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-29</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 33-26</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Cin RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 23-16</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="13" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 23-31</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 13-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 13-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 28-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17600">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jamison Crowder, Wsh WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 23-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot>TE</player-slot>
+            <player-name>Martellus Bennett, GB TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-13</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 14-32</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15965">
+            <player-slot>K</player-slot>
+            <player-name>Dustin Hopkins, Wsh K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 23-31</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-14</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 17-15</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 41-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17834">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Thomas, NO WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 13-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot>TE</player-slot>
+            <player-name>Vernon Davis, Wsh TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 23-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 15-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 17-15</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

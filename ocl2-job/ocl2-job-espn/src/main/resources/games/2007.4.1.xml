@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="4" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 14-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 16-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 3-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9607">
+            <player-slot/>
+            <player-name>Laurence Maroney, NE RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-13</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 38-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 13-34</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 13-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 30-16</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 23-3</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 35-7</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 23-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 30-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 16-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, Pit K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 14-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, SD WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 16-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 3-23</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

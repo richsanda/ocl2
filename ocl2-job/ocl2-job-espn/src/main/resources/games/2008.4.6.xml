@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="4" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 9-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 31-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 12-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, StL K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 14-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1693">
+            <player-slot/>
+            <player-name>Jake Delhomme, Car QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 24-9</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 35-56</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 18-28</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 23-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 20-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11323">
+            <player-slot/>
+            <player-name>Steve Slaton, Hou RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 27-30</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr3745">
+            <player-slot/>
+            <player-name>J.T. O'Sullivan, SF QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 35-56</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 23-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr3591">
+            <player-slot/>
+            <player-name>Antonio Bryant, TB WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 30-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 30-27</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="4" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 20-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9530">
+            <player-slot/>
+            <player-name>John Kuhn, GB RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 12-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 3-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 14-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 12-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Was QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 17-12</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, NYJ WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 38-14</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NO TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 16-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12525">
+            <player-slot/>
+            <player-name>Beanie Wells, Ari RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 10-41</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 17-3</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 20-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 3-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 17-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-26</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Cin RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 20-23</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

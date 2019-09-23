@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="16" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 17-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 26-31</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 34-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 34-14</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 14-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 17-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11754">
+            <player-slot/>
+            <player-name>BenJarvus Green-Ellis, NE RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 34-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 38-34</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, TB RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 38-15</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 14-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 20-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 14-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 38-15</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Bal WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 20-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Phi QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 14-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Pit WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 27-3</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

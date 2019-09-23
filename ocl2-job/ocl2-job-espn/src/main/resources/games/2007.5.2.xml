@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="5" team="2">
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10702">
+            <player-slot/>
+            <player-name>Kenton Keith, Ind RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-14</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10521">
+            <player-slot/>
+            <player-name>Matt Spaeth, Pit TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 21-0</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-16</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 7-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 17-34</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 0-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 17-7</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 7-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, Pit K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 21-0</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 7-9</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="6" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-25</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 22-3</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 31-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4529">
+            <player-slot/>
+            <player-name>Nate Burleson, Sea WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 17-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 27-48</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 22-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 48-27</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 20-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 10-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 10-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 17-37</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 9-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 16-9</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 31-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

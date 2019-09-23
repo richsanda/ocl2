@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="7" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 17-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 33-39</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 16-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9307">
+            <player-slot/>
+            <player-name>Nate Washington, Ten WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 17-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 24-6</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 16-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14911">
+            <player-slot/>
+            <player-name>Rueben Randle, NYG WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 23-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-13</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, SF K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Ind RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 39-33</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 24-6</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 33-39</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 19-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 17-3</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 33-39</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr14907">
+            <player-slot/>
+            <player-name>Justin Blackmon, Jac WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 6-24</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

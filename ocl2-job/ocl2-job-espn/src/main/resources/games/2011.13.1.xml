@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="13" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 23-17</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr12525">
+            <player-slot/>
+            <player-name>Beanie Wells, Ari RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 19-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, SF K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 26-0</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 35-38</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-35</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 38-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 38-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 38-14</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 17-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, TB RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 19-38</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 10-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 24-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14123">
+            <player-slot/>
+            <player-name>Alex Henery, Phi K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 14-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9589">
+            <player-slot/>
+            <player-name>Vince Young, Phi QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 14-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Pit WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 35-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-35</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

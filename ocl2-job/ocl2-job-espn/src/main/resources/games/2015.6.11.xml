@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="6" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17171">
+            <player-slot/>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 26-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 37-34</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot/>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 20-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 34-27</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 21-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15893">
+            <player-slot/>
+            <player-name>Andre Ellington, Ari RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 13-25</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 21-31</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot/>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 34-21</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 34-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 34-37</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 27-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Mia TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 38-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 34-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, GB WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 27-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 7-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 34-27</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

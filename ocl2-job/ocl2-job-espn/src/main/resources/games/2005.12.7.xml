@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="12" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-7</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 14-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr445">
+            <player-slot/>
+            <player-name>Mark Brunell, Was QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYG K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 21-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4551">
+            <player-slot/>
+            <player-name>Chris Brown, Ten RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-22</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr979">
+            <player-slot/>
+            <player-name>Stephen Davis, Car RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 13-9</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2178">
+            <player-slot/>
+            <player-name>Jerry Porter, Oak WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 21-33</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 42-29</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr3556">
+            <player-slot/>
+            <player-name>Jerramy Stevens, Sea TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr866">
+            <player-slot/>
+            <player-name>Rod Smith, Den WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 24-21</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2320">
+            <player-slot/>
+            <player-name>Mike Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 24-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr278">
+            <player-slot/>
+            <player-name>Jimmy Smith, Jac WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 10-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1175">
+            <player-slot/>
+            <player-name>Warrick Dunn, Atl RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1177">
+            <player-slot/>
+            <player-name>Jake Plummer, Den QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 24-21</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="11" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 48-7</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr17700">
+            <player-slot>RB</player-slot>
+            <player-name>Mike Davis, Sea RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 27-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr18218">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Leonard Fournette, Jax RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 16-20</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Dal WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 22-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 7-48</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17690">
+            <player-slot>TE</player-slot>
+            <player-name>Jesse James, Pit TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot>D/ST</player-slot>
+            <player-name>Falcons D/ST D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 19-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot>K</player-slot>
+            <player-name>Cody Parkey, Chi K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 25-20</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 19-22</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 22-19</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr18314">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Aaron Jones, GB RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 24-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17834">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Thomas, NO WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 48-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-16</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr17195">
+            <player-slot>TE</player-slot>
+            <player-name>Trey Burton, Chi TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 25-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot>D/ST</player-slot>
+            <player-name>Redskins D/ST D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 21-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr18178">
+            <player-slot>K</player-slot>
+            <player-name>Jake Elliott, Phi K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 7-48</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

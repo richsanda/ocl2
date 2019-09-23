@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="9" team="10">
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 24-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr775">
+            <player-slot/>
+            <player-name>Curtis Martin, NYJ RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 26-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 34-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 14-34</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Chi WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 20-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr734">
+            <player-slot/>
+            <player-name>Kerry Collins, Oak QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 23-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 10-17</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 17-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 33-19</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr2628">
+            <player-slot/>
+            <player-name>Kevan Barlow, SF RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 6-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr445">
+            <player-slot/>
+            <player-name>Mark Brunell, Was QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 17-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 10-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 40-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 33-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 10-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

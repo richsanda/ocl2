@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="15" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 22-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5286">
+            <player-slot/>
+            <player-name>Jerheme Urban, Ari WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 24-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 6-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 13-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 20-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 22-29</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 8-0</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr4532">
+            <player-slot/>
+            <player-name>Kevin Curtis, Phi WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 10-6</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr10476">
+            <player-slot/>
+            <player-name>Anthony Gonzalez, Ind WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 21-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-51</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4601">
+            <player-slot/>
+            <player-name>Justin Gage, Ten WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 26-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4950">
+            <player-slot/>
+            <player-name>Earnest Graham, TB RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 37-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1971">
+            <player-slot/>
+            <player-name>Billy Miller, NO TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Det QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-51</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 14-33</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 10-22</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

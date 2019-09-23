@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="13" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 28-13</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 24-38</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Todd Gurley, LA RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 26-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 41-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 15-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-6</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15918">
+            <player-slot>K</player-slot>
+            <player-name>Caleb Sturgis, Phi K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 14-32</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-26</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 31-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 28-21</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 24-38</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

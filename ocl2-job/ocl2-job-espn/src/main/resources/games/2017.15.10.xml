@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="15" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr14881">
+            <player-slot>QB</player-slot>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 7-42</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr18187">
+            <player-slot>RB</player-slot>
+            <player-name>Alvin Kamara, NO RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-19</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-19</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 7-34</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 16-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 34-29</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot>D/ST</player-slot>
+            <player-name>Falcons D/ST D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14816">
+            <player-slot>K</player-slot>
+            <player-name>Kai Forbath, Min K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-7</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 20-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 42-7</game-status>
+            <points>45</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB   Q</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 24-16</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR   Q</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 27-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 7-42</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-7</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-19</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

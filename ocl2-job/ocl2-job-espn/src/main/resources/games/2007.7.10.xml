@@ -1,0 +1,141 @@
+<game season="2007" scoringPeriod="7" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-15</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 21-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, NE WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 49-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5741">
+            <player-slot/>
+            <player-name>Patrick Crayton, Dal WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 24-14</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 16-19</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Bal K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-19</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 33-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 24-14</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr3734">
+            <player-slot/>
+            <player-name>Ronald Curry, Oak WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 10-12</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8616">
+            <player-slot/>
+            <player-name>Dave Rayner, SD K</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>5</points>
+         </player>
+         <player id="plyr4950">
+            <player-slot/>
+            <player-name>Earnest Graham, TB RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 16-23</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 19-21</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Det QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 23-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2773">
+            <player-slot/>
+            <player-name>Eric Johnson, NO TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 22-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-15</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 23-16</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

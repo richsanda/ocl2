@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="1" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr17610">
+            <player-slot>QB</player-slot>
+            <player-name>Marcus Mariota, Ten QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 16-25</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 16-25</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 29-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-22</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 27-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 33-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-22</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 23-21</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr14881">
+            <player-slot>QB</player-slot>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 12-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot>RB</player-slot>
+            <player-name>Ryan Mathews, Phi RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 29-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 22-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 27-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 33-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot>TE</player-slot>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 23-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 13-7</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

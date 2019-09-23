@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="16" team="12">
+   <team>
+      <header>Brasky's Barnidge Box Score</header>
+      <players>
+         <player id="plyr17149">
+            <player-slot/>
+            <player-name>Antonio Andrews, Ten RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 6-34</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 17-23</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 13-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10453">
+            <player-slot/>
+            <player-name>Ted Ginn Jr., Car WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 13-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15873">
+            <player-slot/>
+            <player-name>Markus Wheaton, Pit WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 20-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-6</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 21-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 32-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot/>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15951">
+            <player-slot/>
+            <player-name>Denard Robinson, Jax RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 27-38</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Dal RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 6-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 38-8</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

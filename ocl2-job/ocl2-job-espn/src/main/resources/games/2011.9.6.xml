@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="9" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 23-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 20-24</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 19-11</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, NO RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-16</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 31-7</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Mia RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 31-3</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, Phi WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 24-30</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 23-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 45-38</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 45-38</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12482">
+            <player-slot/>
+            <player-name>Mark Sanchez, NYJ QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 27-11</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 31-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-12</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 20-24</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

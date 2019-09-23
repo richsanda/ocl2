@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="16" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr18210">
+            <player-slot>QB</player-slot>
+            <player-name>Patrick Mahomes, KC QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 31-38</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr18341">
+            <player-slot>RB</player-slot>
+            <player-name>Chris Carson, Sea RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 38-31</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr15880">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Robert Woods, LAR WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 31-9</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 31-38</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 30-32</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 24-12</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot>D/ST</player-slot>
+            <player-name>Rams D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 31-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 31-28</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 28-31</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr18193">
+            <player-slot>RB</player-slot>
+            <player-name>Joe Mixon, Cin RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 18-26</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot>RB/WR</player-slot>
+            <player-name>C.J. Anderson, LAR RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 31-9</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 44-38</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 31-9</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, GB TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 44-38</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 10-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 24-12</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

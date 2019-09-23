@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="8" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 14-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 26-16</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 45-7</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, NYG RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 29-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 14-34</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Mia RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 30-9</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 23-22</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 36-17</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Min WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-36</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11264">
+            <player-slot/>
+            <player-name>Dustin Keller, NYJ TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 9-30</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 3-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11543">
+            <player-slot/>
+            <player-name>Garrett Hartley, NO K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 14-34</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14028">
+            <player-slot/>
+            <player-name>Stevan Ridley, NE RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 45-7</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-17</game-status>
+            <points>25</points>
+         </player>
+      </players>
+   </team>
+</game>

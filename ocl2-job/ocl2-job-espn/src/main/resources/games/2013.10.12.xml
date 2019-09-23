@@ -1,0 +1,141 @@
+<game season="2013" scoringPeriod="10" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 24-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 9-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 8-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16285">
+            <player-slot/>
+            <player-name>Timothy Wright, TB TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 22-19</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 13-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 9-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>5</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 8-38</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Dal RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-49</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 19-22</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 33-10</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, Ind WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 8-38</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, Den WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 28-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot/>
+            <player-name>Alfred Morris, Wsh RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 27-34</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 10-9</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, NO TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 49-17</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

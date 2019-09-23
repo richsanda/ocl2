@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="10" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 16-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NO TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 28-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 23-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 6-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Sea WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 20-31</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, Cin WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 18-12</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, NYJ WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 22-24</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 7-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 31-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 28-23</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Ind K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 35-34</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 17-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 23-28</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Cin RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 18-12</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 18-12</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="16" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 38-25</game-status>
+            <points>38</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 22-21</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 34-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 38-25</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 24-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 38-25</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 31-34</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 17-20</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 24-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14402">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Hogan, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 41-3</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR</player-slot>
+            <player-name>Tyrell Williams, SD WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 17-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 31-34</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr13231">
+            <player-slot>TE</player-slot>
+            <player-name>Dennis Pitta, Bal TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 27-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 31-34</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 25-33</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

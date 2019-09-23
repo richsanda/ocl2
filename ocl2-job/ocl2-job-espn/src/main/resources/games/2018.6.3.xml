@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="6" team="3">
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-29</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 40-7</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr18415">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Cooper Kupp*, LAR WR   O</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 23-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 28-21</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Crabtree, Bal WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 21-0</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17195">
+            <player-slot>TE</player-slot>
+            <player-name>Trey Burton, Chi TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 28-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 17-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K   D</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-29</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr18246">
+            <player-slot>QB</player-slot>
+            <player-name>Deshaun Watson, Hou QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17856">
+            <player-slot>RB</player-slot>
+            <player-name>Kenyan Drake, Mia RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 31-28</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>RB/WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 21-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 13-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 27-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 3-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr18409">
+            <player-slot>K</player-slot>
+            <player-name>Harrison Butker, KC K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 40-43</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+</game>

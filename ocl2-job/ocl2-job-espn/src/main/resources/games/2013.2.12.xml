@@ -1,0 +1,141 @@
+<game season="2013" scoringPeriod="2" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 14-6</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 3-29</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Cle TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 6-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, SF WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 3-29</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11543">
+            <player-slot/>
+            <player-name>Garrett Hartley, FA K</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>11</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 38-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 3-29</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-13</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 38-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Wsh WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 20-38</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr15091">
+            <player-slot/>
+            <player-name>Randy Bullock, Hou K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 30-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 41-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 38-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 21-25</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr13203">
+            <player-slot/>
+            <player-name>C.J. Spiller, Buf RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 24-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 30-24</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

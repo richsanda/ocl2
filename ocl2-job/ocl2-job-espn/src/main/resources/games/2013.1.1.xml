@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="1" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, NYJ RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 18-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 12-7</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 28-34</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 12-7</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 17-18</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 24-34</game-status>
+            <points>30</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Great Jaerbs Box Score</header>
+      <players>
+         <player id="plyr14887">
+            <player-slot/>
+            <player-name>David Wilson, NYG RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 31-36</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, Chi TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-21</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 12-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 23-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 23-21</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-21</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

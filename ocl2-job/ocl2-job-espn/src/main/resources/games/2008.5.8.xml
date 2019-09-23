@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="5" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr4950">
+            <player-slot/>
+            <player-name>Earnest Graham, TB RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 13-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 34-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 13-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 13-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 22-31</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 10-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 17-10</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 0-34</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr941">
+            <player-slot/>
+            <player-name>Amani Toomer, NYG WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 44-6</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 27-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 16-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 16-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5760">
+            <player-slot/>
+            <player-name>Derrick Ward, NYG RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 44-6</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 13-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 16-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr658">
+            <player-slot/>
+            <player-name>Isaac Bruce, SF WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 21-30</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

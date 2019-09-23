@@ -1,0 +1,180 @@
+<game season="2005" scoringPeriod="15" team="8">
+   <team>
+      <header>Inman Igloos Box Score</header>
+      <players>
+         <player id="plyr2489">
+            <player-slot/>
+            <player-name>Rian Lindell, Buf K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-28</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr1170">
+            <player-slot/>
+            <player-name>Olindo Mare, Mia K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, Jac RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 10-9</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 26-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 48-3</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 30-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Atl QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 3-16</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr3636">
+            <player-slot/>
+            <player-name>David Garrard, Jac QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 10-9</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, Oak WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 7-9</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 27-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 16-3</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 18-3</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5662">
+            <player-slot/>
+            <player-name>Josh Scobee, Jac K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 10-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 7-9</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-26</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-10</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ind RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-26</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 27-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 41-17</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, Chi RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 16-3</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

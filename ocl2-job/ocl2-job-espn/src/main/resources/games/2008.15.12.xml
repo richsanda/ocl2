@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="15" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5662">
+            <player-slot/>
+            <player-name>Josh Scobee, Jac K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 20-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-30</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4601">
+            <player-slot/>
+            <player-name>Justin Gage, Ten WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 12-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 12-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 20-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 21-31</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr658">
+            <player-slot/>
+            <player-name>Isaac Bruce, SF WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 9-14</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 13-9</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 22-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 8-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5760">
+            <player-slot/>
+            <player-name>Derrick Ward, NYG RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 8-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 31-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 22-21</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 14-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-10</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

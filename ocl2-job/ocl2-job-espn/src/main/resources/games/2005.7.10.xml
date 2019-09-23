@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="7" team="10">
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 24-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr393">
+            <player-slot/>
+            <player-name>Drew Bledsoe, Dal QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 10-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, NO WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 17-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 13-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Chi WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 10-6</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 17-38</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 20-17</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr1306">
+            <player-slot/>
+            <player-name>Priest Holmes, KC RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 30-20</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 24-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 20-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2589">
+            <player-slot/>
+            <player-name>Robert Ferguson, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 10-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 30-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Phi WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 20-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 20-30</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+</game>

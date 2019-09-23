@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="16" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14900">
+            <player-slot/>
+            <player-name>Coby Fleener, Ind TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-42</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 20-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 12-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 20-12</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 28-37</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot/>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 13-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-42</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr14901">
+            <player-slot/>
+            <player-name>Dwayne Allen, Ind TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-42</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 42-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, SF WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 35-38</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 42-7</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 35-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15041">
+            <player-slot/>
+            <player-name>Daniel Herron, Ind RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-42</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 13-25</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 24-26</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

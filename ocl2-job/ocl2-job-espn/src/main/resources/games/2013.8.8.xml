@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="8" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 30-31</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 13-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14184">
+            <player-slot/>
+            <player-name>Cecil Shorts, Jac WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 10-42</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 13-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 21-45</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 13-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14028">
+            <player-slot/>
+            <player-name>Stevan Ridley, NE RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 35-17</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 30-31</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr12576">
+            <player-slot/>
+            <player-name>Brandon LaFell, NE WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 30-31</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 7-15</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, Pit WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 18-21</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Det RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 31-30</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

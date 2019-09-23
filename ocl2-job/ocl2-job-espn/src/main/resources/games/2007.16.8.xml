@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="16" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, Cle K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 14-19</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 19-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 23-3</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 19-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 15-38</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9475">
+            <player-slot/>
+            <player-name>Ryan Grant, GB RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 7-35</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr3636">
+            <player-slot/>
+            <player-name>David Garrard, Jac QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 49-11</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 30-27</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 23-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr3593">
+            <player-slot/>
+            <player-name>Deion Branch, Sea WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-6</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 20-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 28-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 28-7</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 21-32</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 41-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 35-7</game-status>
+            <points>25</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="6" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-6</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 9-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11256">
+            <player-slot/>
+            <player-name>Felix Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 21-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 27-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3561">
+            <player-slot/>
+            <player-name>Jabar Gaffney, Den WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 20-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11754">
+            <player-slot/>
+            <player-name>BenJarvus Green-Ellis, NE RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 23-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 9-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 31-35</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot/>
+            <player-name>Ryan Mathews, SD RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, StL WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 20-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 17-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10482">
+            <player-slot/>
+            <player-name>Zach Miller, Oak TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 9-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Dal WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 21-24</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

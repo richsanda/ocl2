@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="7" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 36-22</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 22-36</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 36-22</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr445">
+            <player-slot/>
+            <player-name>Mark Brunell, Was QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 22-36</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 36-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wesley Welker, Mia WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 24-34</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 9-22</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, Pit K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 38-41</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 9-22</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8420">
+            <player-slot/>
+            <player-name>Carnell Williams, TB RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 23-21</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr3548">
+            <player-slot/>
+            <player-name>Javon Walker, Den WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 17-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 6-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 41-38</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 17-14</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 36-22</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

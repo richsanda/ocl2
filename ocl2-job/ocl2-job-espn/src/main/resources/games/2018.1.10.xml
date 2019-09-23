@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="1" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr16760">
+            <player-slot>QB</player-slot>
+            <player-name>Jimmy Garoppolo, SF QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 16-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18187">
+            <player-slot>RB</player-slot>
+            <player-name>Alvin Kamara, NO RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 40-48</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 24-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>L 15-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR/TE</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 34-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot>TE</player-slot>
+            <player-name>Benjamin Watson, NO TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 40-48</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot>D/ST</player-slot>
+            <player-name>Saints D/ST D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 40-48</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr18409">
+            <player-slot>K</player-slot>
+            <player-name>Harrison Butker, KC K</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>W 38-28</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 17-48</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18225">
+            <player-slot>RB</player-slot>
+            <player-name>Kareem Hunt, KC RB</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>W 38-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr18567">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Saquon Barkley, NYG RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>L 15-20</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 48-40</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr18306">
+            <player-slot>WR/TE</player-slot>
+            <player-name>JuJu Smith-Schuster, Pit WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>T 21-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18292">
+            <player-slot>TE</player-slot>
+            <player-name>George Kittle, SF TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 16-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 27-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot>K</player-slot>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 16-8</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

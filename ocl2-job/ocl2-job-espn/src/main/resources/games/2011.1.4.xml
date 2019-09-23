@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="1" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 34-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, TB RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 20-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 12-30</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr12561">
+            <player-slot/>
+            <player-name>Austin Collie, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 7-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14123">
+            <player-slot/>
+            <player-name>Alex Henery, Phi K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 31-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Phi QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 31-13</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Pit WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-35</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Wsh WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 28-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12473">
+            <player-slot/>
+            <player-name>Josh Freeman, TB QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 20-27</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, NO K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 34-42</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 20-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 13-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 23-20</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 14-28</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 7-41</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

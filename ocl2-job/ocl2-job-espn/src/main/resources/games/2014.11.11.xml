@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="11" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr14017">
+            <player-slot/>
+            <player-name>Shane Vereen, NYG RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 10-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 17-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 20-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 16-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 42-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 19-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 14-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 13-6</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 24-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 14-6</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 21-13</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, Ind RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-42</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15893">
+            <player-slot/>
+            <player-name>Andre Ellington, Ari RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 14-6</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 7-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-42</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

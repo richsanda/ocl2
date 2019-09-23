@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="14" team="3">
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 27-28</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr4601">
+            <player-slot/>
+            <player-name>Justin Gage, Ten WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4950">
+            <player-slot/>
+            <player-name>Earnest Graham, TB RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 14-28</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Benjamin Watson, NE TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 34-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2178">
+            <player-slot/>
+            <player-name>Jerry Porter, Oak WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 7-38</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Det QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 27-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 10-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 16-13</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 28-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 24-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10488">
+            <player-slot/>
+            <player-name>Sidney Rice, Min WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-7</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 23-17</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 6-37</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Cle QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 24-18</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4564">
+            <player-slot/>
+            <player-name>Shaun McDonald, Det WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 27-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 34-13</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

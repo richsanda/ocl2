@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="3" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17171">
+            <player-slot/>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 24-12</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 12-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot/>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 20-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 51-17</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 39-28</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 39-28</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15062">
+            <player-slot/>
+            <player-name>Travis Benjamin, SD WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot/>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 28-24</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 17-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 24-12</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 24-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot/>
+            <player-name>Cody Parkey, Phi K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 24-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, Den TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 24-12</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 26-0</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr16728">
+            <player-slot/>
+            <player-name>Teddy Bridgewater, Min QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 31-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 17-24</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

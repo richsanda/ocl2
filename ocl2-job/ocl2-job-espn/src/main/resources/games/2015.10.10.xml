@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="10" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 39-32</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, NE TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 27-26</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16724">
+            <player-slot/>
+            <player-name>Blake Bortles, Jax QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 22-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot/>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 14-47</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 13-29</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 39-32</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11467">
+            <player-slot/>
+            <player-name>Justin Forsett, Bal RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>L 20-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot/>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 26-27</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 13-37</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 16-18</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 19-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Pit RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-9</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17682">
+            <player-slot/>
+            <player-name>Devin Funchess, Car WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-10</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr17665">
+            <player-slot/>
+            <player-name>Dorial Green-Beckham, Ten WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 32-39</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

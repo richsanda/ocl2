@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="11" team="9">
+   <team>
+      <header>The Great Jaerbs Box Score</header>
+      <players>
+         <player id="plyr12549">
+            <player-slot/>
+            <player-name>Brandon Pettigrew, Det TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 27-37</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 13-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 41-20</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 23-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 28-41</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12503">
+            <player-slot/>
+            <player-name>Rashad Jennings, NYG RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 27-13</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 27-14</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 23-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 30-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Cle TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 20-41</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14012">
+            <player-slot/>
+            <player-name>Andy Dalton, Cin QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 41-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 13-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 20-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-37</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 30-27</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

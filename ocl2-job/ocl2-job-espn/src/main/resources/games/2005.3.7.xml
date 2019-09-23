@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="3" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr1669">
+            <player-slot/>
+            <player-name>Mike Vanderjagt, Ind K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 13-6</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1762">
+            <player-slot/>
+            <player-name>Daunte Culpepper, Min QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 33-16</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 24-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 20-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4529">
+            <player-slot/>
+            <player-name>Nate Burleson, Min WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 33-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 23-45</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 27-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1196">
+            <player-slot/>
+            <player-name>Corey Dillon, NE RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 23-20</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 37-12</game-status>
+            <points>40</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 27-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 31-27</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 13-6</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 16-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 31-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 31-27</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+</game>

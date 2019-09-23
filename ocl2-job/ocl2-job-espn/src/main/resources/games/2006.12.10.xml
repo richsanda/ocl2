@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="12" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 26-31</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 0-30</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1693">
+            <player-slot/>
+            <player-name>Jake Delhomme, Car QB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 13-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3784">
+            <player-slot/>
+            <player-name>Chester Taylor, Min RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-26</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 38-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 17-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 20-17</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 20-17</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr8449">
+            <player-slot/>
+            <player-name>Reggie Brown, Phi WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 21-45</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 24-34</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 38-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 30-0</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Bal K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 27-0</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 13-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 21-45</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 13-17</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

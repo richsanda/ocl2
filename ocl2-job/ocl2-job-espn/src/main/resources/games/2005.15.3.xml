@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="15" team="3">
+   <team>
+      <header>Bridgewater Raritan Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 26-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, SD QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 26-17</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-26</game-status>
+            <points>44</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 28-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 17-27</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2575">
+            <player-slot/>
+            <player-name>Michael Bennett, Min RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 3-18</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3591">
+            <player-slot/>
+            <player-name>Antonio Bryant, Cle WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 9-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2212">
+            <player-slot/>
+            <player-name>Reuben Droughns, Cle RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 9-7</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 7-35</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 24-28</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 10-9</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 27-17</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 41-17</game-status>
+            <points>51</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 24-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9387">
+            <player-slot/>
+            <player-name>Samkon Gado, GB RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 3-48</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 17-16</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

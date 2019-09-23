@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="9" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr17870">
+            <player-slot>QB</player-slot>
+            <player-name>Jacoby Brissett, Ind QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 20-14</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB</player-slot>
+            <player-name>Devonta Freeman*, Atl RB   O</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13587">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Ivory, Jax RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 23-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 17-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17650">
+            <player-slot>TE</player-slot>
+            <player-name>Tyler Kroft, Cin TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 7-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot>D/ST</player-slot>
+            <player-name>Giants D/ST D/ST</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 17-51</game-status>
+            <points>-10</points>
+         </player>
+         <player id="plyr12731">
+            <player-slot>K</player-slot>
+            <player-name>Ryan Succop, Ten K</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 23-20</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 30-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr18225">
+            <player-slot>RB</player-slot>
+            <player-name>Kareem Hunt, KC RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 17-28</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 28-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 10-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 23-51</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16504">
+            <player-slot>TE</player-slot>
+            <player-name>Jack Doyle, Ind TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 20-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot>D/ST</player-slot>
+            <player-name>Saints D/ST D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 30-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr18409">
+            <player-slot>K</player-slot>
+            <player-name>Harrison Butker, KC K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 17-28</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

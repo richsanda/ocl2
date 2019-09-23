@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="11" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-42</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 17-30</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 24-30</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-42</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14900">
+            <player-slot>TE</player-slot>
+            <player-name>Coby Fleener, NO TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-42</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 16-12</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 42-24</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-27</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 30-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17600">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jamison Crowder, Wsh WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 42-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot>TE</player-slot>
+            <player-name>Martellus Bennett, GB TE</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-42</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot>D/ST</player-slot>
+            <player-name>Lions D/ST D/ST</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 26-19</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr15965">
+            <player-slot>K</player-slot>
+            <player-name>Dustin Hopkins, Wsh K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 42-24</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

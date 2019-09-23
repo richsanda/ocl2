@@ -1,0 +1,141 @@
+<game season="2014" scoringPeriod="8" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 9-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 34-51</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr15826">
+            <player-slot/>
+            <player-name>Giovani Bernard, Cin RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9329">
+            <player-slot/>
+            <player-name>Nick Novak, SD K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 21-35</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 23-44</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 22-21</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 30-16</game-status>
+            <points>37</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 22-21</game-status>
+            <points>25</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 17-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, SF WR</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>0</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot/>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 20-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 13-9</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 21-35</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 51-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 24-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 43-23</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

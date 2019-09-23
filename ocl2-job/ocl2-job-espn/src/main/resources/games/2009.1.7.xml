@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="1" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 7-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 15-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 21-15</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 38-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr658">
+            <player-slot/>
+            <player-name>Isaac Bruce, SF WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 20-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 20-16</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 45-27</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 21-15</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 15-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 15-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 10-38</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 34-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 7-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 34-21</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

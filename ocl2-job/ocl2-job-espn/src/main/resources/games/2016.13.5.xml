@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="13" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14876">
+            <player-slot>QB</player-slot>
+            <player-name>Ryan Tannehill, Mia QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 6-38</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17921">
+            <player-slot>RB</player-slot>
+            <player-name>Wendell Smallwood, Phi RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 14-32</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 26-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>WR</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14922">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mohamed Sanu, Atl WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 28-29</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 29-28</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot>D/ST</player-slot>
+            <player-name>Giants D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 14-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 26-10</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 13-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17919">
+            <player-slot>RB</player-slot>
+            <player-name>Jordan Howard, Chi RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 26-6</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr16020">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Spencer Ware, KC RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 29-28</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot>WR</player-slot>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 17-15</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 28-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 28-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 21-28</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 13-28</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

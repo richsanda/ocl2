@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="13" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 17-30</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-22</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 10-6</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 48-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11264">
+            <player-slot/>
+            <player-name>Dustin Keller, NYJ TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Atl K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 22-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3561">
+            <player-slot/>
+            <player-name>Jabar Gaffney, NE WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 10-33</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 10-6</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NO TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 10-47</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 34-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 48-20</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 34-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 34-9</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

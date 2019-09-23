@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="1" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 41-10</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 20-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 14-15</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3548">
+            <player-slot/>
+            <player-name>Javon Walker, Den WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 15-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 38-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-27</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Benjamin Watson, NE TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 38-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 20-6</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr8420">
+            <player-slot/>
+            <player-name>Carnell Williams, TB RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 6-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1432">
+            <player-slot/>
+            <player-name>Ahman Green, Hou RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 20-3</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 17-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Det QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 36-21</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr286">
+            <player-slot/>
+            <player-name>Jason Hanson, Det K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 36-21</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 36-21</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

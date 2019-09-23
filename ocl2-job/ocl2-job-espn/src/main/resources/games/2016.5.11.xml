@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="5" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot>RB</player-slot>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15755">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Fozzy Whittaker, Car RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 23-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Steve Smith Sr., Bal WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 10-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, SD TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 31-34</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-23</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr17795">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Wentz, Phi QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 30-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 14-28</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 23-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot>TE</player-slot>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 28-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 14-28</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

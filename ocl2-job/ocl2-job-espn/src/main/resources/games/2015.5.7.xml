@@ -1,0 +1,141 @@
+<game season="2015" scoringPeriod="5" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Den TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 16-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 38-31</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-39</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>16</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 16-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 24-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 18-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-24</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 17-18</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot/>
+            <player-name>Allen Robinson, Jax WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 31-38</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot/>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 25-19</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot/>
+            <player-name>Todd Gurley, StL RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 10-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 14-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-20</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

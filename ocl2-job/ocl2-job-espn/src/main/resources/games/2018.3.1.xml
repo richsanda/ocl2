@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="3" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 30-27</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>W 35-23</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr15826">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Giovani Bernard, Cin RB   Q</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 21-31</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 17-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>W 35-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, GB TE   Q</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 17-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jets D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 17-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Min K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 6-27</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 31-21</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot>RB</player-slot>
+            <player-name>Adrian Peterson, Wsh RB   Q</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 31-17</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr15966">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Thompson, Wsh RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 31-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17668">
+            <player-slot>WR</player-slot>
+            <player-name>Nelson Agholor, Phi WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 20-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Robinson, Chi WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 16-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>TE</player-slot>
+            <player-name>Evan Engram*, NYG TE   O</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot>D/ST</player-slot>
+            <player-name>Browns D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 21-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 26-10</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

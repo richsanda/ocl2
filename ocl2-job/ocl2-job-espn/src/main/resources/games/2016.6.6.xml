@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="6" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 10-26</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 26-23</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr17678">
+            <player-slot>RB/WR</player-slot>
+            <player-name>T.J. Yeldon, Jax RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 26-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Martellus Bennett, GB TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 35-17</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 20-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17746">
+            <player-slot>K</player-slot>
+            <player-name>Josh Lambo, SD K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 21-13</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr5526">
+            <player-slot>QB</player-slot>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-23</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, SD RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 21-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 3-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 26-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot>TE</player-slot>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 38-41</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 35-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-27</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

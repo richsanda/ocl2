@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="16" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr9703">
+            <player-slot/>
+            <player-name>Leon Washington, NYJ RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 3-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5538">
+            <player-slot/>
+            <player-name>Lee Evans, Buf WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 30-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2149">
+            <player-slot/>
+            <player-name>Chad Pennington, Mia QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 38-31</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr10713">
+            <player-slot/>
+            <player-name>Pierre Thomas, NO RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 42-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 24-33</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr3591">
+            <player-slot/>
+            <player-name>Antonio Bryant, TB WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 24-41</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 47-7</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 20-17</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 42-7</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 24-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 30-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr43">
+            <player-slot/>
+            <player-name>John Carney, NYG K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 34-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 34-28</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, NYJ RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 3-13</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

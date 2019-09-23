@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="7" team="8">
+   <team>
+      <header>Inman Igloos Box Score</header>
+      <players>
+         <player id="plyr478">
+            <player-slot/>
+            <player-name>Trent Green, KC QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 30-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1175">
+            <player-slot/>
+            <player-name>Warrick Dunn, Atl RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-14</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 38-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, GB K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 20-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8510">
+            <player-slot/>
+            <player-name>Brandon Jones, Ten WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 10-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 10-6</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 13-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 52-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 52-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr866">
+            <player-slot/>
+            <player-name>Rod Smith, Den WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2320">
+            <player-slot/>
+            <player-name>Mike Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr276">
+            <player-slot/>
+            <player-name>Keenan McCardell, SD WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1177">
+            <player-slot/>
+            <player-name>Jake Plummer, Den QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1432">
+            <player-slot/>
+            <player-name>Ahman Green, GB RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

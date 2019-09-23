@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="11" team="9">
+   <team>
+      <header>Cramalama Swiss CakeRolls Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 13-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot/>
+            <player-name>Cairo Santos, KC K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 33-3</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, NE WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17505">
+            <player-slot/>
+            <player-name>Jeremy Langford, Chi RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 15-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 30-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr16786">
+            <player-slot/>
+            <player-name>Richard Rodgers, GB TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 30-13</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 18-13</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-17</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 24-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 45-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 30-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Dal RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 24-14</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-31</game-status>
+            <points>28</points>
+         </player>
+      </players>
+   </team>
+</game>

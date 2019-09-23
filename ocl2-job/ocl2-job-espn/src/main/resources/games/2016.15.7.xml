@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="15" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-19</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 20-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15994">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Theo Riddick, Det RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 6-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR</player-slot>
+            <player-name>Tyrell Williams, SD WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-19</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 24-3</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13231">
+            <player-slot>TE</player-slot>
+            <player-name>Dennis Pitta, Bal TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-26</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 24-3</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 34-6</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 48-41</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr17739">
+            <player-slot>RB</player-slot>
+            <player-name>Thomas Rawls, Sea RB</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 24-3</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17919">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jordan Howard, Chi RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 27-30</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot>WR</player-slot>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 26-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 20-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14904">
+            <player-slot>TE</player-slot>
+            <player-name>Ladarius Green, Pit TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 24-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bills D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot>K</player-slot>
+            <player-name>Cairo Santos, KC K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 17-19</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

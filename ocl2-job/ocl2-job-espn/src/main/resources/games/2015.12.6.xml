@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="12" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr17678">
+            <player-slot/>
+            <player-name>T.J. Yeldon, Jax RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 25-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 24-6</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 14-33</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 12-25</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 24-30</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 13-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Dal RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 14-33</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 19-13</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 12-25</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 6-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot/>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 33-14</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 30-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jax TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 25-31</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 39-30</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-20</game-status>
+            <points>27</points>
+         </player>
+      </players>
+   </team>
+</game>

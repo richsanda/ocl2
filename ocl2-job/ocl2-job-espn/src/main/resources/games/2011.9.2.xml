@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="9" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr12731">
+            <player-slot/>
+            <player-name>Ryan Succop, KC K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 3-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 11-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 31-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 24-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 24-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, NO TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-16</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Dal RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 23-13</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 45-38</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 31-7</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4582">
+            <player-slot/>
+            <player-name>Brandon Lloyd, StL WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 13-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Den RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 38-24</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-12</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Mia WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 31-3</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-16</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

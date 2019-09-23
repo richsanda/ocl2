@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="4" team="3">
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Cle RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 16-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13228">
+            <player-slot/>
+            <player-name>Jermaine Gresham, Cin TE</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 27-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10544">
+            <player-slot/>
+            <player-name>Michael Bush, Chi RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 34-18</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 37-20</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 37-6</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 34-18</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 37-6</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 20-37</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 34-18</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14123">
+            <player-slot/>
+            <player-name>Alex Henery, Phi K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 19-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 37-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 28-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 52-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 18-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-20</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 38-14</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="14" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 24-14</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr13536">
+            <player-slot/>
+            <player-name>Joique Bell, Det RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-17</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot/>
+            <player-name>Cody Parkey, Phi K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 14-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot/>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 41-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 42-21</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot/>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 14-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 43-37</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14912">
+            <player-slot/>
+            <player-name>Alshon Jeffery, Chi WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 28-41</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 13-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jac TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 13-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 21-42</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 17-34</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 24-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15364">
+            <player-slot/>
+            <player-name>Jonas Gray, NE RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-14</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-14</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

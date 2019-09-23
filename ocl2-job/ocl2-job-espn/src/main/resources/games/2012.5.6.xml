@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="5" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr13958">
+            <player-slot/>
+            <player-name>Andrew Hawkins, Cin WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 13-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 31-24</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 24-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 31-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, NO RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 31-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 24-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Mia RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 17-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 41-3</game-status>
+            <points>28</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Christ Punchers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Hou K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13231">
+            <player-slot/>
+            <player-name>Dennis Pitta, Bal TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 9-6</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, SF WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 45-3</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 41-27</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 31-24</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 24-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 3-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 41-27</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

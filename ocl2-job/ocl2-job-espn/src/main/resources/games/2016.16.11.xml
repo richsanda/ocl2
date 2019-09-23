@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="16" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 41-3</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot>RB</player-slot>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-33</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 41-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 33-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Steve Smith Sr., Bal WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 27-31</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, SD TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 17-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-33</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-33</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 33-16</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB</player-slot>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 31-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr18093">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Kenneth Farrow, SD RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 19-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17611">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Ty Montgomery, GB WR, RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 38-25</game-status>
+            <points>3</points>
+         </player>
+         <player id="">
+            <player-slot>TE</player-slot>
+            <player-name/>
+            <link/>
+            <opponent>   </opponent>
+            <game-status/>
+            <points>--</points>
+         </player>
+         <player id="plyr60012">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chiefs D/ST D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 33-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot>K</player-slot>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 33-25</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+</game>

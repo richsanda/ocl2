@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="6" team="2">
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 34-3</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Car WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 3-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 27-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Sea RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 17-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 40-26</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 31-3</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 29-28</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 17-19</game-status>
+            <points>27</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 3-27</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 27-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 20-22</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 20-22</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 3-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 10-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 27-17</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 26-40</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+</game>

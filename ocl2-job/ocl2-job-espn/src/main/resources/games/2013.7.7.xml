@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="7" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14900">
+            <player-slot/>
+            <player-name>Coby Fleener, Ind TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 39-33</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 19-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 24-27</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot/>
+            <player-name>Ryan Mathews, SD RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 24-6</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 41-45</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 27-30</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 16-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 39-33</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Cle TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 13-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 45-41</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-13</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 30-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 39-33</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

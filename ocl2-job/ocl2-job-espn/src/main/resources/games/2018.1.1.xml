@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="1" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB   Q</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>T 21-21</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 33-13</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 3-47</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR   Q</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 24-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 33-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, GB TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 24-23</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot>D/ST</player-slot>
+            <player-name>Lions D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 17-48</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18178">
+            <player-slot>K</player-slot>
+            <player-name>Jake Elliott, Phi K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 18-12</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB   Q</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 24-23</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr16913">
+            <player-slot>RB</player-slot>
+            <player-name>James White, NE RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr18236">
+            <player-slot>RB/WR</player-slot>
+            <player-name>James Conner, Pit RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>T 21-21</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 12-18</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 24-23</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr16504">
+            <player-slot>TE</player-slot>
+            <player-name>Jack Doyle, Ind TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 23-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 47-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 24-23</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

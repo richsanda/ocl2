@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="12" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, Phi WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 26-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 31-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 0-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 45-24</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr12499">
+            <player-slot/>
+            <player-name>Mike Goodson, Car RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 23-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr8520">
+            <player-slot/>
+            <player-name>Kyle Orton, Den QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 33-36</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 17-33</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 20-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12549">
+            <player-slot/>
+            <player-name>Brandon Pettigrew, Det TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 24-45</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 31-26</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 14-36</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 14-36</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 20-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 24-20</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

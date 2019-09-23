@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="12" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, SF K</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 17-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 27-34</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 21-13</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, SF WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 17-13</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot/>
+            <player-name>Ryan Mathews, Phi RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 43-24</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot/>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 24-43</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 3-38</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17133">
+            <player-slot/>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 26-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr14017">
+            <player-slot/>
+            <player-name>Shane Vereen, NYG RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 28-31</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 19-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, NE TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-9</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 24-26</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 3-19</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12556">
+            <player-slot/>
+            <player-name>Kenny Britt, StL WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 24-27</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

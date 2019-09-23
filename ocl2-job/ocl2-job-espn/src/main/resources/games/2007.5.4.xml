@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="5" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 3-41</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 34-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 9-7</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Den RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 3-41</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 17-34</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 9-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-17</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 21-0</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 21-0</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 22-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 22-19</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Chi RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 3-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 7-17</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

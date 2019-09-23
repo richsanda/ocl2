@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="9" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-17</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 21-33</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 21-33</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 30-33</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 38-7</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-30</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr4532">
+            <player-slot/>
+            <player-name>Kevin Curtis, Phi WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-38</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 44-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-35</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Cle QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-30</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4564">
+            <player-slot/>
+            <player-name>Shaun McDonald, Det WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 44-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-20</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

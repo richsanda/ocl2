@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="11" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 6-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 32-7</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 28-6</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr12705">
+            <player-slot/>
+            <player-name>Brandon Myers, Oak TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 17-38</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Den RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 24-59</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 24-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot/>
+            <player-name>Greg Zuerlein, StL K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 13-27</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 38-17</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 17-38</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 59-24</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 23-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12489">
+            <player-slot/>
+            <player-name>Donald Brown, Ind RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 24-59</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 38-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Mia RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 7-32</game-status>
+            <points>-2</points>
+         </player>
+      </players>
+   </team>
+</game>

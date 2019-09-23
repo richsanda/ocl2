@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="5" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr5526">
+            <player-slot>QB</player-slot>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 16-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, SD RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 31-34</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 13-31</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 23-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15786">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tavon Austin, LA WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 19-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot>TE</player-slot>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 10-16</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr17814">
+            <player-slot>QB</player-slot>
+            <player-name>Paxton Lynch, Den QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley, LA RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 19-30</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 30-19</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 17-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 29-23</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 17-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot>K</player-slot>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

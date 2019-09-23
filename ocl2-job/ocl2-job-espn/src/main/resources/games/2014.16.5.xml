@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="16" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14912">
+            <player-slot/>
+            <player-name>Alshon Jeffery, Chi WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 14-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 35-38</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jac TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 21-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 37-28</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 3-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 28-37</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15364">
+            <player-slot/>
+            <player-name>Jonas Gray, NE RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 17-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 17-16</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr15885">
+            <player-slot/>
+            <player-name>Charles Johnson, Min WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 35-37</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 30-14</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot/>
+            <player-name>Allen Hurns, Jac WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 21-13</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, Atl RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 30-14</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-13</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 35-6</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="15" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 30-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, Den TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 27-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 17-40</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Pit RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 34-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot/>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 40-17</game-status>
+            <points>44</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-35</game-status>
+            <points>45</points>
+         </player>
+         <player id="plyr17665">
+            <player-slot/>
+            <player-name>Dorial Green-Beckham, Ten WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-33</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr17616">
+            <player-slot/>
+            <player-name>Javorius Allen, Bal RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 14-34</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 16-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 16-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot/>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 20-30</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr17384">
+            <player-slot/>
+            <player-name>Charcandrick West, KC RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 34-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16725">
+            <player-slot/>
+            <player-name>Sammy Watkins, Buf WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 25-35</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr14879">
+            <player-slot/>
+            <player-name>Brock Osweiler, Hou QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 16-10</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot/>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-33</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="3" team="9">
+   <team>
+      <header>Cramalama Swiss CakeRolls Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 12-6</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 28-39</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, SF WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 7-47</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot/>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 7-47</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 26-0</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 38-28</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 51-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 12-24</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 12-24</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 19-9</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot/>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 27-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 28-38</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 12-6</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 35-33</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot/>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 33-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 51-17</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

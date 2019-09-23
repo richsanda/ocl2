@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="9" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 20-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 31-17</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 10-28</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 7-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 41-21</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr4529">
+            <player-slot/>
+            <player-name>Nate Burleson, Sea WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 32-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 31-17</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NO TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 30-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5662">
+            <player-slot/>
+            <player-name>Josh Scobee, Jac K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 24-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 21-41</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 28-38</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Sea WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 32-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, Cin WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 17-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 20-32</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11329">
+            <player-slot/>
+            <player-name>Mario Manningham, NYG WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 20-21</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

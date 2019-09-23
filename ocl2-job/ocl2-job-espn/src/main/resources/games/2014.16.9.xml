@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="16" team="9">
+   <team>
+      <header>Ruckus Tins Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Phi RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 20-3</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 20-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 38-35</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-42</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 35-6</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 20-3</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 16-17</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 20-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 25-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 42-7</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 3-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Mia RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 37-35</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 17-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 28-37</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 17-16</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="14" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 21-42</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 38-7</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 44-20</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 34-14</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 19-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 7-41</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-7</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 7-27</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 13-34</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 34-14</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr2401">
+            <player-slot/>
+            <player-name>Aaron Stecker, NO RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 34-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 38-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 16-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 7-41</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 37-6</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

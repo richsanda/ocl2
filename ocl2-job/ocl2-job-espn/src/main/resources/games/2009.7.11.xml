@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="7" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 27-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-3</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 10-45</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 27-17</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 10-45</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 35-7</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 34-46</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 37-21</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 27-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10495">
+            <player-slot/>
+            <player-name>Steve Smith, NYG WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 17-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 37-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 24-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 17-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 17-27</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr10605">
+            <player-slot/>
+            <player-name>Brent Celek, Phi TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 27-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 46-34</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

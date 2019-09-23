@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="13" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 26-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot>RB</player-slot>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 7-40</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 26-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 28-29</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Steve Smith Sr., Bal WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-6</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, SD TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 21-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-10</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr4459">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 31-23</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 28-21</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15994">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Theo Riddick, Det RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 28-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR</player-slot>
+            <player-name>Tyrell Williams, SD WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 21-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 40-7</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13231">
+            <player-slot>TE</player-slot>
+            <player-name>Dennis Pitta, Bal TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-6</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 40-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 41-10</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="13" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 28-35</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11373">
+            <player-slot/>
+            <player-name>Jacob Tamme, Atl TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 19-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 20-26</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot/>
+            <player-name>Alshon Jeffery, Chi WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 20-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 37-3</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 20-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 28-35</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-3</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 3-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16724">
+            <player-slot/>
+            <player-name>Blake Bortles, Jax QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 39-42</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot/>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 38-41</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 17-3</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-3</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 27-23</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot/>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 20-23</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+</game>

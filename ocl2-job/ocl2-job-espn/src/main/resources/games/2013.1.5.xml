@@ -1,0 +1,141 @@
+<game season="2013" scoringPeriod="1" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14153">
+            <player-slot/>
+            <player-name>Denarius Moore, Oak WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-21</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 49-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 27-49</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 49-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 28-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 17-18</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 31-28</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 28-34</game-status>
+            <points>26</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 34-28</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Cle TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 10-23</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 9-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11543">
+            <player-slot/>
+            <player-name>Garrett Hartley, FA K</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>12</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 28-34</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 34-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 18-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 21-17</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

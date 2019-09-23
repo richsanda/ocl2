@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="14" team="9">
+   <team>
+      <header>Ruckus Tins Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Phi RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 14-24</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 43-37</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 14-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 25-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 24-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Ind WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 25-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 43-37</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 30-24</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 27-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot/>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 0-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 14-17</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 42-21</game-status>
+            <points>43</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 24-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot/>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 24-25</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 25-24</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+</game>

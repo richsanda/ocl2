@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="13" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 31-38</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr5662">
+            <player-slot/>
+            <player-name>Josh Scobee, Jac K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 20-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 10-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 35-3</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 24-6</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ind RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 35-3</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 17-10</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 38-31</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Ferguson Box Score</header>
+      <players>
+         <player id="plyr4559">
+            <player-slot/>
+            <player-name>Domanick Davis, Hou RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 15-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, NE K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 16-3</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 35-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 10-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 17-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 38-31</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr1485">
+            <player-slot/>
+            <player-name>Joe Jurevicius, Sea WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 42-0</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 6-24</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

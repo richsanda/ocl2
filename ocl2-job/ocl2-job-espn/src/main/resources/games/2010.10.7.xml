@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="10" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Hou K</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 24-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12516">
+            <player-slot/>
+            <player-name>Knowshon Moreno, Den RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 49-29</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 20-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Cin WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 26-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 24-31</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Mia WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 29-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 23-20</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 21-26</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8425">
+            <player-slot/>
+            <player-name>Mike Williams, Sea WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 36-18</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 59-28</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, StL WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 20-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr12482">
+            <player-slot/>
+            <player-name>Mark Sanchez, NYJ QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 26-20</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 29-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, SF K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 23-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 31-24</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

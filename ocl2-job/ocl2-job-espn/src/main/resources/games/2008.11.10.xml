@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="11" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 33-27</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NO TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 30-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 22-31</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 30-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>T 13-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 14-10</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>T 13-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 24-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 24-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>T 13-13</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 24-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr4532">
+            <player-slot/>
+            <player-name>Kevin Curtis, Phi WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>T 13-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 29-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 29-27</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

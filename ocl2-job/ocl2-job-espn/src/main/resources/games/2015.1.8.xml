@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="1" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-20</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot/>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 13-33</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-26</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot/>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 19-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 27-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 27-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-27</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Brasky's Barnidge Box Score</header>
+      <players>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, SF WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 20-3</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot/>
+            <player-name>Melvin Gordon, SD RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 33-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 31-34</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-9</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-26</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 3-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 13-19</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 31-23</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="7" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr9622">
+            <player-slot/>
+            <player-name>Chad Jackson, NE WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 28-6</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYG K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 36-22</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 9-22</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 7-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-23</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 22-36</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 28-6</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr5566">
+            <player-slot/>
+            <player-name>Tatum Bell, Den RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 17-7</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, Jac RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 7-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr3593">
+            <player-slot/>
+            <player-name>Deion Branch, Sea WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 27-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 34-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3784">
+            <player-slot/>
+            <player-name>Chester Taylor, Min RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 31-13</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 17-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, Oak WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 22-9</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr4562">
+            <player-slot/>
+            <player-name>George Wrighster, Jac TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 7-27</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="15" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 23-30</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 41-14</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 20-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot/>
+            <player-name>Ryan Mathews, SD RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 34-14</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr286">
+            <player-slot/>
+            <player-name>Jason Hanson, Det K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 28-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 28-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Chi RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 14-38</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, NO TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 42-20</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-15</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 14-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 14-19</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 13-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 38-14</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 28-27</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 23-41</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-28</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+</game>

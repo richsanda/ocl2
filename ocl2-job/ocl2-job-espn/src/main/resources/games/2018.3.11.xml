@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="3" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 10-26</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 22-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr18589">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Sony Michel, NE RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 10-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 6-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17690">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jesse James, Pit TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 30-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 6-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 20-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17438">
+            <player-slot>K</player-slot>
+            <player-name>Jason Myers, NYJ K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 17-21</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr18210">
+            <player-slot>QB</player-slot>
+            <player-name>Patrick Mahomes, KC QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 38-27</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr17689">
+            <player-slot>RB</player-slot>
+            <player-name>Tevin Coleman, Atl RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 37-43</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR   Q</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 22-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 38-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 27-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE   Q</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 10-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot>D/ST</player-slot>
+            <player-name>Rams D/ST D/ST</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>W 35-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15091">
+            <player-slot>K</player-slot>
+            <player-name>Randy Bullock, Cin K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 21-31</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

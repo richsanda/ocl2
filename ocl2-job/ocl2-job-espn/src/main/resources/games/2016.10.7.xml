@@ -1,0 +1,141 @@
+<game season="2016" scoringPeriod="10" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 24-31</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 24-31</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 36-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot>WR</player-slot>
+            <player-name>Brandon Marshall, NYG WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 21-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 31-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot>TE</player-slot>
+            <player-name>Julius Thomas, Mia TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 31-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 31-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>--</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 15-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16783">
+            <player-slot>RB</player-slot>
+            <player-name>Terrance West, Bal RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 28-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17908">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devontae Booker, Den RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 25-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 21-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17758">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Quincy Enunwa, NYJ WR</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>L 6-9</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr12699">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Miller, Chi TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 10-36</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60012">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chiefs D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 20-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 25-47</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

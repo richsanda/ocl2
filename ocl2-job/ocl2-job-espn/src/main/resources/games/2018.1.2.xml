@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="1" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr18246">
+            <player-slot>QB</player-slot>
+            <player-name>Deshaun Watson, Hou QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 20-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 6-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman, Atl RB   Q</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 12-18</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 23-34</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14402">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Chris Hogan, NE WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>T 21-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot>D/ST</player-slot>
+            <player-name>Titans D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 20-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8461">
+            <player-slot>K</player-slot>
+            <player-name>Mike Nugent, Oak K</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 13-33</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 16-8</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB</player-slot>
+            <player-name>Jay Ajayi, Phi RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 18-12</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Adrian Peterson, Wsh RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-6</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot>WR</player-slot>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>T 21-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Robinson, Chi WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 23-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>TE</player-slot>
+            <player-name>Evan Engram, NYG TE</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>L 15-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 17-48</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="1" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, Phi WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 17-16</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14123">
+            <player-slot/>
+            <player-name>Alex Henery, Phi K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 17-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 22-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 22-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 48-28</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 27-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr14028">
+            <player-slot/>
+            <player-name>Stevan Ridley, NE RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-13</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 30-10</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr14900">
+            <player-slot/>
+            <player-name>Coby Fleener, Ind TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 21-41</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 40-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 24-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 28-48</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Pit WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 19-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 40-32</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 28-48</game-status>
+            <points>-8</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, Den WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 31-19</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="7" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 17-20</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 9-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13587">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Ivory, Jax RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-33</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 9-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Martellus Bennett, GB TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 26-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 27-16</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 21-10</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17746">
+            <player-slot>K</player-slot>
+            <player-name>Josh Lambo, SD K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 33-30</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 21-27</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr16020">
+            <player-slot>RB</player-slot>
+            <player-name>Spencer Ware, KC RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 27-21</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15855">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christine Michael, GB RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 26-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot>WR</player-slot>
+            <player-name>Allen Robinson, Jax WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-17</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 21-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 16-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot>K</player-slot>
+            <player-name>Cairo Santos, KC K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 27-21</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

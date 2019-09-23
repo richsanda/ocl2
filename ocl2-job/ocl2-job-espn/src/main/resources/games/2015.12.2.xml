@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="12" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 7-31</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Stevie Johnson, SD WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 31-25</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 13-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 14-45</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17682">
+            <player-slot/>
+            <player-name>Devin Funchess, Car WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 33-14</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 25-12</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 33-14</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 39-30</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 14-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 39-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 14-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11364">
+            <player-slot/>
+            <player-name>Gary Barnidge, Cle TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 27-33</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot/>
+            <player-name>Brandin Cooks, NO WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 6-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 20-10</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr13587">
+            <player-slot/>
+            <player-name>Chris Ivory, Jax RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 25-31</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

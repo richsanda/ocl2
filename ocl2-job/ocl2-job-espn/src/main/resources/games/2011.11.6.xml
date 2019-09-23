@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="11" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 34-3</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 23-7</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 35-49</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr3582">
+            <player-slot/>
+            <player-name>Maurice Morris, Det RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 49-35</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Mia RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 35-8</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Oak QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 27-21</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYJ WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 13-17</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 23-17</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 8-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13553">
+            <player-slot/>
+            <player-name>Victor Cruz, NYG WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 10-17</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, Buf TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 8-35</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 17-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 13-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9589">
+            <player-slot/>
+            <player-name>Vince Young, Phi QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 17-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 35-26</game-status>
+            <points>28</points>
+         </player>
+      </players>
+   </team>
+</game>

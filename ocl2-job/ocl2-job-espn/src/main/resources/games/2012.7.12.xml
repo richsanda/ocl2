@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="7" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 28-35</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14900">
+            <player-slot/>
+            <player-name>Coby Fleener, Ind TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 34-35</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14055">
+            <player-slot/>
+            <player-name>Alex Green, GB RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 30-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 17-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot/>
+            <player-name>Blair Walsh, Min K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 21-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Pit WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 24-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-27</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 19-14</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 30-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 19-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 6-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 6-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4582">
+            <player-slot/>
+            <player-name>Brandon Lloyd, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 29-26</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr12705">
+            <player-slot/>
+            <player-name>Brandon Myers, Oak TE</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 26-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 13-7</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

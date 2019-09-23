@@ -1,0 +1,141 @@
+<game season="2014" scoringPeriod="9" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot/>
+            <player-name>Cody Parkey, Phi K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 31-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot/>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot/>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 10-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 17-28</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16749">
+            <player-slot/>
+            <player-name>Charles Sims, TB RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 17-22</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 43-23</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot/>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 31-21</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr16889">
+            <player-slot/>
+            <player-name>Andre Williams, NYG RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 24-40</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14901">
+            <player-slot/>
+            <player-name>Dwayne Allen, Ind TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 40-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 17-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot/>
+            <player-name>Brandin Cooks, NO WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 28-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 0-37</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 23-43</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

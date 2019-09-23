@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="12" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 26-31</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 13-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 14-5</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 13-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17600">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jamison Crowder, Wsh WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 26-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 22-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot>D/ST</player-slot>
+            <player-name>Lions D/ST D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 16-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15965">
+            <player-slot>K</player-slot>
+            <player-name>Dustin Hopkins, Wsh K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 26-31</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr4459">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 19-38</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 14-5</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15994">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Theo Riddick, Det RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 16-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR</player-slot>
+            <player-name>Tyrell Williams, SD WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 21-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 5-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13231">
+            <player-slot>TE</player-slot>
+            <player-name>Dennis Pitta, Bal TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 19-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 5-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 7-28</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,141 @@
+<game season="2016" scoringPeriod="9" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 30-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot>RB</player-slot>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-28</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17658">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Duke Johnson Jr., Cle RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 10-35</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17912">
+            <player-slot>WR</player-slot>
+            <player-name>Tajae Sharpe, Ten WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 35-43</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 19-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16504">
+            <player-slot>TE</player-slot>
+            <player-name>Jack Doyle, Ind TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 31-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17746">
+            <player-slot>K</player-slot>
+            <player-name>Josh Lambo, SD K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 43-35</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 22-16</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley, LA RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 25-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>6</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 31-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 16-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cowboys D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 35-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15918">
+            <player-slot>K</player-slot>
+            <player-name>Caleb Sturgis, Phi K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-28</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

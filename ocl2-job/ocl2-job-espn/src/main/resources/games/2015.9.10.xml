@@ -1,0 +1,141 @@
+<game season="2015" scoringPeriod="9" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 35-38</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12576">
+            <player-slot/>
+            <player-name>Brandon LaFell, Cin WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 19-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot/>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 28-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 24-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 29-37</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 16-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot/>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 32-18</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 18-32</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 28-34</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jax D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 23-28</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 24-27</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jax TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 23-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15072">
+            <player-slot/>
+            <player-name>Marvin Jones, Det WR</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>7</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 22-19</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 28-23</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

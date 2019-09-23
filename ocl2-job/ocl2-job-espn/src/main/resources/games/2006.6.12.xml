@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="6" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 22-25</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-14</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 30-28</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 30-28</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 20-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 19-48</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 23-21</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr941">
+            <player-slot/>
+            <player-name>Amani Toomer, NYG WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-14</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2489">
+            <player-slot/>
+            <player-name>Rian Lindell, Buf K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 22-25</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 25-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr393">
+            <player-slot/>
+            <player-name>Drew Bledsoe, Dal QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-6</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 48-19</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 48-19</game-status>
+            <points>37</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-14</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

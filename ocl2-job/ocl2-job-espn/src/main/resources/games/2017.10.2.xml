@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="10" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr18268">
+            <player-slot>QB</player-slot>
+            <player-name>C.J. Beathard, SF QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 31-21</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB</player-slot>
+            <player-name>Devonta Freeman*, Atl RB   O</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-7</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15952">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Mike Gillislee, NE RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot>WR</player-slot>
+            <player-name>Danny Amendola, NE WR   Q</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17650">
+            <player-slot>TE</player-slot>
+            <player-name>Tyler Kroft, Cin TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 20-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot>D/ST</player-slot>
+            <player-name>Giants D/ST D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr12731">
+            <player-slot>K</player-slot>
+            <player-name>Ryan Succop, Ten K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 30-38</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>L 7-33</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15880">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Robert Woods*, LAR WR   O</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 33-7</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR   Q</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>L 7-33</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15072">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Marvin Jones Jr., Det WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 38-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jaguars D/ST D/ST</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>W 20-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 20-17</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="1" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 17-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 20-6</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 9-6</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 26-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 19-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 10-18</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 28-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 17-28</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 28-17</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 16-19</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 6-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 6-9</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 21-26</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 17-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 10-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 23-10</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

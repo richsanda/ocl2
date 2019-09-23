@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="8" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 36-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot/>
+            <player-name>Alshon Jeffery, Chi WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 20-23</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 10-29</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 16-10</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-45</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 49-52</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot/>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-45</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 36-7</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11788">
+            <player-slot/>
+            <player-name>Danny Woodhead, SD RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 26-29</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 34-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Benjamin Watson, Bal TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 29-26</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, NYG K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 49-52</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 34-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 29-10</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+</game>

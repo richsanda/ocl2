@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="15" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-51</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 10-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 20-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Bal K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 16-22</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 14-33</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 6-10</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 16-22</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Den RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 13-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 8-0</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 31-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 6-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 16-22</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 20-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 13-20</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="13" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 24-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 23-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 23-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13935">
+            <player-slot/>
+            <player-name>Danario Alexander, SD WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 13-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 6-7</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14028">
+            <player-slot/>
+            <player-name>Stevan Ridley, NE RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 23-13</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 23-31</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 23-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 38-33</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 13-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 31-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 17-16</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, Den WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 31-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 18-34</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="11" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr17134">
+            <player-slot/>
+            <player-name>Alfred Blue, Hou RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 23-7</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14901">
+            <player-slot/>
+            <player-name>Dwayne Allen, Ind TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-42</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 20-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot/>
+            <player-name>Brandin Cooks, NO WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 13-6</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Buf K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 9-22</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 42-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 9-22</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 24-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Wsh D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 7-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, Chi TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 21-13</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4245">
+            <player-slot/>
+            <player-name>Billy Cundiff, Cle K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 7-23</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr16803">
+            <player-slot/>
+            <player-name>Jeremy Hill, Cin RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 7-22</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

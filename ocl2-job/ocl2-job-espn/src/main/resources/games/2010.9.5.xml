@@ -1,0 +1,141 @@
+<game season="2010" scoringPeriod="9" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 23-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 41-7</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 26-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10544">
+            <player-slot/>
+            <player-name>Michael Bush, Oak RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 23-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8425">
+            <player-slot/>
+            <player-name>Mike Williams, Sea WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 7-41</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5741">
+            <player-slot/>
+            <player-name>Patrick Crayton, SD WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 29-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 45-7</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, SF K</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 20-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 7-45</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 14-34</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr4549">
+            <player-slot/>
+            <player-name>Visanthe Shiancoe, Min TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 27-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 27-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 26-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 14-34</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

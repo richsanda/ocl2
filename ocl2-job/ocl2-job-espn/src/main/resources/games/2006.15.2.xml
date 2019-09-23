@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="15" team="2">
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr5575">
+            <player-slot/>
+            <player-name>Devery Henderson, NO WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 10-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, Jac RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 17-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 38-28</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 20-9</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-16</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 27-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr286">
+            <player-slot/>
+            <player-name>Jason Hanson, Det K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 9-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Bal RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 27-17</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 10-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 20-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 0-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 22-36</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Chi WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 20-37</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 37-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 9-17</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

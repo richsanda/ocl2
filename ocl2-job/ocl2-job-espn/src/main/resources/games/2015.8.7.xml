@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="8" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Den TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 29-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 23-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 52-49</game-status>
+            <points>50</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 29-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 13-12</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 20-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 26-29</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Brasky's Barnidge Box Score</header>
+      <players>
+         <player id="plyr17149">
+            <player-slot/>
+            <player-name>Antonio Andrews, Ten RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 6-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 13-12</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 29-26</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15102">
+            <player-slot/>
+            <player-name>Rishard Matthews, Ten WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 6-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10453">
+            <player-slot/>
+            <player-name>Ted Ginn Jr., Car WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 29-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 29-26</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-16</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

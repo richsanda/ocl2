@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="1" team="3">
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 38-16</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 19-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 35-39</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 38-16</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr14908">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Floyd, NE WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 23-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 16-38</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 25-16</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 19-20</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr14012">
+            <player-slot>QB</player-slot>
+            <player-name>Andy Dalton, Cin QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-22</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot>RB</player-slot>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Steve Smith Sr., Bal WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 13-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 24-31</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 23-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot>TE</player-slot>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 27-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 21-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 21-20</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

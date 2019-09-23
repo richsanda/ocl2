@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="5" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 13-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 48-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 24-31</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot/>
+            <player-name>Ryan Mathews, SD RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 29-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 38-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr286">
+            <player-slot/>
+            <player-name>Jason Hanson, Det K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 24-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 27-30</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Hou K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 20-25</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10517">
+            <player-slot/>
+            <player-name>Jacoby Jones, Hou WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 20-25</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 3-48</game-status>
+            <points>-8</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 36-25</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 29-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11264">
+            <player-slot/>
+            <player-name>Dustin Keller, NYJ TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 21-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 25-14</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr13621">
+            <player-slot/>
+            <player-name>David Nelson, Buf WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 31-24</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

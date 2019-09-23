@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="10" team="5">
+   <team>
+      <header>Westerly Donnabairds Box Score</header>
+      <players>
+         <player id="plyr17795">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Wentz, Phi QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 20-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, LAC RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 20-6</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 14-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 20-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr18322">
+            <player-slot>WR/TE</player-slot>
+            <player-name>O.J. Howard, TB TE</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 3-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 26-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bills D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 41-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 52-21</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 52-21</game-status>
+            <points>41</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 36-31</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr18193">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Joe Mixon, Cin RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 14-51</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 31-12</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 36-31</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, GB TE   Q</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 31-12</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 20-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17438">
+            <player-slot>K</player-slot>
+            <player-name>Jason Myers, NYJ K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 10-41</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="15" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr12525">
+            <player-slot/>
+            <player-name>Beanie Wells, Ari RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 31-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 45-12</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 10-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 10-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 45-12</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-24</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 10-7</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 16-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 36-37</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 17-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10471">
+            <player-slot/>
+            <player-name>Robert Meachem, NO WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9297">
+            <player-slot/>
+            <player-name>Leonard Weaver, Phi RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 27-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 24-17</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+</game>

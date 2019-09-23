@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="1" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11276">
+            <player-slot/>
+            <player-name>Eddie Royal, Den WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 12-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 21-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 23-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Buf WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 24-25</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 7-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9475">
+            <player-slot/>
+            <player-name>Ryan Grant, GB RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 21-15</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 13-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 38-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 28-0</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Min WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 34-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 21-15</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 38-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

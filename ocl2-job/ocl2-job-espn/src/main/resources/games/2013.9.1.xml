@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="9" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 27-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot/>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-24</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 26-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 24-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 23-27</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 49-20</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Cle TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 24-18</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14012">
+            <player-slot/>
+            <player-name>Andy Dalton, Cin QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 20-22</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 27-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11658">
+            <player-slot/>
+            <player-name>Mike Tolbert, Car RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 34-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 23-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-24</game-status>
+            <points>34</points>
+         </player>
+      </players>
+   </team>
+</game>

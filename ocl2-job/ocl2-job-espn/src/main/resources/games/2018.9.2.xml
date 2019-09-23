@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="9" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr8664">
+            <player-slot>QB</player-slot>
+            <player-name>Ryan Fitzpatrick, TB QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 28-42</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr14198">
+            <player-slot>RB</player-slot>
+            <player-name>Dion Lewis, Ten RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-14</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr18424">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Breida, SF RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 34-3</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17619">
+            <player-slot>WR</player-slot>
+            <player-name>Tyler Lockett, Sea WR</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 17-25</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18320">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Corey Davis, Ten WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 21-37</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60013">
+            <player-slot>D/ST</player-slot>
+            <player-name>Raiders D/ST D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 3-34</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot>K</player-slot>
+            <player-name>Cody Parkey, Chi K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 41-9</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB   Q</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 42-28</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr18225">
+            <player-slot>RB</player-slot>
+            <player-name>Kareem Hunt, KC RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 37-21</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr17919">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jordan Howard, Chi RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 41-9</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr18306">
+            <player-slot>WR</player-slot>
+            <player-name>JuJu Smith-Schuster, Pit WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 23-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 28-42</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr18292">
+            <player-slot>TE</player-slot>
+            <player-name>George Kittle, SF TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 34-3</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jets D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 6-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot>K</player-slot>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 42-28</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

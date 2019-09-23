@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="7" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr1669">
+            <player-slot/>
+            <player-name>Mike Vanderjagt, Ind K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 38-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1762">
+            <player-slot/>
+            <player-name>Daunte Culpepper, Min QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 23-20</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4529">
+            <player-slot/>
+            <player-name>Nate Burleson, Min WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 23-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 27-13</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2178">
+            <player-slot/>
+            <player-name>Jerry Porter, Oak WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 38-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 20-30</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Bridgewater Raritan Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 30-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 10-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 38-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Atl QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Bal RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 24-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2199">
+            <player-slot/>
+            <player-name>Erron Kinney, Ten TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 10-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

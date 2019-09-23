@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="10" team="9">
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr15168">
+            <player-slot>QB</player-slot>
+            <player-name>Case Keenum, Min QB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 38-30</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr16913">
+            <player-slot>RB</player-slot>
+            <player-name>James White, NE RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16782">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jerick McKinnon, Min RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 38-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 38-30</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17593">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeVante Parker, Mia WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 21-45</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot>TE</player-slot>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 7-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot>D/ST</player-slot>
+            <player-name>49ers D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 31-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-7</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-16</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17208">
+            <player-slot>RB</player-slot>
+            <player-name>Orleans Darkwa, NYG RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14909">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Kendall Wright, Chi WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 16-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>WR</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR   Q</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 16-41</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, LAC TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 17-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 22-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-16</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

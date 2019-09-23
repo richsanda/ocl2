@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="11" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 0-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 28-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12489">
+            <player-slot/>
+            <player-name>Donald Brown, Ind RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 28-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 21-0</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 31-3</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Cin RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 31-49</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-35</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 37-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr8425">
+            <player-slot/>
+            <player-name>Mike Williams, Sea WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 19-34</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 35-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, StL WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 17-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 31-3</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 24-20</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

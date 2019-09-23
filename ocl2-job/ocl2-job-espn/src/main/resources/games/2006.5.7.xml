@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="5" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr2489">
+            <player-slot/>
+            <player-name>Rian Lindell, Buf K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 7-40</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 3-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 13-14</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr393">
+            <player-slot/>
+            <player-name>Drew Bledsoe, Dal QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 24-38</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 23-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 23-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 20-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Drew, Jac RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 41-0</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 23-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 20-34</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 14-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 13-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, Chi RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 40-7</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-26</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,141 @@
+<game season="2016" scoringPeriod="4" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr17610">
+            <player-slot>QB</player-slot>
+            <player-name>Marcus Mariota, Ten QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 20-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 20-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>4</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 22-7</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 24-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 14-43</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 22-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 0-16</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-20</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13587">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Ivory, Jax RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 30-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 0-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 0-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot>D/ST</player-slot>
+            <player-name>Giants D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-24</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 43-14</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

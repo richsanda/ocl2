@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="15" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 31-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 6-12</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 15-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16791">
+            <player-slot/>
+            <player-name>Donte Moncrief, Ind WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 17-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9329">
+            <player-slot/>
+            <player-name>Nick Novak, SD K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 10-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot/>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 22-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16784">
+            <player-slot/>
+            <player-name>Tre Mason, StL RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 6-12</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 17-10</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr14901">
+            <player-slot/>
+            <player-name>Dwayne Allen, Ind TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 17-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-27</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-27</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 17-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15920">
+            <player-slot/>
+            <player-name>Latavius Murray, Oak RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 20-12</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 21-13</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="13" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 44-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 13-44</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9607">
+            <player-slot/>
+            <player-name>Laurence Maroney, NE RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 21-22</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 30-23</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 30-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 17-30</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, KC WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 13-44</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, Phi WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 34-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 30-33</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10713">
+            <player-slot/>
+            <player-name>Pierre Thomas, NO RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 33-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 17-20</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Min WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 17-30</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr8520">
+            <player-slot/>
+            <player-name>Kyle Orton, Den QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 44-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, Pit K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 24-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 17-9</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="11" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NO TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 38-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 30-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Sea WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 9-35</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, Cin WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 17-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 38-37</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 38-37</game-status>
+            <points>38</points>
+         </player>
+         <player id="plyr12724">
+            <player-slot/>
+            <player-name>Bernard Scott, Cin RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 17-20</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 24-27</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr10488">
+            <player-slot/>
+            <player-name>Sidney Rice, Min WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 35-9</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 20-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 24-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 20-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-14</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 24-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 7-6</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

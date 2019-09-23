@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="8" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 25-33</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 28-18</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, Ten WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 25-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 28-18</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8520">
+            <player-slot/>
+            <player-name>Kyle Orton, Den QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 16-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11362">
+            <player-slot/>
+            <player-name>Ryan Torain, Was RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 25-37</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9639">
+            <player-slot/>
+            <player-name>Anthony Fasano, Mia TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 22-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 9-0</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 9-0</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr12516">
+            <player-slot/>
+            <player-name>Knowshon Moreno, Den RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 16-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Cin WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 14-22</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-30</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Mia WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 22-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 24-16</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+</game>

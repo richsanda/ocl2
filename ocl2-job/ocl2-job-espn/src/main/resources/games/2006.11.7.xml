@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="11" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 14-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 14-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 35-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 35-27</game-status>
+            <points>45</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 14-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 35-27</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 0-35</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 31-16</game-status>
+            <points>43</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 17-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 10-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 14-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8497">
+            <player-slot/>
+            <player-name>Chris Henry, Cin WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 31-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 0-15</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr43">
+            <player-slot/>
+            <player-name>John Carney, NO K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 16-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 17-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 0-15</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

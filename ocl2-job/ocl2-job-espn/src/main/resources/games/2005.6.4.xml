@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="6" team="4">
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr3556">
+            <player-slot/>
+            <player-name>Jerramy Stevens, Sea TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 42-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1493">
+            <player-slot/>
+            <player-name>Brian Griese, TB QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2320">
+            <player-slot/>
+            <player-name>Mike Anderson, Den RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 28-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr278">
+            <player-slot/>
+            <player-name>Jimmy Smith, Jac WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 23-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr1042">
+            <player-slot/>
+            <player-name>Joe Horn, NO WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 31-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1497">
+            <player-slot/>
+            <player-name>Michael Pittman, TB RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-13</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 23-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1306">
+            <player-slot/>
+            <player-name>Priest Holmes, KC RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 28-21</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 23-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr5741">
+            <player-slot/>
+            <player-name>Patrick Crayton, Dal WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 16-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 23-31</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-28</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 28-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2212">
+            <player-slot/>
+            <player-name>Reuben Droughns, Cle RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 3-16</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

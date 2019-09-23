@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="6" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, Cle K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 3-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 45-28</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 21-20</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr3757">
+            <player-slot/>
+            <player-name>David Givens, NE WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ind RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 45-28</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-23</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, Chi RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 28-3</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 21-28</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 42-10</game-status>
+            <points>40</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 28-45</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 45-28</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 42-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 28-45</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 28-45</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

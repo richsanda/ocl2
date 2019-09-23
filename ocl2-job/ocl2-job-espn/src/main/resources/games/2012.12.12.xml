@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="12" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 23-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 13-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 13-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot/>
+            <player-name>Blair Walsh, Min K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 10-28</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 17-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 38-31</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, Den WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 17-9</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 24-19</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 21-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 49-19</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 17-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr286">
+            <player-slot/>
+            <player-name>Jason Hanson, Det K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 31-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 31-34</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr13203">
+            <player-slot/>
+            <player-name>C.J. Spiller, Buf RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 13-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 34-31</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, NO TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 21-31</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

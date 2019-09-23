@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="9" team="2">
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr1321">
+            <player-slot/>
+            <player-name>Marcus Robinson, Min WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 27-14</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 24-6</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 40-21</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 14-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 10-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 24-6</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 10-17</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 9-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 17-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYG K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 24-6</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 21-40</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr979">
+            <player-slot/>
+            <player-name>Stephen Davis, Car RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 34-14</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 20-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2178">
+            <player-slot/>
+            <player-name>Jerry Porter, Oak WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 23-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 10-17</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

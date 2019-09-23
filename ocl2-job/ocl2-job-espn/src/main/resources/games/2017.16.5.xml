@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="16" team="5">
+   <team>
+      <header>Westerly Donnabairds Box Score</header>
+      <players>
+         <player id="plyr16724">
+            <player-slot>QB</player-slot>
+            <player-name>Blake Bortles, Jax QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 33-44</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, LAC RB   Q</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 14-7</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr14198">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Dion Lewis, NE RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 37-16</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>WR</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 23-0</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14922">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mohamed Sanu, Atl WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 13-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 29-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 23-0</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 12-21</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr14877">
+            <player-slot>QB</player-slot>
+            <player-name>Nick Foles, Phi QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 19-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB</player-slot>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 13-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 16-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 10-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15102">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Rishard Matthews, Ten WR</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 23-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17650">
+            <player-slot>TE</player-slot>
+            <player-name>Tyler Kroft, Cin TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 26-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 22-19</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr12731">
+            <player-slot>K</player-slot>
+            <player-name>Ryan Succop, Ten K</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 23-27</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

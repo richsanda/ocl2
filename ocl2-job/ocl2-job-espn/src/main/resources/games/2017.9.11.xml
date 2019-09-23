@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="9" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17794">
+            <player-slot>QB</player-slot>
+            <player-name>Jared Goff, LAR QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 51-17</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot>RB</player-slot>
+            <player-name>Marshawn Lynch, Oak RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Eddie Lacy, Sea RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 14-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr18223">
+            <player-slot>WR</player-slot>
+            <player-name>Zay Jones, Buf WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 21-34</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR   Q</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 23-51</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 30-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 14-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 17-30</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr10487">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Stanton, Ari QB   Q</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 20-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 10-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Phi RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 51-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 10-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Evan Engram, NYG TE</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 17-51</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE   Q</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 14-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot>D/ST</player-slot>
+            <player-name>Lions D/ST D/ST</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 30-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 30-17</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

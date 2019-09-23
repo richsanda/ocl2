@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="1" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 27-23</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>W 28-0</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr17505">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jeremy Langford, Chi RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 14-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot>WR</player-slot>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 21-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 21-23</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr14900">
+            <player-slot>TE</player-slot>
+            <player-name>Coby Fleener, NO TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 34-35</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 27-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-13</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr16724">
+            <player-slot>QB</player-slot>
+            <player-name>Blake Bortles, Jax QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 23-27</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley, LA RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 0-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 23-21</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 35-39</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 39-35</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot>K</player-slot>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-21</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="16" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 13-28</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 31-18</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 31-34</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12567">
+            <player-slot/>
+            <player-name>Brandon Gibson, StL WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 28-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-12</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Det TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 18-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 27-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, Den WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-12</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr13230">
+            <player-slot/>
+            <player-name>Aaron Hernandez, NE TE</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 23-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 20-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 13-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot/>
+            <player-name>Alfred Morris, Wsh RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 27-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr11754">
+            <player-slot/>
+            <player-name>BenJarvus Green-Ellis, Cin RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 13-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 27-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 17-6</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 23-16</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

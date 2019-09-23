@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="9" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 43-28</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr16783">
+            <player-slot>RB</player-slot>
+            <player-name>Terrance West, Bal RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 21-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17908">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devontae Booker, Den RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 28-23</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr16791">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Donte Moncrief, Ind WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 31-26</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 28-43</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60012">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chiefs D/ST D/ST</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 19-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 26-31</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 26-31</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr12503">
+            <player-slot>RB</player-slot>
+            <player-name>Rashad Jennings, NYG RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 28-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 30-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot>WR</player-slot>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-30</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 26-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14900">
+            <player-slot>TE</player-slot>
+            <player-name>Coby Fleener, NO TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 41-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 43-35</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 25-31</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

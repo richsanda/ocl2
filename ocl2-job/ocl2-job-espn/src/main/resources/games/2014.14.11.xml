@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="14" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17133">
+            <player-slot/>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 24-25</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 24-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, NE TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-14</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 37-43</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 17-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 14-23</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 42-21</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 14-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, Chi TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 28-41</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 13-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 43-37</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 42-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16803">
+            <player-slot/>
+            <player-name>Jeremy Hill, Cin RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 21-42</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 24-17</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

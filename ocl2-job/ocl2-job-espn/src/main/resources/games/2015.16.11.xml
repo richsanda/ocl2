@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="16" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17171">
+            <player-slot/>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 20-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 32-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17605">
+            <player-slot/>
+            <player-name>Karlos Williams, Buf RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 16-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot/>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 27-38</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-26</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 20-13</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 16-6</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot/>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 24-38</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 17-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-49</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11364">
+            <player-slot/>
+            <player-name>Gary Barnidge, Cle TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot/>
+            <player-name>Brandin Cooks, NO WR</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 38-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr16804">
+            <player-slot/>
+            <player-name>John Brown, Ari WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 38-8</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 49-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr13587">
+            <player-slot/>
+            <player-name>Chris Ivory, Jax RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 27-38</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 49-17</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="12" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 20-17</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 27-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 36-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 36-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10605">
+            <player-slot/>
+            <player-name>Brent Celek, Phi TE</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 27-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 34-12</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr8416">
+            <player-slot/>
+            <player-name>Alex Smith, SF QB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 20-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 38-17</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr12525">
+            <player-slot/>
+            <player-name>Beanie Wells, Ari RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 38-17</game-status>
+            <points>38</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 34-12</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 20-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11383">
+            <player-slot/>
+            <player-name>Tim Hightower, Ari RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 17-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 24-7</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 6-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 43-14</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

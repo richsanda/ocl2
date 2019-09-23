@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="5" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 19-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot>RB</player-slot>
+            <player-name>Marshawn Lynch, Oak RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 17-30</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 35-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17756">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Humphries, TB WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 14-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14909">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Kendall Wright, Chi WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, LAC TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 27-22</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>W 16-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 35-31</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Westerly Donnabairds Box Score</header>
+      <players>
+         <player id="plyr17795">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Wentz, Phi QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 34-7</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, LAC RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 27-22</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr17580">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Ameer Abdullah, Det RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 24-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 26-23</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 7-34</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 42-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 7-34</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 31-35</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="6" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 31-35</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1263">
+            <player-slot/>
+            <player-name>Derrick Mason, Bal WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 20-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 6-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 20-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 20-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11362">
+            <player-slot/>
+            <player-name>Ryan Torain, Was RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 24-27</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 24-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 17-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 17-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 27-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 21-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 27-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, NYG RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 3-30</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="2" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 45-51</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 7-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9596">
+            <player-slot/>
+            <player-name>Matt Leinart, Ari QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 23-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 14-38</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 13-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 12-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 13-35</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 20-12</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 14-38</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5538">
+            <player-slot/>
+            <player-name>Lee Evans, Buf WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 3-26</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 37-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 22-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 21-34</game-status>
+            <points>37</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 17-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 26-3</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 20-10</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="15" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 12-9</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr18260">
+            <player-slot>RB</player-slot>
+            <player-name>Dalvin Cook, Min RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-17</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr15971">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Rex Burkhead, NE RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 10-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Dal WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 0-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jarvis Landry, Cle WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 17-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot>TE</player-slot>
+            <player-name>Vernon Davis*, Wsh TE   O</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 16-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot>D/ST</player-slot>
+            <player-name>Falcons D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 40-14</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 20-12</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, LAC QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 29-28</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr18592">
+            <player-slot>RB</player-slot>
+            <player-name>Nick Chubb, Cle RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 17-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 9-12</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR</player-slot>
+            <player-name>Tyrell Williams, LAC WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 29-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 29-28</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot>TE</player-slot>
+            <player-name>Antonio Gates, LAC TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 29-28</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jaguars D/ST D/ST</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 13-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12731">
+            <player-slot>K</player-slot>
+            <player-name>Ryan Succop, Ten K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 17-0</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

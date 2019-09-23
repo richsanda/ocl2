@@ -1,0 +1,141 @@
+<game season="2016" scoringPeriod="5" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 23-16</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot>RB</player-slot>
+            <player-name>Eddie Lacy, Sea RB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>8</points>
+         </player>
+         <player id="plyr16783">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Terrance West, Bal RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 10-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 16-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15072">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Marvin Jones, Det WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 24-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12699">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Miller, Chi TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 23-29</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bills D/ST D/ST</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 30-19</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 23-16</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 34-31</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 13-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 13-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8461">
+            <player-slot>K</player-slot>
+            <player-name>Mike Nugent, Cin K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 14-28</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

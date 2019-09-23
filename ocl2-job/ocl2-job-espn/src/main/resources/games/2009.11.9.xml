@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="11" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, Phi WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10713">
+            <player-slot/>
+            <player-name>Pierre Thomas, NO RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 38-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 24-30</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr43">
+            <player-slot/>
+            <player-name>John Carney, NO K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 38-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Min WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 35-9</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 21-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Car RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 17-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 31-34</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr12525">
+            <player-slot/>
+            <player-name>Beanie Wells, Ari RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 21-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 38-7</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 31-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11282">
+            <player-slot/>
+            <player-name>Fred Davis, Was TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 6-7</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11383">
+            <player-slot/>
+            <player-name>Tim Hightower, Ari RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 21-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 7-6</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 34-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 32-3</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="1" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 35-45</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 14-3</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5538">
+            <player-slot/>
+            <player-name>Lee Evans, Buf WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 14-15</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr3593">
+            <player-slot/>
+            <player-name>Deion Branch, Sea WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 20-6</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9607">
+            <player-slot/>
+            <player-name>Laurence Maroney, NE RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 38-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 13-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 38-14</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 34-7</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 20-3</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 14-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 41-10</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr4939">
+            <player-slot/>
+            <player-name>Mike Furrey, Det WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 36-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2211">
+            <player-slot/>
+            <player-name>Darrell Jackson, SF WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 20-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 10-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 14-15</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 38-14</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="4" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 16-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 10-32</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8436">
+            <player-slot/>
+            <player-name>Matt Jones, Jac WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 30-36</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1693">
+            <player-slot/>
+            <player-name>Jake Delhomme, Car QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 21-18</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 41-0</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 17-12</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2212">
+            <player-slot/>
+            <player-name>Reuben Droughns, Cle RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-21</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr1669">
+            <player-slot/>
+            <player-name>Mike Vanderjagt, Dal K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 45-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 16-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1263">
+            <player-slot/>
+            <player-name>Derrick Mason, Bal WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 16-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3784">
+            <player-slot/>
+            <player-name>Chester Taylor, Min RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 12-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3591">
+            <player-slot/>
+            <player-name>Antonio Bryant, SF WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 0-41</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2670">
+            <player-slot/>
+            <player-name>Correll Buckhalter, Phi RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 31-9</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 13-38</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 18-21</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

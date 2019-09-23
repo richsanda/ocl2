@@ -1,0 +1,141 @@
+<game season="2013" scoringPeriod="6" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Cle TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 17-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 16-31</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11543">
+            <player-slot/>
+            <player-name>Garrett Hartley, FA K</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>9</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 32-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 6-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14129">
+            <player-slot/>
+            <player-name>Bilal Powell, NYJ RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 6-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 9-19</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 35-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 13-38</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 31-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot/>
+            <player-name>Jared Cook, StL TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 38-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 31-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Det RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, Oak WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 7-24</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="8" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 44-23</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr9361">
+            <player-slot/>
+            <player-name>Shaun Suisham, Pit K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 51-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 23-51</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 21-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Dal RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot/>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 16-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 43-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 23-43</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Ruckus Tins Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Phi RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 20-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 23-44</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 21-35</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 34-51</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 13-9</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Ind WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 34-51</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 23-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 23-44</game-status>
+            <points>30</points>
+         </player>
+      </players>
+   </team>
+</game>

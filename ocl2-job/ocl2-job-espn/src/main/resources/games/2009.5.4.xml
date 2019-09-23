@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="5" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 45-10</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 14-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 28-21</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-14</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 21-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8420">
+            <player-slot/>
+            <player-name>Cadillac Williams, TB RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 14-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 45-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3591">
+            <player-slot/>
+            <player-name>Antonio Bryant, TB WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 14-33</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr11272">
+            <player-slot/>
+            <player-name>John Carlson, Sea TE</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 41-0</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11323">
+            <player-slot/>
+            <player-name>Steve Slaton, Hou RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 21-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-9</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-9</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 27-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 28-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Ochocinco, Cin WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 17-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 0-41</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

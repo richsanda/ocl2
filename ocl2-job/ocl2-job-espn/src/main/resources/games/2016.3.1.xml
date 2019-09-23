@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="3" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr16724">
+            <player-slot>QB</player-slot>
+            <player-name>Blake Bortles, Jax QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 17-19</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley, LA RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 37-32</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 33-18</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-0</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 26-22</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 27-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 10-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot>K</player-slot>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 10-22</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 26-22</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr15920">
+            <player-slot>RB</player-slot>
+            <player-name>Latavius Murray, Min RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 22-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16782">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jerick McKinnon, Min RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 22-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 17-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 29-17</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr11364">
+            <player-slot>TE</player-slot>
+            <player-name>Gary Barnidge, Cle TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 24-30</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot>D/ST</player-slot>
+            <player-name>Texans D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 0-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 27-34</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

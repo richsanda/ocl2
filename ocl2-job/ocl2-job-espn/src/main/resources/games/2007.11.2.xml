@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="11" team="2">
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 31-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 31-7</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 23-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 16-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 17-7</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 10-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 10-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 33-30</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 30-33</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4280">
+            <player-slot/>
+            <player-name>Jesse Chatman, Mia RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 7-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 33-30</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 23-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 28-23</game-status>
+            <points>47</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 30-33</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 56-10</game-status>
+            <points>40</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 27-35</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

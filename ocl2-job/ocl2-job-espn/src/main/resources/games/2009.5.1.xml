@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="5" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 28-20</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 9-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10495">
+            <player-slot/>
+            <player-name>Steve Smith, NYG WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 44-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 21-28</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 38-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 26-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 38-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr10605">
+            <player-slot/>
+            <player-name>Brent Celek, Phi TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-14</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-28</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 28-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11257">
+            <player-slot/>
+            <player-name>Rashard Mendenhall, Pit RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 28-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 26-20</game-status>
+            <points>45</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 20-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 10-38</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 17-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 0-41</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

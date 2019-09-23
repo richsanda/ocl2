@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="4" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 26-9</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 26-9</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Phi RB</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>W 26-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16725">
+            <player-slot>WR</player-slot>
+            <player-name>Sammy Watkins, LAR WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 35-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 25-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE   Q</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 46-18</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot>D/ST</player-slot>
+            <player-name>Lions D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 14-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 14-7</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr14881">
+            <player-slot>QB</player-slot>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 46-18</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr17611">
+            <player-slot>RB</player-slot>
+            <player-name>Ty Montgomery, GB RB   D</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 35-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18341">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Carson*, Sea RB   IR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 46-18</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr.*, NYG WR   IR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 23-25</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 7-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14900">
+            <player-slot>TE</player-slot>
+            <player-name>Coby Fleener, NO TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 20-0</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 18-46</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

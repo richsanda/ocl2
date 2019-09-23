@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="14" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 44-20</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 38-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 14-34</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 21-42</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, Dal K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 28-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 34-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 10-19</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 44-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3593">
+            <player-slot/>
+            <player-name>Deion Branch, Sea WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 42-21</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 28-27</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr3784">
+            <player-slot/>
+            <player-name>Chester Taylor, Min RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-7</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 34-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 34-13</game-status>
+            <points>37</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-7</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 16-24</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

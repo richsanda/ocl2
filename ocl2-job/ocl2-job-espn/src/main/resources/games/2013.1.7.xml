@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="1" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 34-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 23-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 34-28</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 34-28</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, NE WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 23-21</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-21</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-21</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 23-21</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 36-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot/>
+            <player-name>Jared Cook, StL TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 27-24</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 36-31</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, Phi RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 33-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, Pit WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 9-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Det RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 34-24</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 23-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15078">
+            <player-slot/>
+            <player-name>Chris Givens, StL WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 27-24</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

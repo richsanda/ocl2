@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="2" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr5526">
+            <player-slot>QB</player-slot>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 16-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, SD RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 38-14</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 37-31</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 12-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot>TE</player-slot>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 46-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 31-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 25-20</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 35-28</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB</player-slot>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 13-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeAngelo Williams, Pit RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 16-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15072">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Marvin Jones, Det WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 15-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12699">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Miller, Chi TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 14-29</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60012">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chiefs D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 12-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-17</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

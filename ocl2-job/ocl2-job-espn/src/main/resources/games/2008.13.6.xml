@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="13" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 20-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 31-35</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 31-35</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 22-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 3-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr982">
+            <player-slot/>
+            <player-name>Joe Nedney, SF K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 10-3</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 23-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, NYJ RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-34</game-status>
+            <points>31</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 33-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-22</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 23-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5760">
+            <player-slot/>
+            <player-name>Derrick Ward, NYG RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 23-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-22</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 34-9</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 48-20</game-status>
+            <points>39</points>
+         </player>
+      </players>
+   </team>
+</game>

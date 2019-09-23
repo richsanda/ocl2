@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="11" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 6-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 20-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr13536">
+            <player-slot/>
+            <player-name>Joique Bell, Det RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 6-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot/>
+            <player-name>Cody Parkey, Phi K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 20-53</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot/>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 17-19</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot/>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 20-53</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 53-20</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Ruckus Tins Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 53-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 53-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 13-6</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 20-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-42</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 7-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 53-20</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot/>
+            <player-name>Alfred Morris, Wsh RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 7-27</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

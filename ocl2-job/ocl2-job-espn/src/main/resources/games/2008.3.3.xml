@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="3" team="3">
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 15-6</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr3745">
+            <player-slot/>
+            <player-name>J.T. O'Sullivan, SF QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 21-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 17-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 23-21</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 31-12</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 26-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 48-29</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 26-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 13-38</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 29-48</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-26</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="15" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton*, Car QB   O</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 9-12</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17919">
+            <player-slot>RB</player-slot>
+            <player-name>Jordan Howard, Chi RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 24-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18567">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Saquon Barkley, NYG RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 0-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 12-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr18306">
+            <player-slot>WR/TE</player-slot>
+            <player-name>JuJu Smith-Schuster, Pit WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 17-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr18292">
+            <player-slot>TE</player-slot>
+            <player-name>George Kittle, SF TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 26-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 16-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18454">
+            <player-slot>K</player-slot>
+            <player-name>Ka'imi Fairbairn, Hou K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 29-22</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 17-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II*, LAR RB   O</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 23-30</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr18193">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Joe Mixon, Cin RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-16</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 23-30</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, GB TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 23-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 10-17</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="12" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr17907">
+            <player-slot>QB</player-slot>
+            <player-name>Dak Prescott, Dal QB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 31-23</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr17689">
+            <player-slot>RB</player-slot>
+            <player-name>Tevin Coleman, Atl RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18341">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Carson, Sea RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 30-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR</player-slot>
+            <player-name>DeSean Jackson, TB WR   Q</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 27-9</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 34-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 27-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cowboys D/ST D/ST</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 31-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K   Q</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 31-17</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, LAC QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 45-10</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr18592">
+            <player-slot>RB</player-slot>
+            <player-name>Nick Chubb, Cle RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 35-20</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 27-30</game-status>
+            <points>39</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 30-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 45-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE   Q</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 23-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bears D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 23-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

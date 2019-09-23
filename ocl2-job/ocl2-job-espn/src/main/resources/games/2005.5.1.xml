@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="5" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 22-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 52-3</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 21-19</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 20-24</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 20-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 31-37</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 19-21</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 3-52</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 20-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr909">
+            <player-slot/>
+            <player-name>Marcus Pollard, Det TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 35-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1493">
+            <player-slot/>
+            <player-name>Brian Griese, TB QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 12-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr278">
+            <player-slot/>
+            <player-name>Jimmy Smith, Jac WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 23-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 12-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Dal RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 33-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr276">
+            <player-slot/>
+            <player-name>Keenan McCardell, SD WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 22-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1497">
+            <player-slot/>
+            <player-name>Michael Pittman, TB RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 12-14</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="11" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr8416">
+            <player-slot>QB</player-slot>
+            <player-name>Alex Smith, KC QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 9-12</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 7-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>L 24-54</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 34-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 33-8</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 30-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot>D/ST</player-slot>
+            <player-name>Texans D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 34-31</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 34-31</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot>RB</player-slot>
+            <player-name>Adrian Peterson, Ari RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 21-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Tyrell Williams, LAC WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 54-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>WR</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 54-24</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 31-34</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 17-40</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 33-8</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

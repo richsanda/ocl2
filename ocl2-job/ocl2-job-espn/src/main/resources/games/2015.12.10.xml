@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="12" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 19-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 33-14</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 19-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 31-25</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot/>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 6-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 19-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 10-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot/>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 14-20</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 30-22</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17739">
+            <player-slot/>
+            <player-name>Thomas Rawls, Sea RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 39-30</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 30-22</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot/>
+            <player-name>Allen Robinson, Jax WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 25-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 24-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16757">
+            <player-slot/>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 24-21</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot/>
+            <player-name>Todd Gurley, StL RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 7-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-20</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

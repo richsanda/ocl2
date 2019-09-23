@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="15" team="9">
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr18362">
+            <player-slot>RB</player-slot>
+            <player-name>Jamaal Williams, GB RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 24-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16782">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jerick McKinnon, Min RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr18097">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Robby Anderson, NYJ WR   Q</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 19-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot>TE</player-slot>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 20-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot>D/ST</player-slot>
+            <player-name>Redskins D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 20-15</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-21</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr14877">
+            <player-slot>QB</player-slot>
+            <player-name>Nick Foles, Phi QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 34-29</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB</player-slot>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-21</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 13-25</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 24-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18431">
+            <player-slot>TE</player-slot>
+            <player-name>Ricky Seals-Jones, Ari TE</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 15-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 16-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12731">
+            <player-slot>K</player-slot>
+            <player-name>Ryan Succop, Ten K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 23-25</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

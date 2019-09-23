@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="14" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 3-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 3-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12516">
+            <player-slot/>
+            <player-name>Knowshon Moreno, Den RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 13-43</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Cin WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 7-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 31-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Ochocinco, Cin WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 7-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 31-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Mia WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 10-6</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 31-38</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-13</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 31-38</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 36-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 0-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 31-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11754">
+            <player-slot/>
+            <player-name>BenJarvus Green-Ellis, NE RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 36-7</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

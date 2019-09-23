@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="16" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 6-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 17-0</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 42-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYJ K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 29-15</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 23-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Cin RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 17-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 17-10</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr12525">
+            <player-slot/>
+            <player-name>Beanie Wells, Ari RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 48-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 31-3</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 9-41</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 42-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 31-3</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr9731">
+            <player-slot/>
+            <player-name>Jerome Harrison, Cle RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 23-9</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

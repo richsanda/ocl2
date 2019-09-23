@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="1" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Hou K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 34-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 35-7</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 17-33</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 24-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 31-13</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 34-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 42-34</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr9614">
+            <player-slot/>
+            <player-name>Marcedes Lewis, Jac TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 16-14</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr11256">
+            <player-slot/>
+            <player-name>Felix Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 24-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 30-12</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 12-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 7-34</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, NYG RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 14-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 17-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 38-24</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, NO TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 34-42</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

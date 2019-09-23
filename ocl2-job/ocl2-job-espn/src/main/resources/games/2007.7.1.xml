@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="7" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 28-31</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 36-38</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9607">
+            <player-slot/>
+            <player-name>Laurence Maroney, NE RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 49-28</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 29-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 36-38</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 38-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 38-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 12-10</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 38-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr745">
+            <player-slot/>
+            <player-name>Kyle Brady, NE TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 49-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 38-36</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 36-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 31-38</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 16-19</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-15</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 21-19</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

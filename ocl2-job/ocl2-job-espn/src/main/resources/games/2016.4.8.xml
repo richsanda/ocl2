@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="4" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 35-34</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16020">
+            <player-slot>RB</player-slot>
+            <player-name>Spencer Ware, KC RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 14-43</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17919">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jordan Howard, Chi RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 17-14</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot>WR</player-slot>
+            <player-name>Allen Robinson, Jax WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 30-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15062">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Travis Benjamin, SD WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 34-35</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13231">
+            <player-slot>TE</player-slot>
+            <player-name>Dennis Pitta, Bal TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 27-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 27-28</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot>K</player-slot>
+            <player-name>Chandler Catanzaro, NYJ K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 17-27</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 34-35</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 0-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15994">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Theo Riddick, Det RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 14-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot>WR</player-slot>
+            <player-name>Brandon Marshall, NYG WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyrell Williams, SD WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 34-35</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16504">
+            <player-slot>TE</player-slot>
+            <player-name>Jack Doyle, Ind TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 27-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 27-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 27-30</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

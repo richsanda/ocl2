@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="9" team="9">
+   <team>
+      <header>The Great Jaerbs Box Score</header>
+      <players>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 20-49</game-status>
+            <points>-8</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, Chi TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13207">
+            <player-slot/>
+            <player-name>Dexter McCluster, Ten WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 28-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Mia WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 22-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-24</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr11788">
+            <player-slot/>
+            <player-name>Danny Woodhead, SD RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15072">
+            <player-slot/>
+            <player-name>Marvin Jones, Cin WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 20-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 18-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14028">
+            <player-slot/>
+            <player-name>Stevan Ridley, NE RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 55-31</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-26</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

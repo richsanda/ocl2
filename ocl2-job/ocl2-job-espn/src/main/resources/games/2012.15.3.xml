@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="15" team="3">
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 24-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Cle RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 21-38</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 34-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 10-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 0-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 22-36</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 34-17</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 22-36</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 0-15</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13553">
+            <player-slot/>
+            <player-name>Victor Cruz, NYG WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 0-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot/>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 21-38</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot/>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 36-22</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 34-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 17-29</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11737">
+            <player-slot/>
+            <player-name>Connor Barth, TB K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 0-41</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

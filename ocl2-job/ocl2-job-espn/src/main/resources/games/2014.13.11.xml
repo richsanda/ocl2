@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="13" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17133">
+            <player-slot/>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 10-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14017">
+            <player-slot/>
+            <player-name>Shane Vereen, NYG RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 24-25</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 19-3</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, NE TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 21-26</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 21-26</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 29-18</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 18-29</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12556">
+            <player-slot/>
+            <player-name>Kenny Britt, StL WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 52-0</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 21-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 34-17</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 45-21</game-status>
+            <points>41</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 10-33</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 13-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 16-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 21-26</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 29-16</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

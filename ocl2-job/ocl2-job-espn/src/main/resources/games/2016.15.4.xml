@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="15" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 34-6</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 24-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Mia RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 34-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 19-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 3-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot>TE</player-slot>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 16-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 6-17</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 16-3</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot>RB</player-slot>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 26-15</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 16-3</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 6-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Steve Smith Sr., Bal WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-26</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, SD TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-19</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 34-13</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 3-16</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

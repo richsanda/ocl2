@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="10" team="9">
+   <team>
+      <header>The Great Jaerbs Box Score</header>
+      <players>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, Chi TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 19-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 19-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 13-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 33-10</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 10-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Mia WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 19-22</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 27-34</game-status>
+            <points>27</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Ind RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 8-38</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot/>
+            <player-name>Alshon Jeffery, Chi WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 19-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 28-20</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 8-38</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 23-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-49</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot/>
+            <player-name>Greg Zuerlein, StL K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 38-8</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 28-20</game-status>
+            <points>30</points>
+         </player>
+      </players>
+   </team>
+</game>

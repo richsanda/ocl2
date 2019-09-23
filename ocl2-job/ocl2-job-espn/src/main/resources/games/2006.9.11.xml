@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="9" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr1669">
+            <player-slot/>
+            <player-name>Mike Vanderjagt, Dal K</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 19-22</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 14-30</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4625">
+            <player-slot/>
+            <player-name>Doug Gabriel, Oak WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 0-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-14</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 16-0</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Ten RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 7-37</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 20-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 20-31</game-status>
+            <points>25</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5662">
+            <player-slot/>
+            <player-name>Josh Scobee, Jac K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 37-7</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 22-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 37-7</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 20-26</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Det QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 30-14</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr8422">
+            <player-slot/>
+            <player-name>Troy Williamson, Min WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 3-9</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5534">
+            <player-slot/>
+            <player-name>Reggie Williams, Jac WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 37-7</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 9-3</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

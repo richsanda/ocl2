@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="10" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 17-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 17-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 41-49</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 27-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1196">
+            <player-slot/>
+            <player-name>Corey Dillon, NE RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 14-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 27-3</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 38-31</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 23-17</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 27-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1175">
+            <player-slot/>
+            <player-name>Warrick Dunn, Atl RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 13-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 17-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 24-10</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 3-27</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

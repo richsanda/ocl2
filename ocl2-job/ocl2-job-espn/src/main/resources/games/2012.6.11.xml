@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="6" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, Bal WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 31-29</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10488">
+            <player-slot/>
+            <player-name>Sidney Rice, Sea WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 24-23</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr12567">
+            <player-slot/>
+            <player-name>Brandon Gibson, StL WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 14-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, Buf TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 19-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 23-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 26-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 16-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 23-26</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Christ Punchers Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 26-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, SF WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 3-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12549">
+            <player-slot/>
+            <player-name>Brandon Pettigrew, Det TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 26-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 26-3</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 38-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 23-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11737">
+            <player-slot/>
+            <player-name>Connor Barth, TB K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 38-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 20-23</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="7" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr5526">
+            <player-slot>QB</player-slot>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 17-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, SD RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 33-30</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 24-16</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 26-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14851">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Terrelle Pryor Sr., Wsh WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 17-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot>TE</player-slot>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot>D/ST</player-slot>
+            <player-name>Texans D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 9-27</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 16-24</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 27-16</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot>RB</player-slot>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-9</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr14360">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Asiata, Min RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 10-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 30-33</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-33</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, SD TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 33-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-9</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-9</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

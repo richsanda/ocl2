@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="7" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 34-22</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 39-33</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14145">
+            <player-slot/>
+            <player-name>Charles Clay, Mia TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 21-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, Ind WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 39-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, Den WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 33-39</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot/>
+            <player-name>Alfred Morris, Wsh RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 45-41</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 30-15</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 23-31</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 41-45</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 17-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 21-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 31-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 16-19</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 45-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14028">
+            <player-slot/>
+            <player-name>Stevan Ridley, NE RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 27-30</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

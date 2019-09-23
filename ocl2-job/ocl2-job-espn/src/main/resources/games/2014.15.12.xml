@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="15" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 16-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 17-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13536">
+            <player-slot/>
+            <player-name>Joique Bell, Det RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 16-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17173">
+            <player-slot/>
+            <player-name>Cody Parkey, Phi K</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 27-38</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Mia TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 13-41</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot/>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 19-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 13-21</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr15885">
+            <player-slot/>
+            <player-name>Charles Johnson, Min WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 14-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 27-38</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Car QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 19-17</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot/>
+            <player-name>Allen Hurns, Jac WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 12-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 27-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, Atl RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 17-7</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

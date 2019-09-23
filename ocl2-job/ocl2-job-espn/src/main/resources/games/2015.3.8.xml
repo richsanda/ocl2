@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="3" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 28-38</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 35-33</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot/>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 14-41</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot/>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 24-12</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 41-14</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 41-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 35-33</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 51-17</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 14-41</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 38-28</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 28-24</game-status>
+            <points>40</points>
+         </player>
+         <player id="plyr15878">
+            <player-slot/>
+            <player-name>Terrance Williams, Dal WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 28-39</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 12-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot/>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 12-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 51-17</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

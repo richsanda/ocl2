@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="3" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 36-33</game-status>
+            <points>41</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot>RB</player-slot>
+            <player-name>Marshawn Lynch, Oak RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 10-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 28-31</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 30-26</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR   Q</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 16-26</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 27-33</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 27-10</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 33-36</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR   Q</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 33-36</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>W 24-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 36-33</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jaguars D/ST D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 44-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15245">
+            <player-slot>K</player-slot>
+            <player-name>Giorgio Tavecchio, Oak K</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 10-27</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

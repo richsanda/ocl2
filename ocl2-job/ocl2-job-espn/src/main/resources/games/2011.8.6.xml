@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="8" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 7-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5554">
+            <player-slot/>
+            <player-name>Michael Jenkins, Min WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 24-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 17-25</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 20-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, NO RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr3582">
+            <player-slot/>
+            <player-name>Maurice Morris, Det RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 45-10</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr14123">
+            <player-slot/>
+            <player-name>Alex Henery, Phi K</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 34-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, NYG RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 20-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11282">
+            <player-slot/>
+            <player-name>Fred Davis, Wsh TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 0-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 17-25</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 20-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 27-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Ind WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 10-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-31</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="11" team="2">
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 20-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, GB K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 17-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9387">
+            <player-slot/>
+            <player-name>Samkon Gado, GB RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 17-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 0-22</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-17</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 17-27</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 13-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-25</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 0-22</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 28-38</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 45-37</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-25</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 28-38</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 28-38</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

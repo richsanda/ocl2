@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="3" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 30-42</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 31-15</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 21-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 14-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr43">
+            <player-slot/>
+            <player-name>John Carney, NO K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 23-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 14-16</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 7-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 16-14</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr941">
+            <player-slot/>
+            <player-name>Amani Toomer, NYG WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 30-42</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 42-30</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, Phi WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 38-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 24-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 28-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr3784">
+            <player-slot/>
+            <player-name>Chester Taylor, Min RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 16-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 28-20</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 7-17</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+</game>

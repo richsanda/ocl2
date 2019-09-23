@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="11" team="12">
+   <team>
+      <header>Brasky's Barnidge Box Score</header>
+      <players>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 44-16</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15102">
+            <player-slot/>
+            <player-name>Rishard Matthews, Ten WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 13-19</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 24-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-45</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr10453">
+            <player-slot/>
+            <player-name>Ted Ginn Jr., Car WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 44-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14163">
+            <player-slot/>
+            <player-name>Tyrod Taylor, Buf QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 13-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17578">
+            <player-slot/>
+            <player-name>David Cobb, Ten RB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 13-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 16-13</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 33-3</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 13-18</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11788">
+            <player-slot/>
+            <player-name>Danny Woodhead, SD RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 3-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot/>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 16-44</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot/>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 13-18</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12482">
+            <player-slot/>
+            <player-name>Mark Sanchez, Den QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-15</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-15</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

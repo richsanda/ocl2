@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="15" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr17907">
+            <player-slot>QB</player-slot>
+            <player-name>Dak Prescott, Dal QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 20-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18194">
+            <player-slot>RB</player-slot>
+            <player-name>Samaje Perine, Wsh RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 20-15</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 23-25</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot>WR</player-slot>
+            <player-name>Jeremy Maclin, Bal WR   D</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 27-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 20-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 27-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 27-10</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB   Q</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 31-24</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 24-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Phi RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 34-29</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot>WR</player-slot>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 10-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17682">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Devin Funchess, Car WR   Q</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 31-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>TE</player-slot>
+            <player-name>Evan Engram, NYG TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 29-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot>D/ST</player-slot>
+            <player-name>Lions D/ST D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 20-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 20-10</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

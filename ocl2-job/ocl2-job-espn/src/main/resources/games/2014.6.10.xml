@@ -1,0 +1,141 @@
+<game season="2014" scoringPeriod="6" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 31-28</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>T 37-37</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15826">
+            <player-slot/>
+            <player-name>Giovani Bernard, Cin RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>T 37-37</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr9329">
+            <player-slot/>
+            <player-name>Nick Novak, SD K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 31-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 17-3</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 28-33</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 17-3</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>1</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 31-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 30-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 10-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13587">
+            <player-slot/>
+            <player-name>Chris Ivory, NYJ RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 13-27</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 31-17</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

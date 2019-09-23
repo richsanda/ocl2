@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="11" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 38-37</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr11257">
+            <player-slot/>
+            <player-name>Rashard Mendenhall, Pit RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 24-27</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 32-3</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 38-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Ind K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 17-15</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 24-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 13-21</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 17-20</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr9607">
+            <player-slot/>
+            <player-name>Laurence Maroney, NE RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-14</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 17-15</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10523">
+            <player-slot/>
+            <player-name>Mike Sims-Walker, Jac WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 18-15</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 32-3</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Mia K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 24-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 21-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr3584">
+            <player-slot/>
+            <player-name>Ladell Betts, Was RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 6-7</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 35-9</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

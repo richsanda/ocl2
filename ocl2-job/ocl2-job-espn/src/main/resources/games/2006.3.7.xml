@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="3" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr2489">
+            <player-slot/>
+            <player-name>Rian Lindell, Buf K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 20-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 31-15</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 10-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8481">
+            <player-slot/>
+            <player-name>Charlie Frye, Cle QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 14-15</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2398">
+            <player-slot/>
+            <player-name>Jermaine Wiggins, Min TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 16-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1432">
+            <player-slot/>
+            <player-name>Ahman Green, GB RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 31-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 31-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 38-24</game-status>
+            <points>37</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 13-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr936">
+            <player-slot/>
+            <player-name>Muhsin Muhammad, Chi WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 19-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 14-16</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 14-15</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 38-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Bal RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 15-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 16-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 16-14</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

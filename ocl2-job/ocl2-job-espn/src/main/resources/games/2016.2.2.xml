@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="2" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 46-27</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 40-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 35-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot>WR</player-slot>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 46-27</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr16725">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Sammy Watkins, Buf WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 31-37</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 16-15</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 40-7</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot>K</player-slot>
+            <player-name>Blair Walsh, Sea K</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>L 3-9</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr16724">
+            <player-slot>QB</player-slot>
+            <player-name>Blake Bortles, Jax QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-38</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley, LA RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 9-3</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 31-37</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 31-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 7-40</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 15-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 46-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot>K</player-slot>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 46-27</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

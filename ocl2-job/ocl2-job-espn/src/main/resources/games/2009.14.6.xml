@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="14" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 13-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 26-23</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 38-45</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 16-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 23-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11383">
+            <player-slot/>
+            <player-name>Tim Hightower, Ari RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 9-24</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 38-45</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 20-17</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 21-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12516">
+            <player-slot/>
+            <player-name>Knowshon Moreno, Den RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 16-28</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 9-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 45-38</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 20-10</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr1756">
+            <player-slot/>
+            <player-name>Ricky Williams, Mia RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 14-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 16-10</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

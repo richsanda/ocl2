@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="8" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-45</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 20-6</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot/>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 34-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17384">
+            <player-slot/>
+            <player-name>Charcandrick West, KC RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 45-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14012">
+            <player-slot/>
+            <player-name>Andy Dalton, Cin QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 16-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot/>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 6-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 36-7</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17171">
+            <player-slot/>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 29-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-45</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 29-26</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14909">
+            <player-slot/>
+            <player-name>Kendall Wright, Ten WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 6-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 36-7</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 20-23</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 20-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot/>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 16-10</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

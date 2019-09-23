@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="8" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr14012">
+            <player-slot>QB</player-slot>
+            <player-name>Andy Dalton, Cin QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 37-34</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr18225">
+            <player-slot>RB</player-slot>
+            <player-name>Kareem Hunt, KC RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 30-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr18567">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Saquon Barkley, NYG RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 13-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr18306">
+            <player-slot>WR</player-slot>
+            <player-name>JuJu Smith-Schuster, Pit WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 33-18</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 34-37</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr18292">
+            <player-slot>TE</player-slot>
+            <player-name>George Kittle, SF TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 15-18</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot>D/ST</player-slot>
+            <player-name>49ers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 15-18</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr18454">
+            <player-slot>K</player-slot>
+            <player-name>Ka'imi Fairbairn, Hou K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 42-23</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-6</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot>RB</player-slot>
+            <player-name>Alfred Morris, SF RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 15-18</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18823">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Phillip Lindsay, Den RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 23-30</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 20-30</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 20-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot>D/ST</player-slot>
+            <player-name>Steelers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 33-18</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot>K</player-slot>
+            <player-name>Greg Zuerlein, LAR K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 29-27</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

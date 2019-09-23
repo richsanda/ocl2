@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="5" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10580">
+            <player-slot/>
+            <player-name>Le'Ron McClain, Bal RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 10-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2489">
+            <player-slot/>
+            <player-name>Rian Lindell, Buf K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 17-41</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5538">
+            <player-slot/>
+            <player-name>Lee Evans, Buf WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 17-41</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 31-22</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10536">
+            <player-slot/>
+            <player-name>Trent Edwards, Buf QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 17-41</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 30-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, SD WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 10-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 34-7</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 31-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr3688">
+            <player-slot/>
+            <player-name>Robert Royal, Buf TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 17-41</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-24</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 17-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1693">
+            <player-slot/>
+            <player-name>Jake Delhomme, Car QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 34-0</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 41-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr982">
+            <player-slot/>
+            <player-name>Joe Nedney, SF K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 21-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 44-6</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

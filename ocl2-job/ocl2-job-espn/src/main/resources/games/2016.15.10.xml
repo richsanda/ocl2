@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="15" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 41-13</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr18093">
+            <player-slot>RB</player-slot>
+            <player-name>Kenneth Farrow, SD RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-19</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>J.J. Nelson, Ari WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 41-48</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 17-6</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17611">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Ty Montgomery, GB WR, RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 30-27</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 6-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot>D/ST</player-slot>
+            <player-name>Falcons D/ST D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 41-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot>K</player-slot>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 19-16</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 24-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 26-20</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 34-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 24-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 34-13</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 15-26</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 6-34</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 26-20</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

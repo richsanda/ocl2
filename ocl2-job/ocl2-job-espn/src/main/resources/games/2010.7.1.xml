@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="7" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-22</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 37-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 19-37</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Min WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 24-28</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-22</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 24-28</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr9695">
+            <player-slot/>
+            <player-name>Jason Avant, Phi WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 19-37</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 17-30</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 59-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11256">
+            <player-slot/>
+            <player-name>Felix Jones, Dal RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 35-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 42-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 39-32</game-status>
+            <points>38</points>
+         </player>
+         <player id="plyr3561">
+            <player-slot/>
+            <player-name>Jabar Gaffney, Den WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 14-59</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10482">
+            <player-slot/>
+            <player-name>Zach Miller, Oak TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 59-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 14-17</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

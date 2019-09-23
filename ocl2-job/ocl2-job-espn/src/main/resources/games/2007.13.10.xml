@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="13" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-42</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 21-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, NE WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 28-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Bal K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 24-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 28-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 28-16</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 37-27</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 20-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 16-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 24-10</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 31-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Cle QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 21-27</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr4564">
+            <player-slot/>
+            <player-name>Shaun McDonald, Det WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-42</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 21-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

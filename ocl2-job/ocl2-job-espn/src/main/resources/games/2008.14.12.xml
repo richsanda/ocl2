@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="14" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 24-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 24-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 28-9</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 3-35</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 24-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5534">
+            <player-slot/>
+            <player-name>Reggie Williams, Jac WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 10-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 9-28</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr658">
+            <player-slot/>
+            <player-name>Isaac Bruce, SF WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-14</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 23-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 23-38</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr11276">
+            <player-slot/>
+            <player-name>Eddie Royal, Den WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 24-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 14-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 28-9</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9475">
+            <player-slot/>
+            <player-name>Ryan Grant, GB RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 21-24</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10660">
+            <player-slot/>
+            <player-name>Tyler Thigpen, KC QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-24</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

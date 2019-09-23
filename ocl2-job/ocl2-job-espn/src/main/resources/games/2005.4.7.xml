@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="4" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr1669">
+            <player-slot/>
+            <player-name>Mike Vanderjagt, Ind K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1762">
+            <player-slot/>
+            <player-name>Daunte Culpepper, Min QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 10-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 13-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 30-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5554">
+            <player-slot/>
+            <player-name>Michael Jenkins, Atl WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 30-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1858">
+            <player-slot/>
+            <player-name>Brandon Stokley, Ind WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-10</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr979">
+            <player-slot/>
+            <player-name>Stephen Davis, Car RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 32-29</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1196">
+            <player-slot/>
+            <player-name>Corey Dillon, NE RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-41</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 16-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr909">
+            <player-slot/>
+            <player-name>Marcus Pollard, Det TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-17</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr1493">
+            <player-slot/>
+            <player-name>Brian Griese, TB QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 17-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr278">
+            <player-slot/>
+            <player-name>Jimmy Smith, Jac WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 7-20</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 17-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 13-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr276">
+            <player-slot/>
+            <player-name>Keenan McCardell, SD WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 41-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1432">
+            <player-slot/>
+            <player-name>Ahman Green, GB RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 29-32</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

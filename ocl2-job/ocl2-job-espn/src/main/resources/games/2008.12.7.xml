@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="12" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-3</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 6-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-3</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 28-45</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 48-28</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 29-51</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 48-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 22-35</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 51-29</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 29-51</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 29-51</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 45-28</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 54-31</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr982">
+            <player-slot/>
+            <player-name>Joe Nedney, SF K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 22-35</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 37-29</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, NYJ RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-13</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

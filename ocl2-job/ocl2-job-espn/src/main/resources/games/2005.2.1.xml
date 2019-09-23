@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="2" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 23-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 24-26</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 12-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 37-8</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 17-12</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 14-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2571">
+            <player-slot/>
+            <player-name>Deuce McAllister, NO RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 10-27</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 25-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1306">
+            <player-slot/>
+            <player-name>Priest Holmes, KC RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 23-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 42-3</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-38</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 17-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8420">
+            <player-slot/>
+            <player-name>Carnell Williams, TB RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 19-3</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 23-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Phi WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 42-3</game-status>
+            <points>32</points>
+         </player>
+      </players>
+   </team>
+</game>

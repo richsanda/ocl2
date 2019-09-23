@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="16" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14901">
+            <player-slot/>
+            <player-name>Dwayne Allen, Ind TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 20-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-12</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 33-14</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 27-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 6-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 13-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 55-7</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 13-42</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Cle RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 12-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-12</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 14-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 28-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 33-14</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-12</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="1" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr17678">
+            <player-slot/>
+            <player-name>T.J. Yeldon, Jax RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 9-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 20-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 26-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 20-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 28-21</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 31-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 14-42</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 26-24</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17171">
+            <player-slot/>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 19-13</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 28-33</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 13-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot/>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 10-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-9</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, NE TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 28-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 28-21</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 26-24</game-status>
+            <points>28</points>
+         </player>
+      </players>
+   </team>
+</game>

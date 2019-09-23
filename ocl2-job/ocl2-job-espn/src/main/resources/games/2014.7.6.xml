@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="7" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 23-30</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 31-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Mia RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 27-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-25</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 42-17</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, Den WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 42-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-25</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-0</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr16889">
+            <player-slot/>
+            <player-name>Andre Williams, NYG RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 21-31</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 31-21</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, SF WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-42</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot/>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 19-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 26-28</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 20-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot/>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-25</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 29-7</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

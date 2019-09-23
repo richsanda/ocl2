@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="12" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 21-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 17-13</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-42</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 27-6</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 27-6</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, NE WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 34-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-42</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 34-31</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr12576">
+            <player-slot/>
+            <player-name>Brandon LaFell, NE WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 34-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, Bal WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 19-3</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot/>
+            <player-name>Jared Cook, StL TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 42-21</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 41-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-42</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 41-38</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Oak RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 19-23</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 41-38</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

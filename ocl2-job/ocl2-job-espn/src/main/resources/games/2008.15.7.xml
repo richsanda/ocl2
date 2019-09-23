@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="15" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 27-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1798">
+            <player-slot/>
+            <player-name>Kevin Faulk, NE RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 49-26</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr8593">
+            <player-slot/>
+            <player-name>Bo Scaife, Ten TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 12-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 30-10</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 49-26</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 16-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 49-26</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr11272">
+            <player-slot/>
+            <player-name>John Carlson, Sea TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 23-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 22-21</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr3593">
+            <player-slot/>
+            <player-name>Deion Branch, Sea WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 23-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 22-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-21</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYJ K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 31-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 24-27</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

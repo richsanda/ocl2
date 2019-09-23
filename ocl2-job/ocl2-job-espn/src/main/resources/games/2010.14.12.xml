@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="14" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 17-16</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11461">
+            <player-slot/>
+            <player-name>Peyton Hillis, Cle RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 6-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 27-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 13-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 31-0</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 17-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 21-3</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Dal QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 27-30</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 31-0</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 21-3</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 10-6</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 31-0</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, StL WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 13-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 3-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Ind WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 30-28</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+</game>

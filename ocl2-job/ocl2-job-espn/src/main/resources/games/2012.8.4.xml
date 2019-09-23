@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="8" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 16-26</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13553">
+            <player-slot/>
+            <player-name>Victor Cruz, NYG WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 29-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot/>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 7-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot/>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-36</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Phi QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 17-30</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Den RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 34-14</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot/>
+            <player-name>Greg Zuerlein, StL K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 7-45</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 34-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9307">
+            <player-slot/>
+            <player-name>Nate Washington, Ten WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 13-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 6-7</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-3</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 36-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, GB WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 24-15</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 24-15</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-3</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

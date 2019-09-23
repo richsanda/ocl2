@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="14" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Den RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 41-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 24-18</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 28-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 28-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 41-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 20-44</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 34-13</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 19-10</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 13-34</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 13-34</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 44-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10591">
+            <player-slot/>
+            <player-name>Kolby Smith, KC RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 7-41</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 19-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 24-16</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

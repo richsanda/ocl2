@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="3" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 56-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9607">
+            <player-slot/>
+            <player-name>Laurence Maroney, NE RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 38-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 34-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 56-21</game-status>
+            <points>37</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 14-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 21-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 13-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 24-26</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 24-30</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 21-56</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 24-31</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 30-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr4939">
+            <player-slot/>
+            <player-name>Mike Furrey, Det WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 21-56</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 34-10</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 23-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 38-7</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

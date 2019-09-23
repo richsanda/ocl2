@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="7" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 28-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 28-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr12516">
+            <player-slot/>
+            <player-name>Knowshon Moreno, Den RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 14-59</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Cin WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 32-39</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 39-32</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 39-32</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Mia WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 22-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-23</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr12731">
+            <player-slot/>
+            <player-name>Ryan Succop, KC K</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 42-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 18-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11461">
+            <player-slot/>
+            <player-name>Peyton Hillis, Cle RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 30-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 35-41</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 35-41</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 37-19</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 17-30</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="11" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, NO K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 13-6</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 17-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot/>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 53-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 6-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot/>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 10-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 6-14</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr16782">
+            <player-slot/>
+            <player-name>Jerick McKinnon, Min RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 13-21</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 19-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14922">
+            <player-slot/>
+            <player-name>Mohamed Sanu, Cin WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 13-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, Atl RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 19-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, Cle WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 7-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 17-19</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 20-24</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

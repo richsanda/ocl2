@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="12" team="3">
+   <team>
+      <header>Bridgewater Raritan Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 23-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, SD QB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 23-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 7-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 26-7</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8436">
+            <player-slot/>
+            <player-name>Matt Jones, Jac WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 26-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2212">
+            <player-slot/>
+            <player-name>Reuben Droughns, Cle RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 12-24</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Patrick Bugbee Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 21-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr3541">
+            <player-slot/>
+            <player-name>Donte' Stallworth, NO WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 21-19</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 7-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 10-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr734">
+            <player-slot/>
+            <player-name>Kerry Collins, Oak QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 21-33</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr453">
+            <player-slot/>
+            <player-name>Jason Elam, Den K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 24-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 9-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 19-14</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+</game>

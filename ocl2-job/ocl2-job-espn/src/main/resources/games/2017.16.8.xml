@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="16" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 23-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17919">
+            <player-slot>RB</player-slot>
+            <player-name>Jordan Howard, Chi RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 20-3</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr18225">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Kareem Hunt, KC RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 29-13</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 19-22</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr18306">
+            <player-slot>WR/TE</player-slot>
+            <player-name>JuJu Smith-Schuster, Pit WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 16-0</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bears D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 20-3</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr18409">
+            <player-slot>K</player-slot>
+            <player-name>Harrison Butker, KC K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 29-13</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 22-19</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-6</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Phi RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 19-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr16725">
+            <player-slot>WR</player-slot>
+            <player-name>Sammy Watkins, LAR WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17682">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Devin Funchess, Car WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 22-19</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>TE</player-slot>
+            <player-name>Evan Engram, NYG TE   Q</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 0-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot>D/ST</player-slot>
+            <player-name>Rams D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 17-26</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

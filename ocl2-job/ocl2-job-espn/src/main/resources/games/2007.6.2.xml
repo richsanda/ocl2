@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="6" team="2">
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Was D/ST</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 17-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 31-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 31-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 16-9</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 28-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-31</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 25-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>L 17-37</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2163">
+            <player-slot/>
+            <player-name>Dennis Northcutt, Jac WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 37-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 28-14</game-status>
+            <points>48</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Cle QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-31</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr1485">
+            <player-slot/>
+            <player-name>Joe Jurevicius, Cle WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 41-31</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Jac RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 37-17</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 48-27</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

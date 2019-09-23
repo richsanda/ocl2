@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="15" team="2">
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 22-29</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr2401">
+            <player-slot/>
+            <player-name>Aaron Stecker, NO RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 33-14</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 13-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 10-22</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 0-8</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 17-26</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 22-29</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 13-31</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 26-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 21-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 26-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 13-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10896">
+            <player-slot/>
+            <player-name>Selvin Young, Den RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 13-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 22-10</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

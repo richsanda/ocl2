@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="8" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 10-35</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 16-7</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 35-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Cle QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-20</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 13-3</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 13-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 7-52</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 52-7</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 13-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 31-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 13-9</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1858">
+            <player-slot/>
+            <player-name>Brandon Stokley, Den WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 13-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Den RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 13-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 27-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2178">
+            <player-slot/>
+            <player-name>Jerry Porter, Oak WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 9-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 52-7</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

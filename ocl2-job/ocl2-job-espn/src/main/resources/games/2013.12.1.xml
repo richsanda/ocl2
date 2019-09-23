@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="12" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, NYJ RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 3-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 31-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 24-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 23-19</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 31-34</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 20-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 24-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>T 26-26</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Great Jaerbs Box Score</header>
+      <players>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, Chi TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 21-42</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>T 26-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 17-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12503">
+            <player-slot/>
+            <player-name>Rashad Jennings, NYG RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 21-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12517">
+            <player-slot/>
+            <player-name>Chris Ogbonnaya, Cle RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 11-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 27-11</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, Car WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 20-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin III, Wsh QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 6-27</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="15" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Hou K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-28</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-34</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Bal WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-34</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 19-45</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11264">
+            <player-slot/>
+            <player-name>Dustin Keller, NYJ TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 19-45</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 14-19</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Ind WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-13</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 20-3</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13230">
+            <player-slot/>
+            <player-name>Aaron Hernandez, NE TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-23</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 30-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 28-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-15</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr10519">
+            <player-slot/>
+            <player-name>Laurent Robinson, Dal WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-15</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 20-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Min WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 20-42</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr4245">
+            <player-slot/>
+            <player-name>Billy Cundiff, Bal K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-34</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

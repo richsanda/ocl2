@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="15" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, Cle K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 8-0</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 37-3</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 51-14</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 37-3</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 31-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr9475">
+            <player-slot/>
+            <player-name>Ryan Grant, GB RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 33-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2026">
+            <player-slot/>
+            <player-name>Jeff Garcia, TB QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 37-3</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 24-31</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 31-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 51-14</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 13-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Cle QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 8-0</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 6-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4564">
+            <player-slot/>
+            <player-name>Shaun McDonald, Det WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-51</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 10-22</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 20-10</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

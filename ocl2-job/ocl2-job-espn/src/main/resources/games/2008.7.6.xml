@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="7" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 23-14</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4597">
+            <player-slot/>
+            <player-name>Bobby Wade, Min WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 41-48</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1693">
+            <player-slot/>
+            <player-name>Jake Delhomme, Car QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 30-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr4713">
+            <player-slot/>
+            <player-name>Kevin Walter, Hou WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr982">
+            <player-slot/>
+            <player-name>Joe Nedney, SF K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 17-29</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 16-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-17</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 14-11</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 34-10</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 30-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 13-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 14-34</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 41-48</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 13-16</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="10" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 35-36</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-16</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 16-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 16-31</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 31-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-16</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 16-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 16-31</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Ferguson Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 21-29</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr943">
+            <player-slot/>
+            <player-name>Eddie Kennison, KC WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 3-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 31-17</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 21-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 21-24</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr1485">
+            <player-slot/>
+            <player-name>Joe Jurevicius, Sea WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr935">
+            <player-slot/>
+            <player-name>Eric Moulds, Buf WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 14-3</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 25-33</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+</game>

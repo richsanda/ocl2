@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="13" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 13-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 6-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 16-34</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 24-34</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 13-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 38-14</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Mia K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 10-13</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 28-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-38</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 24-28</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Phi QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-24</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr9611">
+            <player-slot/>
+            <player-name>Santonio Holmes, NYJ WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 3-45</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Pit WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 13-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-30</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+</game>

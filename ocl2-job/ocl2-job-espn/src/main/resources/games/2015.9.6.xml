@@ -1,0 +1,141 @@
+<game season="2015" scoringPeriod="9" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr17184">
+            <player-slot/>
+            <player-name>Willie Snead, NO WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 28-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 18-32</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>25</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 27-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 29-37</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr17746">
+            <player-slot/>
+            <player-name>Josh Lambo, SD K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 19-22</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14876">
+            <player-slot/>
+            <player-name>Ryan Tannehill, Mia QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 17-33</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Dal RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 27-33</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr11373">
+            <player-slot/>
+            <player-name>Jacob Tamme, Atl TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 16-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 18-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Stevie Johnson, SD WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 19-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 29-37</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 33-27</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Pit RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 38-35</game-status>
+            <points>38</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 27-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 37-29</game-status>
+            <points>32</points>
+         </player>
+      </players>
+   </team>
+</game>

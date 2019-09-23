@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="6" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr1686">
+            <player-slot/>
+            <player-name>Mike Sellers, Was RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 10-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-25</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 22-3</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, Dal K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 27-48</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 48-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 3-22</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4475">
+            <player-slot/>
+            <player-name>Bryant Johnson, Ari WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-25</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, StL WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 3-22</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 13-10</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 17-14</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 28-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 31-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 28-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-25</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 31-41</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+</game>

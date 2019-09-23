@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="14" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB   Q</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 21-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB   Q</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 23-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 34-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, GB TE</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 34-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 26-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 33-34</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 24-21</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot>RB</player-slot>
+            <player-name>Adrian Peterson, Wsh RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 16-40</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 21-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot>WR</player-slot>
+            <player-name>Josh Gordon, NE WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 33-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Robinson, Chi WR</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>W 15-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 23-29</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 20-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 17-3</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

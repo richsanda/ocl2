@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="14" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr8449">
+            <player-slot/>
+            <player-name>Reggie Brown, Phi WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 21-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 30-19</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 17-42</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 27-10</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Bal K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 20-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 13-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 21-19</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 42-27</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 27-7</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 20-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 13-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 20-30</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2149">
+            <player-slot/>
+            <player-name>Chad Pennington, NYJ QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 13-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 20-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 13-31</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 17-42</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

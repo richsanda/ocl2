@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="3" team="9">
+   <team>
+      <header>The Great Jaerbs Box Score</header>
+      <players>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 23-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 40-23</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 45-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Den TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 37-21</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 23-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 26-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 40-23</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Dal RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-7</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 45-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-7</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, Den WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 37-21</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot/>
+            <player-name>Alfred Morris, Wsh RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 20-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 38-0</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, NO TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-7</game-status>
+            <points>27</points>
+         </player>
+      </players>
+   </team>
+</game>

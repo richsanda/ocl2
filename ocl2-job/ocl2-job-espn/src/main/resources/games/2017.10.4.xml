@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="10" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 20-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 20-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 15-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 15-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Evan Engram, NYG TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 21-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE   Q</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 22-16</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot>D/ST</player-slot>
+            <player-name>Lions D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 38-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 38-24</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr17907">
+            <player-slot>QB</player-slot>
+            <player-name>Dak Prescott, Dal QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 7-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18218">
+            <player-slot>RB</player-slot>
+            <player-name>Leonard Fournette, Jax RB</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>W 20-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-20</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 20-24</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 38-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr17861">
+            <player-slot>TE</player-slot>
+            <player-name>Austin Hooper, Atl TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 21-45</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 10-47</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

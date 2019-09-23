@@ -1,0 +1,141 @@
+<game season="2013" scoringPeriod="5" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr12549">
+            <player-slot/>
+            <player-name>Brandon Pettigrew, Det TE</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 9-22</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14123">
+            <player-slot/>
+            <player-name>Alex Henery, Phi K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 36-21</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15826">
+            <player-slot/>
+            <player-name>Giovani Bernard, Cin RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 13-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Wsh WR</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>21</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, NYJ QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 30-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 51-48</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 22-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 3-34</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, Bal WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 26-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 28-30</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 17-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Buf K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 24-37</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 28-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9646">
+            <player-slot/>
+            <player-name>Maurice Jones-Drew, Oak RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 27-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot/>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 13-6</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 36-21</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

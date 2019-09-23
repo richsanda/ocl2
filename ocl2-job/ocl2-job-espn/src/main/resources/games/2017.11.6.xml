@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="11" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 31-34</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-21</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15880">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Robert Woods*, LAR WR   O</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 7-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR   Q</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 31-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 9-12</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 33-8</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jaguars D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 19-7</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr18178">
+            <player-slot>K</player-slot>
+            <player-name>Jake Elliott, Phi K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 37-9</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 8-33</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16913">
+            <player-slot>RB</player-slot>
+            <player-name>James White, NE RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 33-8</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17689">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Tevin Coleman, Atl RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 34-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>W 24-7</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17593">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeVante Parker, Mia WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 20-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot>TE</player-slot>
+            <player-name>Martellus Bennett, NE TE   D</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 33-8</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 20-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 34-31</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

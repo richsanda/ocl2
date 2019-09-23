@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="14" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 47-7</game-status>
+            <points>39</points>
+         </player>
+         <player id="plyr10495">
+            <player-slot/>
+            <player-name>Steve Smith, NYG WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 38-45</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-20</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 34-7</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 30-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 30-10</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr10605">
+            <player-slot/>
+            <player-name>Brent Celek, Phi TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 45-38</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 26-23</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, Phi WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 45-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10713">
+            <player-slot/>
+            <player-name>Pierre Thomas, NO RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 26-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 24-9</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 28-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr12585">
+            <player-slot/>
+            <player-name>Louis Murphy, Oak WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 13-34</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Car RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11543">
+            <player-slot/>
+            <player-name>Garrett Hartley, NO K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 26-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11252">
+            <player-slot/>
+            <player-name>Joe Flacco, Bal QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 48-3</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

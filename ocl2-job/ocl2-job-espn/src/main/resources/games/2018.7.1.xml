@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="7" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr18168">
+            <player-slot>QB</player-slot>
+            <player-name>Mitchell Trubisky, Chi QB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 31-38</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 39-10</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr18193">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Joe Mixon, Cin RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-45</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 39-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15839">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Marquise Goodwin, SF WR</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 10-39</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18431">
+            <player-slot>TE</player-slot>
+            <player-name>Ricky Seals-Jones, Ari TE   Q</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 10-45</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 20-19</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Min K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 37-17</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr18246">
+            <player-slot>QB</player-slot>
+            <player-name>Deshaun Watson, Hou QB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 20-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr18187">
+            <player-slot>RB</player-slot>
+            <player-name>Alvin Kamara, NO RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 24-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>RB/WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-45</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 20-23</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 37-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot>TE</player-slot>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 21-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot>D/ST</player-slot>
+            <player-name>Colts D/ST D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 37-5</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr18409">
+            <player-slot>K</player-slot>
+            <player-name>Harrison Butker, KC K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 45-10</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

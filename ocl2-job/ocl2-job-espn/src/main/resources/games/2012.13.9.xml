@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="13" team="9">
+   <team>
+      <header>Christ Punchers Box Score</header>
+      <players>
+         <player id="plyr12579">
+            <player-slot/>
+            <player-name>Jeremy Maclin, Phi WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 33-38</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Hou K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 24-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot/>
+            <player-name>Martellus Bennett, NYG TE</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 16-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 23-14</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 16-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 23-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13206">
+            <player-slot/>
+            <player-name>Jonathan Dwyer, Pit RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 23-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-16</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Wsh WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 17-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13230">
+            <player-slot/>
+            <player-name>Aaron Hernandez, NE TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 35-33</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 20-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot/>
+            <player-name>Alfred Morris, Wsh RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 17-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11754">
+            <player-slot/>
+            <player-name>BenJarvus Green-Ellis, Cin RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 20-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 21-27</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-16</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="7" team="9">
+   <team>
+      <header>Cramalama Swiss CakeRolls Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 7-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot/>
+            <player-name>Torrey Smith, SF WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 3-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 20-3</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr17399">
+            <player-slot/>
+            <player-name>Jameis Winston, TB QB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 30-31</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr9329">
+            <player-slot/>
+            <player-name>Nick Novak, Hou K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 26-44</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14904">
+            <player-slot/>
+            <player-name>Ladarius Green, Pit TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 30-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 19-28</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr13213">
+            <player-slot/>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 30-23</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 29-37</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14189">
+            <player-slot/>
+            <player-name>Jordan Cameron, Mia TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 44-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15878">
+            <player-slot/>
+            <player-name>Terrance Williams, Dal WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 20-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 19-28</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot/>
+            <player-name>Alfred Morris, Dal RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 20-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-20</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 30-23</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

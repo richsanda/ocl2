@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="5" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB   Q</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 24-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 10-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 16-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 19-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 35-31</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 14-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 20-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr18454">
+            <player-slot>K</player-slot>
+            <player-name>Ka'imi Fairbairn, Hou K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 34-42</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr17907">
+            <player-slot>QB</player-slot>
+            <player-name>Dak Prescott, Dal QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 31-35</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr18218">
+            <player-slot>RB</player-slot>
+            <player-name>Leonard Fournette, Jax RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 30-9</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jeremy Maclin, Bal WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 30-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-16</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 24-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 17-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 19-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 30-17</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

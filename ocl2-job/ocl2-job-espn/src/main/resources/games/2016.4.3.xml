@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="4" team="3">
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 43-14</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 24-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17809">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Will Fuller V, Hou WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-20</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 43-14</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 7-22</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-20</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 24-17</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 14-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 17-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 27-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>WR</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>L 13-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14900">
+            <player-slot>TE</player-slot>
+            <player-name>Coby Fleener, NO TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 35-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot>D/ST</player-slot>
+            <player-name>Titans D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 20-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 16-0</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="16" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr16913">
+            <player-slot/>
+            <player-name>James White, NE RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 13-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 38-8</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr17619">
+            <player-slot/>
+            <player-name>Tyler Lockett, Sea WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 17-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16724">
+            <player-slot/>
+            <player-name>Blake Bortles, Jax QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 27-38</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 38-8</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 8-38</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 21-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 38-27</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot/>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 13-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 26-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 20-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jax TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 27-38</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 17-23</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 26-20</game-status>
+            <points>25</points>
+         </player>
+      </players>
+   </team>
+</game>

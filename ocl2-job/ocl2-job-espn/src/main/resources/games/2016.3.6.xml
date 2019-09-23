@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="3" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 17-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 0-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-0</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 0-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-0</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot>TE</player-slot>
+            <player-name>Martellus Bennett, GB TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot>D/ST</player-slot>
+            <player-name>Giants D/ST D/ST</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 27-29</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 3-34</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr14012">
+            <player-slot>QB</player-slot>
+            <player-name>Andy Dalton, Cin QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-29</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot>RB</player-slot>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 29-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 45-32</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13553">
+            <player-slot>WR</player-slot>
+            <player-name>Victor Cruz, NYG WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 27-29</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 17-19</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, SD TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 22-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 29-17</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

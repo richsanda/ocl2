@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="16" team="3">
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 31-27</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 42-21</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 25-33</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 31-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17834">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Thomas, NO WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 31-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot>TE</player-slot>
+            <player-name>Vernon Davis, Wsh TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 41-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 25-38</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 42-21</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 25-33</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 31-27</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Mia RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 34-31</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 33-25</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14901">
+            <player-slot>TE</player-slot>
+            <player-name>Dwayne Allen, NE TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 41-3</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 41-3</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 21-42</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="5" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-17</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 21-0</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 16-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 3-34</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8440">
+            <player-slot/>
+            <player-name>Jason Campbell, Was QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-3</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 24-25</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Chi WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, Dal K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 31-34</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

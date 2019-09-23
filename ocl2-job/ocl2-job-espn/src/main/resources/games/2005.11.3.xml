@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="11" team="3">
+   <team>
+      <header>Bridgewater Raritan Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 48-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, SD QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 48-10</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 45-37</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-25</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8436">
+            <player-slot/>
+            <player-name>Matt Jones, Jac WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-28</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 45-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2212">
+            <player-slot/>
+            <player-name>Reuben Droughns, Cle RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 22-0</game-status>
+            <points>26</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 3-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 48-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 17-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 38-28</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 37-45</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 28-38</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 45-17</game-status>
+            <points>37</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 13-16</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

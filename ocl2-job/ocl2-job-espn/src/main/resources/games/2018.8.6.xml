@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="8" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr18210">
+            <player-slot>QB</player-slot>
+            <player-name>Patrick Mahomes, KC QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 30-23</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr18602">
+            <player-slot>RB</player-slot>
+            <player-name>Kerryon Johnson, Det RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 14-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15880">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Robert Woods, LAR WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 29-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR</player-slot>
+            <player-name>Tyreek Hill, KC WR   Q</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 30-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 42-23</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Ind TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 42-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot>D/ST</player-slot>
+            <player-name>Rams D/ST D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 29-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 30-20</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 42-28</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot>RB</player-slot>
+            <player-name>Adrian Peterson, Wsh RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 20-13</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 42-23</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot>WR</player-slot>
+            <player-name>Josh Gordon, NE WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Martavis Bryant, Oak WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 28-42</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>TE</player-slot>
+            <player-name>Evan Engram, NYG TE</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 13-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 23-42</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 14-28</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

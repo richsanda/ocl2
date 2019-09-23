@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="5" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Bal TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 26-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Det K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 9-22</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 26-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr13553">
+            <player-slot/>
+            <player-name>Victor Cruz, NYG WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 21-36</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot/>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 37-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 13-6</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 37-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 34-28</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr11788">
+            <player-slot/>
+            <player-name>Danny Woodhead, SD RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 17-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 48-51</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 6-22</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12503">
+            <player-slot/>
+            <player-name>Rashad Jennings, NYG RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 21-36</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 22-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 26-23</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 28-30</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 26-18</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

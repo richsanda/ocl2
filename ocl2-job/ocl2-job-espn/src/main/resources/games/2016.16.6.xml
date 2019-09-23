@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="16" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 41-21</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr17658">
+            <player-slot>RB</player-slot>
+            <player-name>Duke Johnson Jr., Cle RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 20-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 12-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 24-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17600">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jamison Crowder, Wsh WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 41-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16766">
+            <player-slot>TE</player-slot>
+            <player-name>C.J. Fiedorowicz, Hou TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 12-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15965">
+            <player-slot>K</player-slot>
+            <player-name>Dustin Hopkins, Wsh K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 41-21</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr17610">
+            <player-slot>QB</player-slot>
+            <player-name>Marcus Mariota, Ten QB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 17-38</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 17-38</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 41-3</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-19</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Pierre Garcon, SF WR</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 22-21</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 33-10</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 10-12</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 41-3</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

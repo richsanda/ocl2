@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="3" team="3">
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 37-43</game-status>
+            <points>43</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 13-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18415">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Cooper Kupp, LAR WR</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>W 35-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 30-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17834">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Thomas, NO WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 43-37</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17195">
+            <player-slot>TE</player-slot>
+            <player-name>Trey Burton, Chi TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 16-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 31-21</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 37-43</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14163">
+            <player-slot>QB</player-slot>
+            <player-name>Tyrod Taylor, Cle QB   Q</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 21-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 31-21</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr18106">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Peyton Barber, TB RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 27-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>WR</player-slot>
+            <player-name>Keenan Allen, LAC WR   Q</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>L 23-35</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18466">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Keelan Cole, Jax WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 6-9</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 31-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jaguars D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 6-9</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 10-26</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

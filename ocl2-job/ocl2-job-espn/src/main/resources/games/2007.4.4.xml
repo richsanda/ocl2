@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="4" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 20-38</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 21-14</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 13-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Den RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 20-38</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 35-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 13-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-13</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr10496">
+            <player-slot/>
+            <player-name>Brian Leonard, StL RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-35</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 23-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 35-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 38-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 3-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 30-16</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-13</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

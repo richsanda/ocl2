@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="8" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr12473">
+            <player-slot/>
+            <player-name>Josh Freeman, TB QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 38-35</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12525">
+            <player-slot/>
+            <player-name>Beanie Wells, Ari RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 35-38</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Hou K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 17-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 33-25</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 38-35</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 10-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, GB WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 9-0</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Cin RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 14-22</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 20-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 13-10</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 38-35</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr3561">
+            <player-slot/>
+            <player-name>Jabar Gaffney, Den WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 16-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10482">
+            <player-slot/>
+            <player-name>Zach Miller, Oak TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-3</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13367">
+            <player-slot/>
+            <player-name>David Gettis, Car WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 10-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, KC RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 13-10</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

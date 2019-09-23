@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="2" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 38-39</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Min WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 15-18</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>L 30-33</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 6-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9611">
+            <player-slot/>
+            <player-name>Santonio Holmes, Pit WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 10-6</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 48-25</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 33-30</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NO TE</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 24-29</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 25-48</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 18-15</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 37-41</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 48-25</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 13-41</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 20-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 41-37</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+</game>

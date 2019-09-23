@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="2" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 27-35</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 13-35</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 18-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 7-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, NO RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 27-35</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 27-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, Mia RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 35-13</game-status>
+            <points>35</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 19-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11373">
+            <player-slot/>
+            <player-name>Jacob Tamme, Den TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 21-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10488">
+            <player-slot/>
+            <player-name>Sidney Rice, Sea WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 27-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 35-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 18-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 10-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 18-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Phi RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 24-23</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

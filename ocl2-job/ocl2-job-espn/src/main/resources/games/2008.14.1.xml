@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="14" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 28-9</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 16-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 13-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 24-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 35-3</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 20-16</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Mia K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 16-3</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 14-24</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 25-29</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 24-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, TB K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 23-38</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 34-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11383">
+            <player-slot/>
+            <player-name>Tim Hightower, Ari RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 34-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 13-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 24-17</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+</game>

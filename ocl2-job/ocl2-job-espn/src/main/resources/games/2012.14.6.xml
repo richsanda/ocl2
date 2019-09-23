@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="14" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 27-52</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 34-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-30</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, NYG RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 52-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15092">
+            <player-slot/>
+            <player-name>Bryce Brown, Phi RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 23-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15078">
+            <player-slot/>
+            <player-name>Chris Givens, StL WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 15-12</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-21</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 20-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 20-19</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9361">
+            <player-slot/>
+            <player-name>Shaun Suisham, Pit K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 24-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 20-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 58-0</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 58-0</game-status>
+            <points>41</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-30</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-21</game-status>
+            <points>24</points>
+         </player>
+      </players>
+   </team>
+</game>

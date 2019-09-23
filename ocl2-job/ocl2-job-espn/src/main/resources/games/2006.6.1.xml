@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="6" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5538">
+            <player-slot/>
+            <player-name>Lee Evans, Buf WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 17-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2211">
+            <player-slot/>
+            <player-name>Darrell Jackson, Sea WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 30-28</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Atl QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-27</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 45-7</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2773">
+            <player-slot/>
+            <player-name>Eric Johnson, SF TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 19-48</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 7-45</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, SD RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 48-19</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-14</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 22-25</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 28-30</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr43">
+            <player-slot/>
+            <player-name>John Carney, NO K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 23-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 28-30</game-status>
+            <points>37</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-24</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

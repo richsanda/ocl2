@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="9" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr16781">
+            <player-slot/>
+            <player-name>Paul Richardson, Sea WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot/>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 22-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 10-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 10-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot/>
+            <player-name>Blair Walsh, Min K</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 29-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 43-21</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 0-37</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 10-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 28-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jac TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 23-33</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 33-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14895">
+            <player-slot/>
+            <player-name>Ronnie Hillman, Den RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 21-43</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10522">
+            <player-slot/>
+            <player-name>James Jones, Oak WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 24-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 21-43</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 43-21</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

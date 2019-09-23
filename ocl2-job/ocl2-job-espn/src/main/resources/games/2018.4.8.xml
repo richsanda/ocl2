@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="4" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr14012">
+            <player-slot>QB</player-slot>
+            <player-name>Andy Dalton, Cin QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 37-36</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr17919">
+            <player-slot>RB</player-slot>
+            <player-name>Jordan Howard, Chi RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 48-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18567">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Saquon Barkley, NYG RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 18-33</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 10-48</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18306">
+            <player-slot>WR/TE</player-slot>
+            <player-name>JuJu Smith-Schuster, Pit WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 14-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr18292">
+            <player-slot>TE</player-slot>
+            <player-name>George Kittle, SF TE   Q</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>L 27-29</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 17-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15918">
+            <player-slot>K</player-slot>
+            <player-name>Caleb Sturgis, LAC K   Q</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-27</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, LAC QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-27</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr17933">
+            <player-slot>RB</player-slot>
+            <player-name>Alex Collins, Bal RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 26-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18106">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Peyton Barber, TB RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 10-48</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>WR</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr18466">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Keelan Cole, Jax WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-12</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot>TE</player-slot>
+            <player-name>Antonio Gates, LAC TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jaguars D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-12</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-7</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

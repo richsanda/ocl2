@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="7" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60028">
+            <player-slot/>
+            <player-name>Redskins D/ST, Wsh D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 19-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-29</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13210">
+            <player-slot/>
+            <player-name>Ben Tate, Pit RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 30-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14922">
+            <player-slot/>
+            <player-name>Mohamed Sanu, Cin WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 0-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15878">
+            <player-slot/>
+            <player-name>Terrance Williams, Dal WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 31-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, Atl RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-29</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 17-38</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 26-28</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 23-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-13</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 29-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 14-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, Ind RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-0</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr15893">
+            <player-slot/>
+            <player-name>Andre Ellington, Ari RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 19-17</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-0</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="8" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 27-12</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 13-19</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, SF K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-3</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 24-15</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 24-29</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 9-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 22-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-36</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 23-22</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 6-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 45-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12570">
+            <player-slot/>
+            <player-name>Darrius Heyward-Bey, Oak WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 26-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr286">
+            <player-slot/>
+            <player-name>Jason Hanson, Det K</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 28-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 17-36</game-status>
+            <points>-6</points>
+         </player>
+         <player id="plyr12556">
+            <player-slot/>
+            <player-name>Kenny Britt, Ten WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 13-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 28-24</game-status>
+            <points>35</points>
+         </player>
+      </players>
+   </team>
+</game>

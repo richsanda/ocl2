@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="3" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 34-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 14-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11256">
+            <player-slot/>
+            <player-name>Felix Jones, Dal RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 21-7</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 25-19</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 36-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 19-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11329">
+            <player-slot/>
+            <player-name>Mario Manningham, NYG WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-0</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, NYJ WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 24-17</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 14-19</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr9361">
+            <player-slot/>
+            <player-name>Shaun Suisham, Dal K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 21-7</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2670">
+            <player-slot/>
+            <player-name>Correll Buckhalter, Den RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 23-3</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Car RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10482">
+            <player-slot/>
+            <player-name>Zach Miller, Oak TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 3-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 23-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 10-26</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 25-19</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

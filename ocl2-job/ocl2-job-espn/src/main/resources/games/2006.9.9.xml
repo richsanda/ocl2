@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="9" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 14-31</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 10-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 27-20</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 27-20</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr8485">
+            <player-slot/>
+            <player-name>Alex Smith, TB TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 14-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 20-26</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 13-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1196">
+            <player-slot/>
+            <player-name>Corey Dillon, NE RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 20-27</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 27-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 32-25</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 32-25</game-status>
+            <points>41</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 32-25</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1432">
+            <player-slot/>
+            <player-name>Ahman Green, GB RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 10-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 10-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 20-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 31-14</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

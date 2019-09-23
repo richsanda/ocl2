@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="5" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 3-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9307">
+            <player-slot/>
+            <player-name>Nate Washington, Ten WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 9-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 10-45</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 45-10</game-status>
+            <points>39</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 3-6</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 26-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, NYG K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 44-7</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr3636">
+            <player-slot/>
+            <player-name>David Garrard, Jac QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 0-41</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 28-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 14-17</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, Min QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 38-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Min WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 38-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1263">
+            <player-slot/>
+            <player-name>Derrick Mason, Bal WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 14-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 27-31</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 33-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

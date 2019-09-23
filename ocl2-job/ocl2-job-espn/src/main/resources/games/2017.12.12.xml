@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="12" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr17907">
+            <player-slot>QB</player-slot>
+            <player-name>Dak Prescott, Dal QB</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 6-28</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr18218">
+            <player-slot>RB</player-slot>
+            <player-name>Leonard Fournette, Jax RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 24-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 20-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Oak WR   Q</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 21-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 23-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17861">
+            <player-slot>TE</player-slot>
+            <player-name>Austin Hooper, Atl TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 35-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 23-16</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Westerly Donnabairds Box Score</header>
+      <players>
+         <player id="plyr17795">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Wentz, Phi QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 31-3</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, LAC RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-6</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 27-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 16-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14922">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mohamed Sanu, Atl WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 10-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr18454">
+            <player-slot>K</player-slot>
+            <player-name>Ka'imi Fairbairn, Hou K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 16-23</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

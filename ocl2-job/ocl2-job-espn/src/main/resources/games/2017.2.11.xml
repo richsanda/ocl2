@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="2" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 36-20</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot>RB</player-slot>
+            <player-name>Marshawn Lynch, Oak RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 45-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Emmanuel Sanders, Den WR   Q</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 42-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 34-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17861">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Austin Hooper, Atl TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 34-23</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, LAC TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 17-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 12-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 23-34</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 34-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 9-3</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Keenan Allen, LAC WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 17-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 12-9</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyrell Williams, LAC WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 17-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 37-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 42-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 36-20</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="15" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr18210">
+            <player-slot>QB</player-slot>
+            <player-name>Patrick Mahomes, KC QB</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 28-29</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr18809">
+            <player-slot>RB</player-slot>
+            <player-name>Justin Jackson, LAC RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 29-28</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18341">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Chris Carson, Sea RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 23-26</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 28-29</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 29-22</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Ind TE   Q</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 23-0</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot>D/ST</player-slot>
+            <player-name>Rams D/ST D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 23-30</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 12-9</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 40-14</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 0-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17832">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Derrick Henry, Ten RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 17-0</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr17834">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Thomas, NO WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 12-9</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 17-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17784">
+            <player-slot>TE</player-slot>
+            <player-name>Cameron Brate, TB TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 12-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot>D/ST</player-slot>
+            <player-name>Lions D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 13-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot>K</player-slot>
+            <player-name>Sebastian Janikowski, Sea K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 23-26</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

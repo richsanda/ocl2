@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="6" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Det K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 24-7</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 19-6</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13553">
+            <player-slot/>
+            <player-name>Victor Cruz, NYG WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 21-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13555">
+            <player-slot/>
+            <player-name>Jeff Cumberland, NYJ TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 6-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 27-24</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 17-31</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 9-19</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 27-30</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot/>
+            <player-name>49ers D/ST, SF D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 32-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9592">
+            <player-slot/>
+            <player-name>Vernon Davis, SF TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 32-20</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, NE WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 30-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 7-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-21</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 30-27</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

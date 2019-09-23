@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="4" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 38-20</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-35</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 13-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 17-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Chi WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 27-37</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-35</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-35</game-status>
+            <points>-1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 16-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 37-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 16-30</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 38-20</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Dal RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 35-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4939">
+            <player-slot/>
+            <player-name>Mike Furrey, Det WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 37-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 35-7</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-13</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="3" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, Ten WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 29-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 24-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Ochocinco, Cin WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 20-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Mia WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 23-31</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-31</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 20-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 24-27</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, NE RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 38-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 13-38</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr8544">
+            <player-slot/>
+            <player-name>Darren Sproles, SD RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 20-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 27-13</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

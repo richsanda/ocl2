@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="16" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr12576">
+            <player-slot/>
+            <player-name>Brandon LaFell, NE WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 17-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10195">
+            <player-slot/>
+            <player-name>Fred Jackson, Buf RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 24-26</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-13</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 35-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10572">
+            <player-slot/>
+            <player-name>Scott Chandler, NE TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 17-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 17-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 30-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 6-35</game-status>
+            <points>-6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 12-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 27-37</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot/>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 37-35</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16791">
+            <player-slot/>
+            <player-name>Donte Moncrief, Ind WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-42</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9329">
+            <player-slot/>
+            <player-name>Nick Novak, SD K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 38-35</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot/>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 28-37</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14875">
+            <player-slot/>
+            <player-name>Robert Griffin, Wsh QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16784">
+            <player-slot/>
+            <player-name>Tre Mason, StL RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 27-37</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

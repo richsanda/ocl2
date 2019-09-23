@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="4" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 34-37</game-status>
+            <points>39</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB</player-slot>
+            <player-name>Jay Ajayi*, Phi RB   IR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 23-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16725">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Sammy Watkins, KC WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 27-23</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot>WR</player-slot>
+            <player-name>Josh Gordon, NE WR   Q</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Robinson, Chi WR   Q</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 48-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot>TE</player-slot>
+            <player-name>Benjamin Watson, NO TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 33-18</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot>D/ST</player-slot>
+            <player-name>Browns D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 42-45</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 24-26</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr18246">
+            <player-slot>QB</player-slot>
+            <player-name>Deshaun Watson, Hou QB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 37-34</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr18187">
+            <player-slot>RB</player-slot>
+            <player-name>Alvin Kamara, NO RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 33-18</game-status>
+            <points>39</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>RB/WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 37-36</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 18-33</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>L 31-38</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 45-42</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 22-0</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr18409">
+            <player-slot>K</player-slot>
+            <player-name>Harrison Butker, KC K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 27-23</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

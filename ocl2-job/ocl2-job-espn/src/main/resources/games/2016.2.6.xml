@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="2" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 28-35</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr12503">
+            <player-slot>RB</player-slot>
+            <player-name>Rashad Jennings, NYG RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 16-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 19-12</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 19-12</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 31-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot>TE</player-slot>
+            <player-name>Martellus Bennett, GB TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jets D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 37-31</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-16</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-16</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17797">
+            <player-slot>RB</player-slot>
+            <player-name>Ezekiel Elliott, Dal RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 27-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17184">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Willie Snead, NO WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 13-16</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 24-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14908">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Floyd, NE WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 31-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 23-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 17-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 27-23</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

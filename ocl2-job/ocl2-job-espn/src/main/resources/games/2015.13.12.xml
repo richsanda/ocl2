@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="13" team="12">
+   <team>
+      <header>Brasky's Barnidge Box Score</header>
+      <players>
+         <player id="plyr17149">
+            <player-slot/>
+            <player-name>Antonio Andrews, Ten RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 42-39</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 38-7</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 41-38</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, SF WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 26-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 45-10</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr10453">
+            <player-slot/>
+            <player-name>Ted Ginn Jr., Car WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 41-38</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 13-15</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 45-10</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 34-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 34-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot/>
+            <player-name>Allen Robinson, Jax WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 39-42</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot/>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 19-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8664">
+            <player-slot/>
+            <player-name>Ryan Fitzpatrick, NYJ QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 23-20</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot/>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 15-13</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr8461">
+            <player-slot/>
+            <player-name>Mike Nugent, Cin K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 37-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot/>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 30-21</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

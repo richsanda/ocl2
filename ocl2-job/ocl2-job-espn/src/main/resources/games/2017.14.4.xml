@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="14" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB   Q</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 31-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 39-38</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Phi RB</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>W 43-35</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot>WR</player-slot>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 21-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16725">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Sammy Watkins, LAR WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 35-43</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18382">
+            <player-slot>TE</player-slot>
+            <player-name>Evan Engram, NYG TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 10-30</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bills D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 13-7</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-21</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr8416">
+            <player-slot>QB</player-slot>
+            <player-name>Alex Smith, KC QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 26-15</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 35-43</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB   Q</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 13-7</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR   Q</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 20-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 20-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 24-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot>D/ST</player-slot>
+            <player-name>Vikings D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 24-31</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

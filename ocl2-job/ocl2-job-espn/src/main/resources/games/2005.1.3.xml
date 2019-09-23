@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="1" team="3">
+   <team>
+      <header>Bridgewater Raritan Box Score</header>
+      <players>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 17-3</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5540">
+            <player-slot/>
+            <player-name>Michael Clayton, TB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 24-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 24-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYG K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 42-19</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2398">
+            <player-slot/>
+            <player-name>Jermaine Wiggins, Min TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 13-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Atl QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 14-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Bal RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 7-24</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr1669">
+            <player-slot/>
+            <player-name>Mike Vanderjagt, Ind K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 24-7</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1762">
+            <player-slot/>
+            <player-name>Daunte Culpepper, Min QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 13-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 7-24</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 14-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 20-30</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4529">
+            <player-slot/>
+            <player-name>Nate Burleson, Min WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 13-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 34-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1196">
+            <player-slot/>
+            <player-name>Corey Dillon, NE RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-20</game-status>
+            <points>21</points>
+         </player>
+      </players>
+   </team>
+</game>

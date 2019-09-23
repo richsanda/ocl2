@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="6" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr16724">
+            <player-slot>QB</player-slot>
+            <player-name>Blake Bortles, Jax QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley, LA RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 28-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB/WR</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 45-16</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 35-17</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 23-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16786">
+            <player-slot>TE</player-slot>
+            <player-name>Richard Rodgers, GB TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 38-41</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr12460">
+            <player-slot>K</player-slot>
+            <player-name>Graham Gano, Car K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 38-41</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 41-38</game-status>
+            <points>40</points>
+         </player>
+         <player id="plyr17919">
+            <player-slot>RB</player-slot>
+            <player-name>Jordan Howard, Chi RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>L 16-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15855">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christine Michael, GB RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 16-30</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot>WR</player-slot>
+            <player-name>Allen Robinson, Jax WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16804">
+            <player-slot>WR/TE</player-slot>
+            <player-name>John Brown, Ari WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 28-3</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15835">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Ertz, Phi TE</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 20-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot>D/ST</player-slot>
+            <player-name>Titans D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 28-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot>K</player-slot>
+            <player-name>Chandler Catanzaro, NYJ K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 3-28</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

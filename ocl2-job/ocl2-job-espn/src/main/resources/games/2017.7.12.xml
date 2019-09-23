@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="7" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr17907">
+            <player-slot>QB</player-slot>
+            <player-name>Dak Prescott, Dal QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 40-10</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 12-9</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10453">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Ted Ginn Jr., NO WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 26-17</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14851">
+            <player-slot>WR</player-slot>
+            <player-name>Terrelle Pryor Sr.*, Wsh WR   IR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 24-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR/TE</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 14-29</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 31-30</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-28</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 16-24</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 23-7</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot>RB</player-slot>
+            <player-name>Marshawn Lynch, Oak RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 31-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 9-12</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 7-23</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 17-26</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17822">
+            <player-slot>TE</player-slot>
+            <player-name>Hunter Henry, LAC TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 21-0</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 24-7</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 17-26</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

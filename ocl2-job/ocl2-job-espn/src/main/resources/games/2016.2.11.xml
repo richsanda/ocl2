@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="2" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr14012">
+            <player-slot>QB</player-slot>
+            <player-name>Andy Dalton, Cin QB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 16-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot>RB</player-slot>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 46-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot>RB/WR</player-slot>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 34-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 35-28</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 14-38</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot>TE</player-slot>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 38-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot>D/ST</player-slot>
+            <player-name>Broncos D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 34-20</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr17171">
+            <player-slot>K</player-slot>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 34-20</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr4459">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 40-7</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 7-40</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15994">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Theo Riddick, Det RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 15-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot>WR</player-slot>
+            <player-name>Brandon Marshall, NYG WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 16-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>L 3-9</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot>TE</player-slot>
+            <player-name>Julius Thomas, Mia TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 24-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>L 3-9</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 20-34</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

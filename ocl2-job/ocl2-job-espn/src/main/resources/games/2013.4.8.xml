@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="4" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr14885">
+            <player-slot/>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 10-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot/>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 21-30</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr14145">
+            <player-slot/>
+            <player-name>Charles Clay, Mia TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-38</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 13-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 20-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 24-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 23-30</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 38-17</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, SF K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 35-11</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 20-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Ind RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 37-3</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 52-20</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 27-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 21-30</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14908">
+            <player-slot/>
+            <player-name>Michael Floyd, Ari WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 13-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 52-20</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

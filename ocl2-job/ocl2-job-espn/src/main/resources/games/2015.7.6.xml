@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="7" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr17184">
+            <player-slot/>
+            <player-name>Willie Snead, NO WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 27-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 26-44</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 30-31</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 26-44</game-status>
+            <points>41</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 30-23</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 19-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17746">
+            <player-slot/>
+            <player-name>Josh Lambo, SD K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 29-37</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 26-18</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Brasky's Barnidge Box Score</header>
+      <players>
+         <player id="plyr17149">
+            <player-slot/>
+            <player-name>Antonio Andrews, Ten RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 7-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 20-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 20-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr10453">
+            <player-slot/>
+            <player-name>Ted Ginn Jr., Car WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 18-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 13-23</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="9" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 20-24</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 17-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4614">
+            <player-slot/>
+            <player-name>Donald Lee, GB TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 33-22</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8440">
+            <player-slot/>
+            <player-name>Jason Campbell, Was QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 23-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8442">
+            <player-slot/>
+            <player-name>Roddy White, Atl WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 20-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Buf RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 33-21</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, Dal K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 10-17</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 7-44</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 7-38</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 20-7</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Den RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 7-44</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 33-30</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-17</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 7-38</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 24-20</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+</game>

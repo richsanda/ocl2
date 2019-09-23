@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="3" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr8664">
+            <player-slot>QB</player-slot>
+            <player-name>Ryan Fitzpatrick, TB QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 27-30</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 14-16</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr18424">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Breida, SF RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 27-38</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 16-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14402">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Chris Hogan, NE WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 10-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 21-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 28-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot>K</player-slot>
+            <player-name>Chandler Catanzaro, TB K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 27-30</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr14876">
+            <player-slot>QB</player-slot>
+            <player-name>Ryan Tannehill, Mia QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 28-20</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr16913">
+            <player-slot>RB</player-slot>
+            <player-name>James White, NE RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 10-26</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr18236">
+            <player-slot>RB/WR</player-slot>
+            <player-name>James Conner, Pit RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 30-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR   Q</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 37-43</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr18345">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Kenny Golladay, Det WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 26-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr16795">
+            <player-slot>TE</player-slot>
+            <player-name>Austin Seferian-Jenkins, Jax TE   Q</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 6-9</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 27-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 17-31</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

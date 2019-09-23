@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="7" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11257">
+            <player-slot/>
+            <player-name>Rashard Mendenhall, Pit RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 32-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 34-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 33-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 33-27</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Mia K</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 15-18</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 16-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 41-7</game-status>
+            <points>46</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Wsh WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 20-33</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, NO K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 62-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, TB TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 18-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 34-7</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13200">
+            <player-slot/>
+            <player-name>Tim Tebow, Den QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 18-15</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 7-34</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 0-28</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 28-0</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="15" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 13-10</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 9-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, TB K</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 10-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 14-35</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11383">
+            <player-slot/>
+            <player-name>Tim Hightower, Ari RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 14-35</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 20-8</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 21-22</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-30</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 22-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 24-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, Dal K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 20-8</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 22-21</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 14-35</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 14-9</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 13-20</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

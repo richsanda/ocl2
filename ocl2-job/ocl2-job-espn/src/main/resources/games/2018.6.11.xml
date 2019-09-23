@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="6" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 43-40</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr18823">
+            <player-slot>RB</player-slot>
+            <player-name>Phillip Lindsay, Den RB</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18458">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Austin Ekeler, LAC RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 38-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 27-17</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Julian Edelman, NE WR   Q</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 43-40</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 27-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot>D/ST</player-slot>
+            <player-name>Eagles D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 34-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17438">
+            <player-slot>K</player-slot>
+            <player-name>Jason Myers, NYJ K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 42-34</game-status>
+            <points>27</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr17399">
+            <player-slot>QB</player-slot>
+            <player-name>Jameis Winston, TB QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 29-34</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Marshawn Lynch, Oak RB   Q</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 3-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18320">
+            <player-slot>WR</player-slot>
+            <player-name>Corey Davis, Ten WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 0-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17619">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyler Lockett, Sea WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 27-3</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 14-38</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cowboys D/ST D/ST</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 40-7</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr18454">
+            <player-slot>K</player-slot>
+            <player-name>Ka'imi Fairbairn, Hou K</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-13</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

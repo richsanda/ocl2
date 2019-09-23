@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="3" team="9">
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers*, GB QB   IR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-24</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr18194">
+            <player-slot>RB</player-slot>
+            <player-name>Samaje Perine, Wsh RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 27-10</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17689">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Tevin Coleman, Atl RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 30-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14402">
+            <player-slot>WR</player-slot>
+            <player-name>Chris Hogan*, NE WR   O</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 36-33</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr17593">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeVante Parker, Mia WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 6-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11295">
+            <player-slot>TE</player-slot>
+            <player-name>Martellus Bennett, NE TE   D</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 36-33</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 6-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 30-26</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 13-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15966">
+            <player-slot>RB</player-slot>
+            <player-name>Chris Thompson*, Wsh RB   IR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 27-10</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman*, Atl RB   O</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 30-26</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 10-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16016">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Kenny Stills, Mia WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 6-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 28-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot>D/ST</player-slot>
+            <player-name>Steelers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-23</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

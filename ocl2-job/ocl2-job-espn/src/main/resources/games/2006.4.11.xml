@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="4" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 45-14</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1170">
+            <player-slot/>
+            <player-name>Olindo Mare, Mia K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 15-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr924">
+            <player-slot/>
+            <player-name>Keyshawn Johnson, Car WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 21-18</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 32-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9607">
+            <player-slot/>
+            <player-name>Laurence Maroney, NE RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 38-13</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-37</game-status>
+            <points>-6</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 38-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 15-17</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 13-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 41-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 21-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 9-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 15-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 31-28</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 15-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>L 34-41</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

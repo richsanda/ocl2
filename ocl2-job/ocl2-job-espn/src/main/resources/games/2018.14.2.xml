@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="14" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr17399">
+            <player-slot>QB</player-slot>
+            <player-name>Jameis Winston, TB QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 14-28</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 3-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr18904">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Gus Edwards, Bal RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 24-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17619">
+            <player-slot>WR</player-slot>
+            <player-name>Tyler Lockett, Sea WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 21-7</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 24-21</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 26-20</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 3-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18902">
+            <player-slot>K</player-slot>
+            <player-name>Mike Badgley, LAC K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 26-21</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 34-20</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot>RB</player-slot>
+            <player-name>Frank Gore, Mia RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 34-33</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Mark Ingram II, NO RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 28-14</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot>WR</player-slot>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 20-34</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr18345">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Kenny Golladay, Det WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 17-3</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15853">
+            <player-slot>TE</player-slot>
+            <player-name>Vance McDonald, Pit TE</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 21-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 24-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 34-20</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,141 @@
+<game season="2015" scoringPeriod="4" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Den TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 23-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 26-20</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 27-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 23-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 13-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 22-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 27-14</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cramalama Swiss CakeRolls Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 20-23</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>4</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 20-26</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 26-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot/>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 3-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 16-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 17-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 10-13</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

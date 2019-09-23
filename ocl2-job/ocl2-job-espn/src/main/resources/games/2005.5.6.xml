@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="5" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 37-31</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 31-37</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 28-3</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 37-31</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 52-3</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 31-37</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 31-37</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60008">
+            <player-slot/>
+            <player-name>Lions D/ST, Det D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 35-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5741">
+            <player-slot/>
+            <player-name>Patrick Crayton, Dal WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 33-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 31-28</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Phi WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 10-33</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 10-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="16" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 49-11</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, Jac RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 49-11</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 7-35</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 38-15</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 23-38</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 20-25</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2844">
+            <player-slot/>
+            <player-name>Kenny Watson, Cin RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 19-14</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, Pit K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 41-24</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 15-38</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 23-3</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 13-20</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr8627">
+            <player-slot/>
+            <player-name>Derek Anderson, Cle QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 14-19</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 20-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4564">
+            <player-slot/>
+            <player-name>Shaun McDonald, Det WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 25-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 38-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 28-7</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="8" team="5">
+   <team>
+      <header>Westerly Donnabairds Box Score</header>
+      <players>
+         <player id="plyr17795">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Wentz, Phi QB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 24-18</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr18171">
+            <player-slot>RB</player-slot>
+            <player-name>Tarik Cohen, Chi RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-10</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr18211">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Marlon Mack, Ind RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 42-28</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR</player-slot>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 23-30</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 24-18</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 30-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot>D/ST</player-slot>
+            <player-name>Texans D/ST D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 42-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 33-18</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5526">
+            <player-slot>QB</player-slot>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 13-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr18592">
+            <player-slot>RB</player-slot>
+            <player-name>Nick Chubb, Cle RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 18-33</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18279">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christian McCaffrey, Car RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 36-21</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 28-14</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18466">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Keelan Cole, Jax WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 18-24</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr15860">
+            <player-slot>TE</player-slot>
+            <player-name>Jordan Reed, Wsh TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 20-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bears D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-6</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,132 @@
+<game season="2014" scoringPeriod="3" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr14001">
+            <player-slot/>
+            <player-name>Colin Kaepernick, SF QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 14-23</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 20-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jac TE</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 17-44</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 33-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, TB WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 14-56</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15823">
+            <player-slot/>
+            <player-name>Montee Ball, Den RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 20-26</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 16-9</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 23-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 19-37</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15826">
+            <player-slot/>
+            <player-name>Giovani Bernard, Cin RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 33-7</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Min WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 9-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9329">
+            <player-slot/>
+            <player-name>Nick Novak, SD K</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 22-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot/>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 7-19</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 19-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13203">
+            <player-slot/>
+            <player-name>C.J. Spiller, NO RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 20-9</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

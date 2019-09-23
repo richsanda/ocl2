@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="4" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 9-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 20-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 35-56</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 35-56</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 24-26</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 33-19</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Bal RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 20-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 19-33</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 28-18</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot/>
+            <player-name>Chargers D/ST, SD D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 28-18</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-30</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr1971">
+            <player-slot/>
+            <player-name>Billy Miller, NO TE</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 31-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, NYJ QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 56-35</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot/>
+            <player-name>DeSean Jackson, Phi WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 20-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, Dal K</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 24-26</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 31-17</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

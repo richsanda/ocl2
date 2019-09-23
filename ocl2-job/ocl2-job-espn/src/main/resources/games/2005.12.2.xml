@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="12" team="2">
+   <team>
+      <header>Merrymount Merry Men Box Score</header>
+      <players>
+         <player id="plyr478">
+            <player-slot/>
+            <player-name>Trent Green, KC QB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 26-16</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 21-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2898">
+            <player-slot/>
+            <player-name>Drew Bennett, Ten WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-22</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2630">
+            <player-slot/>
+            <player-name>Heath Evans, NE RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 16-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 42-29</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr9235">
+            <player-slot/>
+            <player-name>Rob Bironas, Ten K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-22</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 19-14</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Ferguson Box Score</header>
+      <players>
+         <player id="plyr4559">
+            <player-slot/>
+            <player-name>Domanick Davis, Hou RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 27-33</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 17-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr943">
+            <player-slot/>
+            <player-name>Eddie Kennison, KC WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 26-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 26-7</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 21-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 21-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot/>
+            <player-name>Bengals D/ST, Cin D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 42-29</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr658">
+            <player-slot/>
+            <player-name>Isaac Bruce, StL WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 33-27</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

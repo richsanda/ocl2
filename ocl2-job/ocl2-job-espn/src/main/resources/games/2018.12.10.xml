@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="12" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr18246">
+            <player-slot>QB</player-slot>
+            <player-name>Deshaun Watson, Hou QB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 34-17</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr18187">
+            <player-slot>RB</player-slot>
+            <player-name>Alvin Kamara, NO RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 31-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr17840">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Tyler Boyd, Cin WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 20-35</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 22-25</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr17676">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Stefon Diggs, Min WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 24-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-34</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 27-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr18454">
+            <player-slot>K</player-slot>
+            <player-name>Ka'imi Fairbairn, Hou K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 34-17</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 27-30</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr18567">
+            <player-slot>RB</player-slot>
+            <player-name>Saquon Barkley, NYG RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 22-25</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr18816">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Josh Adams, Phi RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 25-22</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr18306">
+            <player-slot>WR</player-slot>
+            <player-name>JuJu Smith-Schuster, Pit WR</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-24</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 27-9</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18292">
+            <player-slot>TE</player-slot>
+            <player-name>George Kittle, SF TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 9-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot>D/ST</player-slot>
+            <player-name>Colts D/ST D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-31</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

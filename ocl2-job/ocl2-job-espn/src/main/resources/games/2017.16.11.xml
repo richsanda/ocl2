@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="16" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr2330">
+            <player-slot>QB</player-slot>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 37-16</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot>RB</player-slot>
+            <player-name>Marshawn Lynch, Oak RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 10-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17208">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Orleans Darkwa, NYG RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 0-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16781">
+            <player-slot>WR</player-slot>
+            <player-name>Paul Richardson, Sea WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 21-12</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18223">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Zay Jones, Buf WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-37</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14145">
+            <player-slot>TE</player-slot>
+            <player-name>Charles Clay, Buf TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 16-37</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 14-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 0-16</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 10-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18362">
+            <player-slot>RB</player-slot>
+            <player-name>Jamaal Williams, GB RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 0-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16782">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jerick McKinnon, Min RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 16-0</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 16-0</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr18097">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Robby Anderson, NYJ WR</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>L 7-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot>TE</player-slot>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 12-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60028">
+            <player-slot>D/ST</player-slot>
+            <player-name>Redskins D/ST D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 27-11</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 13-23</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="15" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 20-15</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17856">
+            <player-slot>RB</player-slot>
+            <player-name>Kenyan Drake, Mia RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 16-24</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 7-45</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>W 30-13</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 34-29</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 27-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot>D/ST</player-slot>
+            <player-name>Jaguars D/ST D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 45-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 24-27</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Phort Harlem A and T Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 24-21</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16777">
+            <player-slot>RB</player-slot>
+            <player-name>Carlos Hyde, SF RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 25-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17933">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Alex Collins, Bal RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 27-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot>WR</player-slot>
+            <player-name>Antonio Brown*, Pit WR   O</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 24-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr17834">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Michael Thomas, NO WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 31-19</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 23-25</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot>D/ST</player-slot>
+            <player-name>Ravens D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 27-10</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot>K</player-slot>
+            <player-name>Greg Zuerlein*, LAR K   IR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 42-7</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="3" team="3">
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 13-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 21-14</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYG K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 30-42</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Car RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 26-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 30-42</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 13-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, Chi RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 19-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 24-31</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 20-28</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1175">
+            <player-slot/>
+            <player-name>Warrick Dunn, Atl RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 3-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 16-19</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr3773">
+            <player-slot/>
+            <player-name>John Gilmore, Chi TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 19-16</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Det QB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 24-31</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr5534">
+            <player-slot/>
+            <player-name>Reggie Williams, Jac WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 14-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 19-16</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 31-15</game-status>
+            <points>27</points>
+         </player>
+      </players>
+   </team>
+</game>

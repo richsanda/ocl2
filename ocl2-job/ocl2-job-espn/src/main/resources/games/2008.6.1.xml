@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="6" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 3-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 27-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 14-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 30-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 14-35</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 26-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 14-26</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy E. Williams, Dal WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 24-30</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 17-19</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 30-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr9639">
+            <player-slot/>
+            <player-name>Anthony Fasano, Mia TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 28-29</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, Jac RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 24-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 24-30</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 10-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 24-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9495">
+            <player-slot/>
+            <player-name>Greg Camarillo, Mia WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 28-29</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

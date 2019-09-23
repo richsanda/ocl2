@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="12" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Dal RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 20-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Ten QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 23-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 24-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4582">
+            <player-slot/>
+            <player-name>Brandon Lloyd, StL WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 20-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Den RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 16-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Mia WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 19-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 38-20</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 13-9</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 24-49</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 20-25</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11282">
+            <player-slot/>
+            <player-name>Fred Davis, Wsh TE</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 23-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 13-16</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 23-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Car RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 27-19</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 24-14</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

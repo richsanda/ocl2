@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="6" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot/>
+            <player-name>Allen Robinson, Jax WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 20-31</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot/>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 21-31</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 27-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15826">
+            <player-slot/>
+            <player-name>Giovani Bernard, Cin RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 34-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 20-27</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 21-34</game-status>
+            <points>-4</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 27-34</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cramalama Swiss CakeRolls Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 10-38</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 23-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr14911">
+            <player-slot/>
+            <player-name>Rueben Randle, Phi WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 27-20</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr9329">
+            <player-slot/>
+            <player-name>Nick Novak, Hou K</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>W 31-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr14904">
+            <player-slot/>
+            <player-name>Ladarius Green, Pit TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 25-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 34-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 37-34</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

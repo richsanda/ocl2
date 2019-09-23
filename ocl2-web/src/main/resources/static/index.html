@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+
+<script src="jquery-1.12.0.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-sanitize.min.js"></script>
+<script type="text/javascript" src="w.js"></script>
+<link rel="Stylesheet" type="text/css" href="w.css"/>
+
+<div data-ng-app="app" data-ng-controller="controller" data-ng-init="names=['word','werd','w']">
+
+    <div class="teams">
+        <div class="clickable" data-ng-click="points('1,2,4,9'); $scope.teamName = 'mason'">mason</div>
+        <div class="clickable trav" data-ng-click="points(1); $scope.teamName = 'trav'">trav</div>
+        <div class="clickable nick" data-ng-click="points(2); $scope.teamName = 'nick'">nick</div>
+        <div class="clickable justin" data-ng-click="points(4); $scope.teamName = 'justin'">justin</div>
+        <div class="clickable paul" data-ng-click="points(9); $scope.teamName = 'paul'">paul</div>
+        <div class="clickable" data-ng-click="points('3,6,7,11'); $scope.teamName = 'murph'">murph</div>
+        <div class="clickable grum" data-ng-click="points(3); $scope.teamName = 'jeff'">jeff</div>
+        <div class="clickable rich" data-ng-click="points(6); $scope.teamName = 'rich'">rich</div>
+        <div class="clickable greg" data-ng-click="points(7); $scope.teamName = 'greg'">greg</div>
+        <div class="clickable bill" data-ng-click="points(11); $scope.teamName = 'bill'">bill</div>
+        <div class="clickable" data-ng-click="points('5,8,10,12'); $scope.teamName = 'montosi'">montosi</div>
+        <div class="clickable baird" data-ng-click="points(5); $scope.teamName = 'baird'">baird</div>
+        <div class="clickable spoth" data-ng-click="points(8); $scope.teamName = 'spoth'">spoth</div>
+        <div class="clickable argo" data-ng-click="points(10); $scope.teamName = 'argo'">argo</div>
+        <div class="clickable dodge" data-ng-click="points(12); $scope.teamName = 'dodge'">dodge</div>
+    </div>
+
+    <div class="clickable" data-ng-click="points(); $scope.teamName = 'all'">all</div>
+
+    <div>
+        <div class="criteria" data-ng-init="$scope.teamName = 'all'">
+            between <select data-ng-model="startSeason" data-ng-options="s for s in seasons" data-ng-change="points(teamNumbers)">
+            </select>
+
+            and <select data-ng-model="endSeason" data-ng-options="s for s in seasons" data-ng-change="points(teamNumbers)">
+            </select>
+
+            for {{ $scope.teamName }}
+
+        </div>
+    </div>
+
+    <div id="results" class="stat-table">
+        <!--div class="stat-row">
+            <div class="stat-rank stat-col">&nbsp;</div>
+            <div class="stat-whatever stat-col">{{ stat.position }}</div>
+            <div class="stat-whatever stat-col">{{ stat.name }}</div>
+            <div class="stat-whatever stat-col">{{ stat.points }}</div>
+            <div class="stat-whatever stat-col">{{ stat.games }}</div>
+        </div-->
+        <div class="stat-row" data-ng-repeat="stat in stats" id="{{'stat' + $index}}">
+            <div class="stat-rank stat-col">{{ $index + 1 }}.</div>
+            <div class="stat-whatever stat-col">{{ stat.position }}</div>
+            <div class="stat-whatever stat-col">{{ stat.name }}</div>
+            <div class="stat-whatever stat-col">{{ stat.points }}</div>
+            <div class="stat-whatever stat-col">{{ stat.games }}</div>
+            <div class="stat-whatever stat-col stat-graph">
+                <div class="stat-graph-component {{ statGraphClass(pointsPerTeam.teamNumber) }}"
+                     data-ng-style="statGraphStyle(pointsPerTeam)"
+                     data-ng-repeat="pointsPerTeam in stat.pointsPerTeam"
+                     title="{{statGraphClass(pointsPerTeam.teamNumber) + ': ' + pointsPerTeam.points}}"
+                >&nbsp;</div>
+            </div>
+        </div>
+    </div>
+
+    <!--div id="feature-background" data-ng-click="hideFeature()">
+        <div id="feature" data-ng-click="$event.stopPropagation()">
+            <div class="clickable" data-ng-click="hideFeature()">close</div>
+            <div>Sent: {{ prettyDateify(feature.sent) }}</div>
+            <div>From: {{ feature.from }}</div>
+            <div>To: {{ feature.to }}</div>
+            <div>Subject: {{ feature.subject }}</div>
+            <div ng-bind-html="feature.body_html ? preify(feature.body) : bodyify(feature.body)"></div>
+        </div>
+    </div-->
+
+</div>
+
+</body>
+</html>

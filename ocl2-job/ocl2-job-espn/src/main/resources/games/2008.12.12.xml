@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="12" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 10-31</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 10-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4601">
+            <player-slot/>
+            <player-name>Justin Gage, Ten WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 13-34</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 13-34</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 20-38</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 10-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 6-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 6-16</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-10</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 20-23</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 37-29</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 20-23</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 29-37</game-status>
+            <points>-6</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 7-36</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

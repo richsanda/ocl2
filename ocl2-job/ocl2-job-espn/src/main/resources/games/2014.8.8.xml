@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="8" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 34-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 24-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 24-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 23-51</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, Ind RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 34-51</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15893">
+            <player-slot/>
+            <player-name>Andre Ellington, Ari RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 24-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr11439">
+            <player-slot/>
+            <player-name>Pierre Garcon, Wsh WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 20-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 34-51</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr15795">
+            <player-slot/>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 30-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot/>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot/>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 27-13</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot/>
+            <player-name>Lamar Miller, Mia RB</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 27-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot/>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 51-23</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 35-21</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, Den WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 35-21</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+</game>

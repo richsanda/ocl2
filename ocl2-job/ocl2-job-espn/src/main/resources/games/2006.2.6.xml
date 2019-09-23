@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="2" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2564">
+            <player-slot/>
+            <player-name>Santana Moss, Was WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 10-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9616">
+            <player-slot/>
+            <player-name>Joseph Addai, Ind RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 43-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2299">
+            <player-slot/>
+            <player-name>Marc Bulger, StL QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 13-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 43-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr3413">
+            <player-slot/>
+            <player-name>Lawrence Tynes, KC K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 6-9</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 10-21</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 13-20</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 10-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 9-0</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-17</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 21-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 21-10</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr3757">
+            <player-slot/>
+            <player-name>David Givens, Ten WR</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 7-40</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 17-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 13-16</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

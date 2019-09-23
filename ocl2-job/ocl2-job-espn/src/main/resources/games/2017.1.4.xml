@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="1" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 21-18</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 21-18</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14032">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Torrey Smith, Phi WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 30-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot>WR</player-slot>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 21-18</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16725">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Sammy Watkins, LAR WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 46-9</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE   Q</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 9-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60029">
+            <player-slot>D/ST</player-slot>
+            <player-name>Panthers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 23-3</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 35-23</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 23-3</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson*, Ari RB   IR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman*, Atl RB   O</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 23-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12563">
+            <player-slot>WR</player-slot>
+            <player-name>Michael Crabtree, Oak WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 26-16</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 17-9</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot>TE</player-slot>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 23-3</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot>D/ST</player-slot>
+            <player-name>Steelers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 21-18</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr18452">
+            <player-slot>K</player-slot>
+            <player-name>Younghoe Koo, LAC K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 21-24</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+</game>

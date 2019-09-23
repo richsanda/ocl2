@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="9" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr14900">
+            <player-slot/>
+            <player-name>Coby Fleener, Ind TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-26</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr16016">
+            <player-slot/>
+            <player-name>Kenny Stills, NO WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13204">
+            <player-slot/>
+            <player-name>Ryan Mathews, SD RB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 24-30</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11238">
+            <player-slot/>
+            <player-name>Darren McFadden, Oak RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 20-49</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 13-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 55-31</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Dal RB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 27-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot/>
+            <player-name>Jared Cook, StL TE</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 21-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot/>
+            <player-name>Steven Hauschka, Sea K</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 27-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 13-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr12570">
+            <player-slot/>
+            <player-name>Darrius Heyward-Bey, Pit WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 31-55</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr15009">
+            <player-slot/>
+            <player-name>Alfred Morris, Wsh RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 34-10</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

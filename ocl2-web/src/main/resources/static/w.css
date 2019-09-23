@@ -1,0 +1,121 @@
+html {
+    height: 100%;
+    overflow: auto;
+}
+
+p.input {
+    margin: 10px;
+}
+
+div.artifact-link:hover {
+    border: 1px solid gray;
+    background-color: rgba(100,100,100,0.5);
+    cursor: pointer;
+}
+
+div.clickable {
+    border: 1px solid gray;
+    background-color: rgba(100,100,100,0.5);
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+div.clickable:hover {
+    border: 1px solid gray;
+    background-color: rgba(100,100,100,0.5);
+    cursor: pointer;
+}
+
+#feature-background {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
+
+#feature {
+    max-height: 80%;
+    height: 100%;
+    overflow-y: auto;
+    font-size: 1.1em;
+    color: black;
+    margin: 50px;
+    padding: 10px;
+    background-color: rgba(240, 240, 240, 1);
+}
+
+div.teams {
+
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */
+    column-gap: 20px;
+
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+    text-align: center;
+}
+
+div.criteria {
+
+    margin: 10px;
+    font-size: 1.2em;
+}
+
+div.trav {background-color: #797979;}
+div.nick {background-color: #9a7a7a;}
+div.grum {background-color: #3a7a7a;}
+div.justin {background-color: #d6c8a3;}
+div.rux, div.baird {background-color: #455a7a;}
+div.rich {background-color: #757a2a;}
+div.greg {background-color: #a6e0ce;}
+div.spoth {background-color: #c57a9a;}
+div.mbug, div.paul {background-color: #cfa68e;}
+div.argo {background-color: #a56a9a;}
+div.bill {background-color: #56b365;}
+div.ruggs, div.dodge {background-color: #8a9ac5;}
+
+div.stat-row {
+
+    font-size: 1.2em;
+    display: table-row;
+}
+
+div.stat-col {
+
+    display: table-cell;
+    padding: 5px;
+}
+
+div.stat-table {
+
+    display: table;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+div.stat-whatever {
+    height: 100%;
+}
+
+div.stat-graph {
+
+    width: 75%;
+}
+
+div.stat-graph-component {
+
+    display: inline-block;
+    box-sizing: border-box;
+}

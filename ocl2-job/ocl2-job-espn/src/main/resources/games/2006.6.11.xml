@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="6" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr1669">
+            <player-slot/>
+            <player-name>Mike Vanderjagt, Dal K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-6</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 14-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-24</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2606">
+            <player-slot/>
+            <player-name>Travis Henry, Ten RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 25-22</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr60006">
+            <player-slot/>
+            <player-name>Cowboys D/ST, Dal D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 34-6</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4480">
+            <player-slot/>
+            <player-name>Rex Grossman, Chi QB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 24-23</game-status>
+            <points>-7</points>
+         </player>
+         <player id="plyr5880">
+            <player-slot/>
+            <player-name>Willie Parker, Pit RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 45-7</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 21-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Ari K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 23-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8420">
+            <player-slot/>
+            <player-name>Carnell Williams, TB RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 14-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr3548">
+            <player-slot/>
+            <player-name>Javon Walker, Den WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 13-3</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 7-45</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4481">
+            <player-slot/>
+            <player-name>Willis McGahee, Buf RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Cin QB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 13-14</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 27-14</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

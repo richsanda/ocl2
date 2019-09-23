@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="2" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 24-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 13-26</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11461">
+            <player-slot/>
+            <player-name>Peyton Hillis, Cle RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 27-19</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-24</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-24</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr4482">
+            <player-slot/>
+            <player-name>Dallas Clark, Ind TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 19-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11658">
+            <player-slot/>
+            <player-name>Mike Tolbert, SD RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 21-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr4245">
+            <player-slot/>
+            <player-name>Billy Cundiff, Bal K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 13-26</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr11256">
+            <player-slot/>
+            <player-name>Felix Jones, Dal RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 27-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 13-30</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 35-31</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 38-35</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 19-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, NYG RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 28-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60018">
+            <player-slot/>
+            <player-name>Saints D/ST, NO D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 30-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, NO TE</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 30-13</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

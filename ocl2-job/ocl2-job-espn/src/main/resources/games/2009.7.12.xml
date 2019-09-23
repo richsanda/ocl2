@@ -1,0 +1,140 @@
+<game season="2009" scoringPeriod="7" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr11359">
+            <player-slot/>
+            <player-name>Tashard Choice, Dal RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 37-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 27-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 17-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 10-45</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4554">
+            <player-slot/>
+            <player-name>Justin Fargas, Oak RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 0-38</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11329">
+            <player-slot/>
+            <player-name>Mario Manningham, NYG WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 17-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, NYJ WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 38-0</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 17-24</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr11323">
+            <player-slot/>
+            <player-name>Steve Slaton, Hou RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 24-21</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 42-6</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 42-6</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10621">
+            <player-slot/>
+            <player-name>Nick Folk, NYJ K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 38-0</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 27-17</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr1756">
+            <player-slot/>
+            <player-name>Ricky Williams, Mia RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 34-46</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Ochocinco, Cin WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 45-10</game-status>
+            <points>25</points>
+         </player>
+      </players>
+   </team>
+</game>

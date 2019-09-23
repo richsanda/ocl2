@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="5" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr2287">
+            <player-slot/>
+            <player-name>Sammy Morris, NE RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 34-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1170">
+            <player-slot/>
+            <player-name>Olindo Mare, NO K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 13-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 13-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 20-13</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 22-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 24-35</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 35-24</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-3</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr3542">
+            <player-slot/>
+            <player-name>Jeremy Shockey, NYG TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 35-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr5760">
+            <player-slot/>
+            <player-name>Derrick Ward, NYG RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 35-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5741">
+            <player-slot/>
+            <player-name>Patrick Crayton, Dal WR</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Bal K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 9-7</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 16-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 34-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 25-24</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

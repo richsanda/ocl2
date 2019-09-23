@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="16" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 12-18</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 8-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17777">
+            <player-slot/>
+            <player-name>Will Tye, NYG TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-49</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 24-38</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Pit RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-20</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot/>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 38-8</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 13-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr17665">
+            <player-slot/>
+            <player-name>Dorial Green-Beckham, Ten WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 6-34</game-status>
+            <points>0</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr60012">
+            <player-slot/>
+            <player-name>Chiefs D/ST, KC D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr16799">
+            <player-slot/>
+            <player-name>Allen Robinson, Jax WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 27-38</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot/>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 20-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16757">
+            <player-slot/>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 23-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot/>
+            <player-name>Blair Walsh, Min K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 49-17</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr15855">
+            <player-slot/>
+            <player-name>Christine Michael, Sea RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 17-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>W 26-20</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

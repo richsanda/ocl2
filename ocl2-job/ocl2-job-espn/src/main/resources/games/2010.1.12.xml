@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="1" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr9819">
+            <player-slot/>
+            <player-name>Devin Aromashodu, Chi WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 19-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13489">
+            <player-slot/>
+            <player-name>Mike Williams, TB WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 17-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr10147">
+            <player-slot/>
+            <player-name>Miles Austin, Dal WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 7-13</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 7-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 14-21</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 38-13</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13205">
+            <player-slot/>
+            <player-name>Jahvid Best, Det RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 14-19</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 9-14</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 13-7</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Chi QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 19-14</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr11257">
+            <player-slot/>
+            <player-name>Rashard Mendenhall, Pit RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 15-9</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 27-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 14-9</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, Ari K</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 17-13</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 13-17</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 31-18</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+</game>

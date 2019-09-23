@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="8" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 20-15</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 20-15</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17556">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jay Ajayi, Phi RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr17682">
+            <player-slot>WR</player-slot>
+            <player-name>Devin Funchess, Car WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 17-3</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr11283">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeSean Jackson, TB WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 3-17</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE   Q</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 41-38</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 24-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 15-20</game-status>
+            <points>18</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr14880">
+            <player-slot>QB</player-slot>
+            <player-name>Kirk Cousins, Wsh QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 19-33</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr14886">
+            <player-slot>RB</player-slot>
+            <player-name>Lamar Miller, Hou RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 38-41</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Tyreek Hill, KC WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 29-19</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-10</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR   Q</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 38-41</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr13229">
+            <player-slot>TE</player-slot>
+            <player-name>Rob Gronkowski, NE TE</player-name>
+            <link/>
+            <opponent>LAC</opponent>
+            <game-status>W 21-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bills D/ST D/ST</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 34-14</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr18178">
+            <player-slot>K</player-slot>
+            <player-name>Jake Elliott, Phi K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 33-10</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

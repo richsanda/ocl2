@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="13" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 35-7</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 14-34</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 24-10</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Bal WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 24-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 17-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 34-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-35</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 26-0</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60013">
+            <player-slot/>
+            <player-name>Raiders D/ST, Oak D/ST</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 14-34</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-35</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-35</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 38-35</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 31-14</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr13225">
+            <player-slot/>
+            <player-name>Riley Cooper, Phi WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 14-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-31</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 17-10</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+</game>

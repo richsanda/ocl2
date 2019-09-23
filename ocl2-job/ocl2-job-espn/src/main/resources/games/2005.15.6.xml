@@ -1,0 +1,148 @@
+<game season="2005" scoringPeriod="15" team="6">
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr2150">
+            <player-slot/>
+            <player-name>Shaun Alexander, Sea RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 28-24</game-status>
+            <points>45</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1682">
+            <player-slot/>
+            <player-name>Kurt Warner, Ari QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 19-30</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 17-26</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 19-30</game-status>
+            <points>34</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 28-24</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 16-17</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1757">
+            <player-slot/>
+            <player-name>Torry Holt, StL WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 16-17</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-10</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 27-10</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 26-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 28-24</game-status>
+            <points>46</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 19-30</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr2584">
+            <player-slot/>
+            <player-name>Chad Johnson, Cin WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 41-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 16-17</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 17-27</game-status>
+            <points>67</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>W 35-7</game-status>
+            <points>32</points>
+         </player>
+      </players>
+   </team>
+</game>

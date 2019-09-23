@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="4" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr17455">
+            <player-slot>QB</player-slot>
+            <player-name>Trevor Siemian, Den QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 16-10</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15966">
+            <player-slot>RB</player-slot>
+            <player-name>Chris Thompson*, Wsh RB   IR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 20-29</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman*, Atl RB   O</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 17-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot>WR</player-slot>
+            <player-name>Danny Amendola, NE WR   Q</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 30-33</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11270">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordy Nelson, GB WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 35-14</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 7-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot>D/ST</player-slot>
+            <player-name>Steelers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 26-9</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17175">
+            <player-slot>K</player-slot>
+            <player-name>Chris Boswell, Pit K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 26-9</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 10-16</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr18218">
+            <player-slot>RB</player-slot>
+            <player-name>Leonard Fournette, Jax RB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 20-23</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr18260">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Dalvin Cook*, Min RB   IR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 7-14</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 31-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 14-7</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 10-16</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 30-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 9-26</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="16" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr5679">
+            <player-slot/>
+            <player-name>Michael Turner, Atl RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 24-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 33-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, TB K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 24-41</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 24-33</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 31-38</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr5615">
+            <player-slot/>
+            <player-name>Matt Schaub, Hou QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 16-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Den WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 23-30</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, SF RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 17-16</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 10-3</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11323">
+            <player-slot/>
+            <player-name>Steve Slaton, Hou RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 16-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>@Jac</opponent>
+            <game-status>W 31-24</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 47-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1981">
+            <player-slot/>
+            <player-name>Kris Brown, Hou K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 16-27</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 14-31</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot/>
+            <player-name>DeAngelo Williams, Car RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 28-34</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr4260">
+            <player-slot/>
+            <player-name>Shaun Hill, SF QB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 17-16</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+</game>

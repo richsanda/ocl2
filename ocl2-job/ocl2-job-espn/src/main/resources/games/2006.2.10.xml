@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="2" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 6-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 17-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 24-30</game-status>
+            <points>27</points>
+         </player>
+         <player id="plyr1056">
+            <player-slot/>
+            <player-name>Terrell Owens, Dal WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 27-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, Oak WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 6-28</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Bal RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 28-6</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 13-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 13-20</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 6-28</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 6-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 43-24</game-status>
+            <points>32</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYG K</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 30-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 6-16</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, Chi RB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-7</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 7-34</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

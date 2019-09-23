@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="9" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr14881">
+            <player-slot>QB</player-slot>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 14-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB</player-slot>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 30-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18314">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Aaron Jones*, GB RB   O</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 17-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16790">
+            <player-slot>WR</player-slot>
+            <player-name>Jarvis Landry, Mia WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 24-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17195">
+            <player-slot>TE</player-slot>
+            <player-name>Trey Burton, Phi TE   Q</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 51-23</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 7-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 20-14</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fustti's Dreamboat Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr17138">
+            <player-slot>RB</player-slot>
+            <player-name>Damien Williams, Mia RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 24-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17689">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Tevin Coleman, Atl RB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17827">
+            <player-slot>WR</player-slot>
+            <player-name>Sterling Shepard*, NYG WR   O</player-name>
+            <link/>
+            <opponent>LAR</opponent>
+            <game-status>L 17-51</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr17593">
+            <player-slot>WR/TE</player-slot>
+            <player-name>DeVante Parker, Mia WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 24-27</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot>TE</player-slot>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 28-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot>D/ST</player-slot>
+            <player-name>Falcons D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 17-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 17-20</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

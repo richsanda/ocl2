@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="4" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr14874">
+            <player-slot>QB</player-slot>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 27-30</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot>RB</player-slot>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 43-14</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr15920">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Latavius Murray, Min RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 24-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr17677">
+            <player-slot>WR</player-slot>
+            <player-name>Amari Cooper, Oak WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 28-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 27-7</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11364">
+            <player-slot>TE</player-slot>
+            <player-name>Gary Barnidge, Cle TE</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 20-31</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot>D/ST</player-slot>
+            <player-name>Texans D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 27-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot>K</player-slot>
+            <player-name>Matt Prater, Det K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 14-17</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 48-33</game-status>
+            <points>43</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB</player-slot>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>W 35-34</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17989">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Dwayne Washington, Det RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 14-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-24</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr15072">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Marvin Jones, Det WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 14-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12699">
+            <player-slot>TE</player-slot>
+            <player-name>Zach Miller, Chi TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 17-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60012">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chiefs D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 14-43</game-status>
+            <points>-5</points>
+         </player>
+         <player id="plyr15965">
+            <player-slot>K</player-slot>
+            <player-name>Dustin Hopkins, Wsh K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-20</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

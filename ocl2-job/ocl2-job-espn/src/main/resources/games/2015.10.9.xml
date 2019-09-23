@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="10" team="9">
+   <team>
+      <header>Cramalama Swiss CakeRolls Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot/>
+            <player-name>Cairo Santos, KC K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 29-13</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr17505">
+            <player-slot/>
+            <player-name>Jeremy Langford, Chi RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 37-13</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr14911">
+            <player-slot/>
+            <player-name>Rueben Randle, Phi WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 19-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 16-18</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr16786">
+            <player-slot/>
+            <player-name>Richard Rodgers, GB TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>L 16-18</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 27-26</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot/>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 18-16</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Brasky's Barnidge Box Score</header>
+      <players>
+         <player id="plyr17149">
+            <player-slot/>
+            <player-name>Antonio Andrews, Ten RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 27-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr15102">
+            <player-slot/>
+            <player-name>Rishard Matthews, Ten WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 10-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 6-10</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 19-20</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14163">
+            <player-slot/>
+            <player-name>Tyrod Taylor, Buf QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 22-17</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>L 20-22</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr16886">
+            <player-slot/>
+            <player-name>Martavis Bryant, Pit WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 30-9</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="7" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 33-30</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>W 27-16</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Tyrell Williams, SD WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 33-30</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot>WR</player-slot>
+            <player-name>Brandon Marshall, NYG WR</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 17-10</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>T 6-6</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot>TE</player-slot>
+            <player-name>Julius Thomas, Mia TE</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 28-25</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>T 6-6</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 34-26</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr8439">
+            <player-slot>QB</player-slot>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 26-10</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr14193">
+            <player-slot>RB</player-slot>
+            <player-name>Jacquizz Rodgers, TB RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 34-17</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11307">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 27-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot>WR</player-slot>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-9</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>T 6-6</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14900">
+            <player-slot>TE</player-slot>
+            <player-name>Coby Fleener, NO TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 21-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 26-10</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11923">
+            <player-slot>K</player-slot>
+            <player-name>Steven Hauschka, Buf K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 25-28</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

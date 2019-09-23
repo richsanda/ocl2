@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="9" team="4">
+   <team>
+      <header>Apponequet Lakers Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 21-9</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr3556">
+            <player-slot/>
+            <player-name>Jerramy Stevens, Sea TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 33-19</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1430">
+            <player-slot/>
+            <player-name>Fred Taylor, Jac RB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4465">
+            <player-slot/>
+            <player-name>Byron Leftwich, Jac QB</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-14</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr278">
+            <player-slot/>
+            <player-name>Jimmy Smith, Jac WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 21-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60027">
+            <player-slot/>
+            <player-name>Buccaneers D/ST, TB D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 14-34</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr276">
+            <player-slot/>
+            <player-name>Keenan McCardell, SD WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 31-26</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1176">
+            <player-slot/>
+            <player-name>Antowain Smith, NO RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Bridgewater Raritan Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 31-26</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, SD QB</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 31-26</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr1492">
+            <player-slot/>
+            <player-name>Az-Zahir Hakim, NO WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 17-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 14-27</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4812">
+            <player-slot/>
+            <player-name>Antonio Chatman, GB WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 10-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 33-19</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 27-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr2212">
+            <player-slot/>
+            <player-name>Reuben Droughns, Cle RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 20-14</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>

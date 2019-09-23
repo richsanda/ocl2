@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="4" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 12-20</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 19-33</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr4601">
+            <player-slot/>
+            <player-name>Justin Gage, Ten WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 30-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 30-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 19-33</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 20-12</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr658">
+            <player-slot/>
+            <player-name>Isaac Bruce, SF WR</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 17-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 20-12</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr3556">
+            <player-slot/>
+            <player-name>Jerramy Stevens, TB TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>W 30-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5603">
+            <player-slot/>
+            <player-name>Bernard Berrian, Min WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 17-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1328">
+            <player-slot/>
+            <player-name>Ryan Longwell, Min K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 17-30</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr1753">
+            <player-slot/>
+            <player-name>Donovan McNabb, Phi QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 20-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-30</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60016">
+            <player-slot/>
+            <player-name>Vikings D/ST, Min D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 17-30</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 14-31</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 24-26</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

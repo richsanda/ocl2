@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="7" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, Phi K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2149">
+            <player-slot/>
+            <player-name>Chad Pennington, NYJ QB</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-24</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 23-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 36-22</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1218">
+            <player-slot/>
+            <player-name>Tiki Barber, NYG RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 36-22</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-23</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 24-34</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr4519">
+            <player-slot/>
+            <player-name>L.J. Smith, Phi TE</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-23</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 27-30</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 22-9</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 34-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr3642">
+            <player-slot/>
+            <player-name>Randy McMichael, Mia TE</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 24-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 36-22</game-status>
+            <points>33</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 17-7</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>GB</opponent>
+            <game-status>L 24-34</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5532">
+            <player-slot/>
+            <player-name>Roy Williams, Det WR</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>L 24-31</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

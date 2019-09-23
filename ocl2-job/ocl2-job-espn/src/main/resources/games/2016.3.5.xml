@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="3" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr17610">
+            <player-slot>QB</player-slot>
+            <player-name>Marcus Mariota, Ten QB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 10-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot>RB</player-slot>
+            <player-name>DeMarco Murray, Ten RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 10-17</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Alshon Jeffery, Phi WR</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 34-3</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-29</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-3</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr60004">
+            <player-slot>D/ST</player-slot>
+            <player-name>Bengals D/ST D/ST</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 17-29</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 27-0</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11237">
+            <player-slot>QB</player-slot>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 45-32</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr13981">
+            <player-slot>RB</player-slot>
+            <player-name>Mark Ingram, NO RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 32-45</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr9613">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeAngelo Williams, Pit RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 3-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr16733">
+            <player-slot>WR</player-slot>
+            <player-name>Odell Beckham Jr., NYG WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>L 27-29</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15072">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Marvin Jones, Det WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 27-34</game-status>
+            <points>38</points>
+         </player>
+         <player id="plyr11373">
+            <player-slot>TE</player-slot>
+            <player-name>Jacob Tamme, Atl TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 45-32</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60012">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chiefs D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-3</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot>K</player-slot>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-27</game-status>
+            <points>11</points>
+         </player>
+      </players>
+   </team>
+</game>

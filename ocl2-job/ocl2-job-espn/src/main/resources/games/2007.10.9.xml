@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="10" team="9">
+   <team>
+      <header>Turd Fergusons Box Score</header>
+      <players>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 28-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 34-0</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Ind QB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 21-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr9838">
+            <player-slot/>
+            <player-name>Marques Colston, NO WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 29-37</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot/>
+            <player-name>Anquan Boldin, Ari WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, KC TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 11-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4399">
+            <player-slot/>
+            <player-name>Jeff Reed, Pit K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 0-24</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 25-33</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 31-20</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>W 21-7</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 24-0</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-28</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr1393">
+            <player-slot/>
+            <player-name>David Patten, NO WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 29-37</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr4532">
+            <player-slot/>
+            <player-name>Kevin Curtis, Phi WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 33-25</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 13-20</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="16" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-13</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ten RB</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 7-55</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1440">
+            <player-slot/>
+            <player-name>Phil Dawson, Cle K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 12-34</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 6-23</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 55-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 31-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr10452">
+            <player-slot/>
+            <player-name>Adrian Peterson, Min RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 23-6</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr12601">
+            <player-slot/>
+            <player-name>Mike Wallace, Pit WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-13</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 18-31</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Dal RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 31-34</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr9361">
+            <player-slot/>
+            <player-name>Shaun Suisham, Pit K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 10-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5209">
+            <player-slot/>
+            <player-name>Tony Romo, Dal QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 31-34</game-status>
+            <points>40</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 42-13</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 42-13</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr1231">
+            <player-slot/>
+            <player-name>Tony Gonzalez, Atl TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 31-18</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, Chi WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 28-13</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+</game>

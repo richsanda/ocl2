@@ -1,0 +1,140 @@
+<game season="2011" scoringPeriod="2" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11257">
+            <player-slot/>
+            <player-name>Rashard Mendenhall, Pit RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 24-0</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11325">
+            <player-slot/>
+            <player-name>Jermichael Finley, GB TE</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 30-23</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 30-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot/>
+            <player-name>Patriots D/ST, NE D/ST</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 35-21</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12483">
+            <player-slot/>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 48-3</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr12556">
+            <player-slot/>
+            <player-name>Kenny Britt, Ten WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 26-13</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-13</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot/>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 35-21</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr2300">
+            <player-slot/>
+            <player-name>Neil Rackers, Hou K</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-13</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr11289">
+            <player-slot/>
+            <player-name>Ray Rice, Bal RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>L 13-26</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 0-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr6016">
+            <player-slot/>
+            <player-name>Malcom Floyd, SD WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 21-35</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 31-35</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 23-13</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr11264">
+            <player-slot/>
+            <player-name>Dustin Keller, NYJ TE</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 32-3</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 30-23</game-status>
+            <points>27</points>
+         </player>
+      </players>
+   </team>
+</game>

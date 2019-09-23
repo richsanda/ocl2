@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="11" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr924">
+            <player-slot/>
+            <player-name>Keyshawn Johnson, Dal WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 20-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 16-13</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2583">
+            <player-slot/>
+            <player-name>Alge Crumpler, Atl TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 27-30</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr2548">
+            <player-slot/>
+            <player-name>Jay Feely, NYG K</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 27-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr4551">
+            <player-slot/>
+            <player-name>Chris Brown, Ten RB</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>L 28-31</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 24-17</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr979">
+            <player-slot/>
+            <player-name>Stephen Davis, Car RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 3-13</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2600">
+            <player-slot/>
+            <player-name>Chris Chambers, Mia WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 0-22</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Inman Igloos Box Score</header>
+      <players>
+         <player id="plyr478">
+            <player-slot/>
+            <player-name>Trent Green, KC QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 45-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr2489">
+            <player-slot/>
+            <player-name>Rian Lindell, Buf K</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 10-48</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr3593">
+            <player-slot/>
+            <player-name>Deion Branch, NE WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 24-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 48-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 16-13</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 37-45</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, Oak WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>W 16-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 13-3</game-status>
+            <points>19</points>
+         </player>
+      </players>
+   </team>
+</game>

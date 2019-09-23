@@ -1,0 +1,140 @@
+<game season="2012" scoringPeriod="11" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr60034">
+            <player-slot/>
+            <player-name>Texans D/ST, Hou D/ST</player-name>
+            <link/>
+            <opponent>Jac</opponent>
+            <game-status>W 43-37</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr1716">
+            <player-slot/>
+            <player-name>David Akers, SF K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 32-7</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8664">
+            <player-slot/>
+            <player-name>Ryan Fitzpatrick, Buf QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 19-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14053">
+            <player-slot/>
+            <player-name>Randall Cobb, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 24-20</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr11458">
+            <player-slot/>
+            <player-name>Steve Johnson, Buf WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 19-14</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 23-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14056">
+            <player-slot/>
+            <player-name>Daniel Thomas, Mia RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 21-27</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr14153">
+            <player-slot/>
+            <player-name>Denarius Moore, Oak WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 17-38</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Cle RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 20-23</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13228">
+            <player-slot/>
+            <player-name>Jermaine Gresham, Cin TE</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 28-6</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot/>
+            <player-name>Dolphins D/ST, Mia D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-19</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr1428">
+            <player-slot/>
+            <player-name>Peyton Manning, Den QB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-23</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 7-32</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, StL RB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>L 13-27</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13216">
+            <player-slot/>
+            <player-name>Demaryius Thomas, Den WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-23</game-status>
+            <points>10</points>
+         </player>
+      </players>
+   </team>
+</game>

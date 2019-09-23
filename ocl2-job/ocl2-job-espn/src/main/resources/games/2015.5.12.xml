@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="5" team="12">
+   <team>
+      <header>Brasky's Barnidge Box Score</header>
+      <players>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 30-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot/>
+            <player-name>Melvin Gordon, SD RB</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 20-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14881">
+            <player-slot/>
+            <player-name>Russell Wilson, Sea QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 24-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14021">
+            <player-slot/>
+            <player-name>Leonard Hankerson, Buf WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 14-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 6-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr12569">
+            <player-slot/>
+            <player-name>Percy Harvin, Buf WR</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 14-13</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot/>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 30-33</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15848">
+            <player-slot/>
+            <player-name>Eddie Lacy, GB RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 24-10</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr60014">
+            <player-slot/>
+            <player-name>Rams D/ST, StL D/ST</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 10-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 24-10</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 39-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17580">
+            <player-slot/>
+            <player-name>Ameer Abdullah, Det RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 17-42</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr8416">
+            <player-slot/>
+            <player-name>Alex Smith, KC QB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 17-18</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17665">
+            <player-slot/>
+            <player-name>Dorial Green-Beckham, Ten WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 13-14</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 24-27</game-status>
+            <points>3</points>
+         </player>
+      </players>
+   </team>
+</game>

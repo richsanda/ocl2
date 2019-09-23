@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="11" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17171">
+            <player-slot/>
+            <player-name>Brandon McManus, Den K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-15</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr10447">
+            <player-slot/>
+            <player-name>Calvin Johnson, Det WR</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 18-13</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr11247">
+            <player-slot/>
+            <player-name>Jonathan Stewart, Car RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 44-16</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17163">
+            <player-slot/>
+            <player-name>Allen Hurns, Jax WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 19-13</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-13</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 21-24</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 21-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot/>
+            <player-name>Tyler Eifert, Cin TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 31-34</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr11258">
+            <player-slot/>
+            <player-name>Chris Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-31</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr12576">
+            <player-slot/>
+            <player-name>Brandon LaFell, Cin WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 31-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 3-33</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 17-15</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-31</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11467">
+            <player-slot/>
+            <player-name>Justin Forsett, Bal RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 16-13</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11237">
+            <player-slot/>
+            <player-name>Matt Ryan, Atl QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 21-24</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

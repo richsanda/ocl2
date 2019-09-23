@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="16" team="2">
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr1494">
+            <player-slot/>
+            <player-name>Hines Ward, Pit WR</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 41-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 23-38</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr2401">
+            <player-slot/>
+            <player-name>Aaron Stecker, NO RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 23-38</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 7-35</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8524">
+            <player-slot/>
+            <player-name>Brandon Jacobs, NYG RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 38-21</game-status>
+            <points>30</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 30-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 3-23</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr10467">
+            <player-slot/>
+            <player-name>Dwayne Bowe, KC WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 20-25</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr10476">
+            <player-slot/>
+            <player-name>Anthony Gonzalez, Ind WR</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 38-15</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr5555">
+            <player-slot/>
+            <player-name>Kevin Jones, Det RB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 25-20</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4601">
+            <player-slot/>
+            <player-name>Justin Gage, Ten WR</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 10-6</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr4950">
+            <player-slot/>
+            <player-name>Earnest Graham, TB RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 19-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1971">
+            <player-slot/>
+            <player-name>Billy Miller, NO TE</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 23-38</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr1383">
+            <player-slot/>
+            <player-name>Jon Kitna, Det QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 25-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr726">
+            <player-slot/>
+            <player-name>Jeff Wilkins, StL K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 24-41</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60019">
+            <player-slot/>
+            <player-name>Giants D/ST, NYG D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 38-21</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+</game>

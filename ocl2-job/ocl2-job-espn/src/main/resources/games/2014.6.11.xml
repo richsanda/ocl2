@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="6" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr14017">
+            <player-slot/>
+            <player-name>Shane Vereen, NYG RB</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 0-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr15707">
+            <player-slot/>
+            <player-name>Larry Donnell, NYG TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>L 0-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr17143">
+            <player-slot/>
+            <player-name>Branden Oliver, SD RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 31-28</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr2330">
+            <player-slot/>
+            <player-name>Tom Brady, NE QB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 37-22</game-status>
+            <points>36</points>
+         </player>
+         <player id="plyr13982">
+            <player-slot/>
+            <player-name>Julio Jones, Atl WR</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 13-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr11688">
+            <player-slot/>
+            <player-name>Dan Carpenter, Buf K</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 22-37</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 30-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 31-28</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr8444">
+            <player-slot/>
+            <player-name>Heath Miller, Pit TE</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 10-31</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot/>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 13-27</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr13210">
+            <player-slot/>
+            <player-name>Ben Tate, Pit RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 10-31</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60021">
+            <player-slot/>
+            <player-name>Eagles D/ST, Phi D/ST</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-0</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr14922">
+            <player-slot/>
+            <player-name>Mohamed Sanu, Cin WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>T 37-37</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr15878">
+            <player-slot/>
+            <player-name>Terrance Williams, Dal WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 30-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5549">
+            <player-slot/>
+            <player-name>Steven Jackson, Atl RB</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 13-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>T 37-37</game-status>
+            <points>35</points>
+         </player>
+      </players>
+   </team>
+</game>

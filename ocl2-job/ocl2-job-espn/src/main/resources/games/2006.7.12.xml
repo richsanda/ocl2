@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="7" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 22-36</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60030">
+            <player-slot/>
+            <player-name>Jaguars D/ST, Jac D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 7-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr2753">
+            <player-slot/>
+            <player-name>T.J. Houshmandzadeh, Cin WR</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 17-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr1575">
+            <player-slot/>
+            <player-name>Matt Hasselbeck, Sea QB</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5633">
+            <player-slot/>
+            <player-name>Jerricho Cotchery, NYJ WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 31-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5534">
+            <player-slot/>
+            <player-name>Reggie Williams, Jac WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 7-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr3562">
+            <player-slot/>
+            <player-name>DeShaun Foster, Car RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 14-17</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 17-14</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9596">
+            <player-slot/>
+            <player-name>Matt Leinart, Ari QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 9-22</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr5557">
+            <player-slot/>
+            <player-name>Ben Watson, NE TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 28-6</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>W 36-22</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr2211">
+            <player-slot/>
+            <player-name>Darrell Jackson, Sea WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>L 13-31</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 17-14</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 38-41</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 30-27</game-status>
+            <points>29</points>
+         </player>
+      </players>
+   </team>
+</game>

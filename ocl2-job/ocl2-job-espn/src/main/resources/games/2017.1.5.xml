@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="1" team="5">
+   <team>
+      <header>Westerly Donnabairds Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 26-16</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr17580">
+            <player-slot>RB</player-slot>
+            <player-name>Ameer Abdullah, Det RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 35-23</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>RB/WR</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>L 9-46</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 0-20</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-35</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15847">
+            <player-slot>TE</player-slot>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>W 42-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-35</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14322">
+            <player-slot>K</player-slot>
+            <player-name>Dan Bailey, Dal K</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 19-3</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr17907">
+            <player-slot>QB</player-slot>
+            <player-name>Dak Prescott, Dal QB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 19-3</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, LAC RB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 21-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18260">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Dalvin Cook*, Min RB   IR</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>W 29-19</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14851">
+            <player-slot>WR</player-slot>
+            <player-name>Terrelle Pryor Sr.*, Wsh WR   IR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 17-30</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 35-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr15788">
+            <player-slot>TE</player-slot>
+            <player-name>Tyler Eifert*, Cin TE   IR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 0-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 27-42</game-status>
+            <points>-2</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 20-0</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

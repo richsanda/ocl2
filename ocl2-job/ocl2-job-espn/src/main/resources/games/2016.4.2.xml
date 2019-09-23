@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="4" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 33-48</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>L 13-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 48-33</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot>WR</player-slot>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 33-48</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16016">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Kenny Stills, Mia WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>L 7-22</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 27-17</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>LA</opponent>
+            <game-status>L 13-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot>K</player-slot>
+            <player-name>Blair Walsh, Sea K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 27-17</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr5526">
+            <player-slot>QB</player-slot>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 10-24</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr17586">
+            <player-slot>RB</player-slot>
+            <player-name>Melvin Gordon, SD RB</player-name>
+            <link/>
+            <opponent>NO</opponent>
+            <game-status>L 34-35</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 17-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr12579">
+            <player-slot>WR</player-slot>
+            <player-name>Jeremy Maclin, KC WR</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 14-43</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14851">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Terrelle Pryor Sr., Wsh WR</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 31-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot>TE</player-slot>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>L 33-48</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>L 0-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 27-28</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

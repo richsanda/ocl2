@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="5" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 34-3</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr3575">
+            <player-slot/>
+            <player-name>Andre Davis, Hou WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 22-19</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, Sea K</player-name>
+            <link/>
+            <opponent>@Pit</opponent>
+            <game-status>L 0-21</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9589">
+            <player-slot/>
+            <player-name>Vince Young, Ten QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 20-13</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 21-0</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 24-35</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 17-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2138">
+            <player-slot/>
+            <player-name>Thomas Jones, NYJ RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 24-35</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 14-33</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>L 20-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-3</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr9611">
+            <player-slot/>
+            <player-name>Santonio Holmes, Pit WR</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>W 21-0</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>W 41-3</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr1755">
+            <player-slot/>
+            <player-name>Edgerrin James, Ari RB</player-name>
+            <link/>
+            <opponent>@StL</opponent>
+            <game-status>W 34-31</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 19-22</game-status>
+            <points>22</points>
+         </player>
+      </players>
+   </team>
+</game>

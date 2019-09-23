@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="14" team="11">
+   <team>
+      <header>Smooth Criminals Box Score</header>
+      <players>
+         <player id="plyr17794">
+            <player-slot>QB</player-slot>
+            <player-name>Jared Goff, LAR QB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr18823">
+            <player-slot>RB</player-slot>
+            <player-name>Phillip Lindsay, Den RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>L 14-20</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr18589">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Sony Michel, NE RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 33-34</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17178">
+            <player-slot>WR</player-slot>
+            <player-name>Adam Thielen, Min WR</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 7-21</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr12649">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Julian Edelman, NE WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 33-34</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17861">
+            <player-slot>TE</player-slot>
+            <player-name>Austin Hooper, Atl TE   Q</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 20-34</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot>D/ST</player-slot>
+            <player-name>Steelers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 21-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot>K</player-slot>
+            <player-name>Greg Zuerlein, LAR K</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>The Franchise Box Score</header>
+      <players>
+         <player id="plyr18210">
+            <player-slot>QB</player-slot>
+            <player-name>Patrick Mahomes, KC QB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr18809">
+            <player-slot>RB</player-slot>
+            <player-name>Justin Jackson, LAC RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 26-21</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr15795">
+            <player-slot>RB/WR</player-slot>
+            <player-name>DeAndre Hopkins, Hou WR</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 21-24</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr17929">
+            <player-slot>WR</player-slot>
+            <player-name>Tyreek Hill, KC WR   Q</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 27-24</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15880">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Robert Woods, LAR WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Ind TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 24-21</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60014">
+            <player-slot>D/ST</player-slot>
+            <player-name>Rams D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 6-15</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr18104">
+            <player-slot>K</player-slot>
+            <player-name>Wil Lutz, NO K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 28-14</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

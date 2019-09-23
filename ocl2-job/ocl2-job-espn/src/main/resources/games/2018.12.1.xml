@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="12" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 17-24</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 24-21</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr18193">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Joe Mixon, Cin RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>L 20-35</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-24</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr18733">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Marquez Valdes-Scantling, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot>TE</player-slot>
+            <player-name>Greg Olsen, Car TE</player-name>
+            <link/>
+            <opponent>Sea</opponent>
+            <game-status>L 27-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 45-10</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9704">
+            <player-slot>K</player-slot>
+            <player-name>Stephen Gostkowski, NE K</player-name>
+            <link/>
+            <opponent>@NYJ</opponent>
+            <game-status>W 27-13</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr17399">
+            <player-slot>QB</player-slot>
+            <player-name>Jameis Winston, TB QB</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 27-9</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>L 10-45</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr18424">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Matt Breida, SF RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 9-27</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17619">
+            <player-slot>WR</player-slot>
+            <player-name>Tyler Lockett, Sea WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 30-27</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 27-24</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 35-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60013">
+            <player-slot>D/ST</player-slot>
+            <player-name>Raiders D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Bal</opponent>
+            <game-status>L 17-34</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr18902">
+            <player-slot>K</player-slot>
+            <player-name>Mike Badgley, LAC K</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 45-10</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

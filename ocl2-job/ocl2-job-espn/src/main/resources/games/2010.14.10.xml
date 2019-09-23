@@ -1,0 +1,140 @@
+<game season="2010" scoringPeriod="14" team="10">
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr5606">
+            <player-slot/>
+            <player-name>Chris Cooley, Was TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 16-17</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11257">
+            <player-slot/>
+            <player-name>Rashard Mendenhall, Pit RB</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 23-7</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9638">
+            <player-slot/>
+            <player-name>Greg Jennings, GB WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 3-7</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr4680">
+            <player-slot/>
+            <player-name>Josh Brown, StL K</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 13-31</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4582">
+            <player-slot/>
+            <player-name>Brandon Lloyd, Den WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 13-43</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot/>
+            <player-name>Falcons D/ST, Atl D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 31-10</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr11252">
+            <player-slot/>
+            <player-name>Joe Flacco, Bal QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-28</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr12497">
+            <player-slot/>
+            <player-name>Arian Foster, Hou RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>L 28-34</game-status>
+            <points>14</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr13272">
+            <player-slot/>
+            <player-name>Ed Dickson, Bal TE</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-28</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60033">
+            <player-slot/>
+            <player-name>Ravens D/ST, Bal D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-28</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr10488">
+            <player-slot/>
+            <player-name>Sidney Rice, Min WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 3-21</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 30-28</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 21-3</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1263">
+            <player-slot/>
+            <player-name>Derrick Mason, Bal WR</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 34-28</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr12586">
+            <player-slot/>
+            <player-name>Hakeem Nicks, NYG WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 21-3</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13587">
+            <player-slot/>
+            <player-name>Chris Ivory, NO RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 31-13</game-status>
+            <points>4</points>
+         </player>
+      </players>
+   </team>
+</game>

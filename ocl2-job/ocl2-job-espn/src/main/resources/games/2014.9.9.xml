@@ -1,0 +1,140 @@
+<game season="2014" scoringPeriod="9" team="9">
+   <team>
+      <header>Ruckus Tins Box Score</header>
+      <players>
+         <player id="plyr14005">
+            <player-slot/>
+            <player-name>DeMarco Murray, Phi RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 31-21</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 0-37</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot/>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 40-24</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr10456">
+            <player-slot/>
+            <player-name>Marshawn Lynch, Sea RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>W 30-24</game-status>
+            <points>25</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Ind WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 40-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 22-17</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr8416">
+            <player-slot/>
+            <player-name>Alex Smith, KC QB</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-10</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr13271">
+            <player-slot/>
+            <player-name>Eric Decker, NYJ WR</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>L 10-24</game-status>
+            <points>12</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr15847">
+            <player-slot/>
+            <player-name>Travis Kelce, KC TE</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 24-10</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17169">
+            <player-slot/>
+            <player-name>Chandler Catanzaro, Ari K</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr10693">
+            <player-slot/>
+            <player-name>Ahmad Bradshaw, Ind RB</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 40-24</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 43-23</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr5528">
+            <player-slot/>
+            <player-name>Larry Fitzgerald, Ari WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15893">
+            <player-slot/>
+            <player-name>Andre Ellington, Ari RB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-17</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr4459">
+            <player-slot/>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>W 28-17</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot/>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>W 40-24</game-status>
+            <points>13</points>
+         </player>
+      </players>
+   </team>
+</game>

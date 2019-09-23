@@ -1,0 +1,140 @@
+<game season="2013" scoringPeriod="9" team="4">
+   <team>
+      <header>Magoun Square Ruffians Box Score</header>
+      <players>
+         <player id="plyr11307">
+            <player-slot/>
+            <player-name>Jamaal Charles, KC RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 23-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15825">
+            <player-slot/>
+            <player-name>Le'Veon Bell, Pit RB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 31-55</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr15705">
+            <player-slot/>
+            <player-name>Josh Gordon, Cle WR</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 24-18</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot/>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 23-27</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot/>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 20-22</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60005">
+            <player-slot/>
+            <player-name>Browns D/ST, Cle D/ST</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 24-18</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr14874">
+            <player-slot/>
+            <player-name>Andrew Luck, Ind QB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-24</game-status>
+            <points>26</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Fly with Balloons Box Score</header>
+      <players>
+         <player id="plyr14884">
+            <player-slot/>
+            <player-name>Trent Richardson, Ind RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr14912">
+            <player-slot/>
+            <player-name>Alshon Jeffery, Chi WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>W 27-20</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr8440">
+            <player-slot/>
+            <player-name>Jason Campbell, Cin QB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>L 20-22</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr60011">
+            <player-slot/>
+            <player-name>Colts D/ST, Ind D/ST</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>W 27-24</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr13934">
+            <player-slot/>
+            <player-name>Antonio Brown, Pit WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 31-55</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr4527">
+            <player-slot/>
+            <player-name>Jason Witten, Dal TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 27-23</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr14993">
+            <player-slot/>
+            <player-name>Greg Zuerlein, StL K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 21-28</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr11318">
+            <player-slot/>
+            <player-name>Harry Douglas, Atl WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 10-34</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+</game>

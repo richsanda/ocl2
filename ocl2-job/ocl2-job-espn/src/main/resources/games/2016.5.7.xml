@@ -1,0 +1,141 @@
+<game season="2016" scoringPeriod="5" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr5529">
+            <player-slot>QB</player-slot>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 31-34</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr13213">
+            <player-slot>RB</player-slot>
+            <player-name>LeGarrette Blount, NE RB</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 33-13</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr15994">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Theo Riddick, Det RB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 24-23</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot>WR</player-slot>
+            <player-name>Brandon Marshall, NYG WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 16-23</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17762">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Tyrell Williams, SD WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>L 31-34</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr17564">
+            <player-slot>TE</player-slot>
+            <player-name>C.J. Uzomah, Cin TE</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 14-28</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr60025">
+            <player-slot>D/ST</player-slot>
+            <player-name>49ers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>L 21-33</game-status>
+            <points>-3</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>Chi</opponent>
+            <game-status>W 29-23</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr8627">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Anderson, Car QB</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 33-21</game-status>
+            <points>31</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 13-33</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot>WR</player-slot>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 14-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 23-24</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 30-17</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot>D/ST</player-slot>
+            <player-name>Cardinals D/ST D/ST</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 33-21</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr15058">
+            <player-slot>K</player-slot>
+            <player-name>Blair Walsh, Sea K</player-name>
+            <link/>
+            <opponent>**
+                                  BYE **</opponent>
+            <game-status/>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

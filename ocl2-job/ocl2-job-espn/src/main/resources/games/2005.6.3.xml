@@ -1,0 +1,140 @@
+<game season="2005" scoringPeriod="6" team="3">
+   <team>
+      <header>Bridgewater Raritan Box Score</header>
+      <players>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 27-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr940">
+            <player-slot/>
+            <player-name>Terry Glenn, Dal WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 16-13</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 45-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60020">
+            <player-slot/>
+            <player-name>Jets D/ST, NYJ D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 17-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Atl QB</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>W 34-31</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Bal RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 16-3</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr2139">
+            <player-slot/>
+            <player-name>Plaxico Burress, NYG WR</player-name>
+            <link/>
+            <opponent>@Dal</opponent>
+            <game-status>L 13-16</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr2199">
+            <player-slot/>
+            <player-name>Erron Kinney, Ten TE</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>L 23-31</game-status>
+            <points>5</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Inman Igloos Box Score</header>
+      <players>
+         <player id="plyr2148">
+            <player-slot/>
+            <player-name>Sebastian Janikowski, Oak K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 14-27</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2553">
+            <player-slot/>
+            <player-name>LaDainian Tomlinson, SD RB</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 27-14</game-status>
+            <points>35</points>
+         </player>
+         <player id="plyr2579">
+            <player-slot/>
+            <player-name>Todd Heap, Bal TE</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 16-3</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 45-28</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr2649">
+            <player-slot/>
+            <player-name>Rudi Johnson, Cin RB</player-name>
+            <link/>
+            <opponent>@Ten</opponent>
+            <game-status>W 31-23</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr1693">
+            <player-slot/>
+            <player-name>Jake Delhomme, Car QB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>W 21-20</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, Oak WR</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>L 14-27</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>W 28-3</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

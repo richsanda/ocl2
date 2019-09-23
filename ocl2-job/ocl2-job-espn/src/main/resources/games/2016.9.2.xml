@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="9" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr13994">
+            <player-slot>QB</player-slot>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 13-10</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr17133">
+            <player-slot>RB</player-slot>
+            <player-name>Isaiah Crowell, Cle RB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 10-35</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16944">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Devonta Freeman, Atl RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 43-28</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr16730">
+            <player-slot>WR</player-slot>
+            <player-name>Kelvin Benjamin, Car WR</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 13-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 23-28</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr9761">
+            <player-slot>TE</player-slot>
+            <player-name>Delanie Walker, Ten TE</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 35-43</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60001">
+            <player-slot>D/ST</player-slot>
+            <player-name>Falcons D/ST D/ST</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 43-28</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr4333">
+            <player-slot>K</player-slot>
+            <player-name>Matt Bryant, Atl K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>W 43-28</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 41-23</game-status>
+            <points>26</points>
+         </player>
+         <player id="plyr17384">
+            <player-slot>RB</player-slot>
+            <player-name>Charcandrick West, KC RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 19-14</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr15855">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Christine Michael, GB RB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 26-31</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 28-43</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 35-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr16732">
+            <player-slot>TE</player-slot>
+            <player-name>Eric Ebron, Det TE</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 22-16</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>NYJ</opponent>
+            <game-status>W 27-23</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot>K</player-slot>
+            <player-name>Cairo Santos, KC K</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 19-14</game-status>
+            <points>15</points>
+         </player>
+      </players>
+   </team>
+</game>

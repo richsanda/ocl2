@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="7" team="12">
+   <team>
+      <header>Fenway Gene Hackmans Box Score</header>
+      <players>
+         <player id="plyr9684">
+            <player-slot/>
+            <player-name>Owen Daniels, Hou TE</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-21</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11122">
+            <player-slot/>
+            <player-name>Matt Prater, Den K</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 7-41</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr9597">
+            <player-slot/>
+            <player-name>Jay Cutler, Den QB</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 7-41</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot/>
+            <player-name>Titans D/ST, Ten D/ST</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 34-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr11298">
+            <player-slot/>
+            <player-name>Kevin Smith, Det RB</player-name>
+            <link/>
+            <opponent>@Hou</opponent>
+            <game-status>L 21-28</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2136">
+            <player-slot/>
+            <player-name>Jamal Lewis, Cle RB</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 11-14</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr658">
+            <player-slot/>
+            <player-name>Isaac Bruce, SF WR</player-name>
+            <link/>
+            <opponent>@NYG</opponent>
+            <game-status>L 17-29</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr8418">
+            <player-slot/>
+            <player-name>Braylon Edwards, Cle WR</player-name>
+            <link/>
+            <opponent>@Was</opponent>
+            <game-status>L 11-14</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Windy City Heat Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 7-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>W 34-14</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 14-23</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5568">
+            <player-slot/>
+            <player-name>Julius Jones, Sea RB</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 10-20</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr9400">
+            <player-slot/>
+            <player-name>Lance Moore, NO WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>L 7-30</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>Det</opponent>
+            <game-status>W 28-21</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr60007">
+            <player-slot/>
+            <player-name>Broncos D/ST, Den D/ST</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 7-41</game-status>
+            <points>-1</points>
+         </player>
+         <player id="plyr3579">
+            <player-slot/>
+            <player-name>Clinton Portis, Was RB</player-name>
+            <link/>
+            <opponent>Cle</opponent>
+            <game-status>W 14-11</game-status>
+            <points>23</points>
+         </player>
+      </players>
+   </team>
+</game>

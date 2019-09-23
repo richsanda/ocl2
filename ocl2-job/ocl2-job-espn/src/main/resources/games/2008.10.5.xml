@@ -1,0 +1,140 @@
+<game season="2008" scoringPeriod="10" team="5">
+   <team>
+      <header>Shapley Kings Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot/>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>Ind</opponent>
+            <game-status>L 20-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5590">
+            <player-slot/>
+            <player-name>Nate Kaeding, SD K</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 20-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr10596">
+            <player-slot/>
+            <player-name>Kevin Boss, NYG TE</player-name>
+            <link/>
+            <opponent>@Phi</opponent>
+            <game-status>W 36-31</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 47-3</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr8475">
+            <player-slot/>
+            <player-name>Vincent Jackson, SD WR</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>W 20-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr60022">
+            <player-slot/>
+            <player-name>Cardinals D/ST, Ari D/ST</player-name>
+            <link/>
+            <opponent>SF</opponent>
+            <game-status>W 29-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr3619">
+            <player-slot/>
+            <player-name>Brian Westbrook, Phi RB</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>L 31-36</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr9631">
+            <player-slot/>
+            <player-name>LenDale White, Ten RB</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>W 21-14</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 17-6</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, Chi RB</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 14-21</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr5531">
+            <player-slot/>
+            <player-name>Kellen Winslow, Cle TE</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>L 30-34</game-status>
+            <points>23</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>L 14-21</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr2622">
+            <player-slot/>
+            <player-name>Steve Smith, Car WR</player-name>
+            <link/>
+            <opponent>@Oak</opponent>
+            <game-status>W 17-6</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr1433">
+            <player-slot/>
+            <player-name>Randy Moss, NE WR</player-name>
+            <link/>
+            <opponent>Buf</opponent>
+            <game-status>W 20-10</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8439">
+            <player-slot/>
+            <player-name>Aaron Rodgers, GB QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 27-28</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, SF RB</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>L 24-29</game-status>
+            <points>9</points>
+         </player>
+      </players>
+   </team>
+</game>

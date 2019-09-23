@@ -1,0 +1,140 @@
+<game season="2007" scoringPeriod="4" team="8">
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2597">
+            <player-slot/>
+            <player-name>LaMont Jordan, Oak RB</player-name>
+            <link/>
+            <opponent>@Mia</opponent>
+            <game-status>W 35-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr751">
+            <player-slot/>
+            <player-name>Joey Galloway, TB WR</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 20-7</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot/>
+            <player-name>Packers D/ST, GB D/ST</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 23-16</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5362">
+            <player-slot/>
+            <player-name>Antonio Gates, SD TE</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 16-30</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr939">
+            <player-slot/>
+            <player-name>Marvin Harrison, Ind WR</player-name>
+            <link/>
+            <opponent>Den</opponent>
+            <game-status>W 38-20</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 27-37</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr5529">
+            <player-slot/>
+            <player-name>Philip Rivers, SD QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 16-30</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr8417">
+            <player-slot/>
+            <player-name>Ronnie Brown, Mia RB</player-name>
+            <link/>
+            <opponent>Oak</opponent>
+            <game-status>L 17-35</game-status>
+            <points>28</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Cambridge Argonauts Box Score</header>
+      <players>
+         <player id="plyr60029">
+            <player-slot/>
+            <player-name>Panthers D/ST, Car D/ST</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>L 7-20</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr10475">
+            <player-slot/>
+            <player-name>Greg Olsen, Chi TE</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 27-37</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr112">
+            <player-slot/>
+            <player-name>Brett Favre, GB QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 23-16</game-status>
+            <points>21</points>
+         </player>
+         <player id="plyr129">
+            <player-slot/>
+            <player-name>Matt Stover, Bal K</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>L 13-27</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr5941">
+            <player-slot/>
+            <player-name>Wes Welker, NE WR</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 34-13</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr1966">
+            <player-slot/>
+            <player-name>Donald Driver, GB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 23-16</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr8419">
+            <player-slot/>
+            <player-name>Cedric Benson, Chi RB</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 27-37</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>W 35-7</game-status>
+            <points>7</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2016" scoringPeriod="11" team="7">
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr4459">
+            <player-slot>QB</player-slot>
+            <player-name>Carson Palmer, Ari QB</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 24-30</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr14885">
+            <player-slot>RB</player-slot>
+            <player-name>Doug Martin, TB RB</player-name>
+            <link/>
+            <opponent>@KC</opponent>
+            <game-status>W 19-17</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr15994">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Theo Riddick, Det RB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 26-19</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr4512">
+            <player-slot>WR</player-slot>
+            <player-name>Anquan Boldin, Det WR</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 26-19</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14221">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Doug Baldwin, Sea WR</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 26-15</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot>TE</player-slot>
+            <player-name>Julius Thomas, Mia TE</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 14-10</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot>D/ST</player-slot>
+            <player-name>Seahawks D/ST D/ST</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>W 26-15</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr1097">
+            <player-slot>K</player-slot>
+            <player-name>Adam Vinatieri, Ind K</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 24-17</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr12483">
+            <player-slot>QB</player-slot>
+            <player-name>Matthew Stafford, Det QB</player-name>
+            <link/>
+            <opponent>Jax</opponent>
+            <game-status>W 26-19</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12514">
+            <player-slot>RB</player-slot>
+            <player-name>LeSean McCoy, Buf RB</player-name>
+            <link/>
+            <opponent>@Cin</opponent>
+            <game-status>W 16-12</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Todd Gurley, LA RB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 10-14</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR</player-slot>
+            <player-name>Brandin Cooks, NE WR</player-name>
+            <link/>
+            <opponent>@SF</opponent>
+            <game-status>W 30-17</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR/TE</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>Ten</opponent>
+            <game-status>W 24-17</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 30-24</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr60015">
+            <player-slot>D/ST</player-slot>
+            <player-name>Dolphins D/ST D/ST</player-name>
+            <link/>
+            <opponent>@LA</opponent>
+            <game-status>W 14-10</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr15918">
+            <player-slot>K</player-slot>
+            <player-name>Caleb Sturgis, Phi K</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>L 15-26</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+</game>

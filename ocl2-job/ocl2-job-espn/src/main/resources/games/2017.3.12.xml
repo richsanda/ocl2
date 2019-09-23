@@ -1,0 +1,140 @@
+<game season="2017" scoringPeriod="3" team="12">
+   <team>
+      <header>Point Place Vikings Box Score</header>
+      <players>
+         <player id="plyr16757">
+            <player-slot>QB</player-slot>
+            <player-name>Derek Carr, Oak QB</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 10-27</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr18218">
+            <player-slot>RB</player-slot>
+            <player-name>Leonard Fournette, Jax RB</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 44-7</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr18260">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Dalvin Cook*, Min RB   IR</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-17</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr13983">
+            <player-slot>WR</player-slot>
+            <player-name>A.J. Green, Cin WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 24-27</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr13217">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Golden Tate, Det WR</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>L 26-30</game-status>
+            <points>11</points>
+         </player>
+         <player id="plyr12537">
+            <player-slot>TE</player-slot>
+            <player-name>Jared Cook, Oak TE</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>L 10-27</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr60017">
+            <player-slot>D/ST</player-slot>
+            <player-name>Patriots D/ST D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 36-33</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr15683">
+            <player-slot>K</player-slot>
+            <player-name>Justin Tucker, Bal K</player-name>
+            <link/>
+            <opponent>@Jax</opponent>
+            <game-status>L 7-44</game-status>
+            <points>1</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot>QB</player-slot>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 34-13</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr16040">
+            <player-slot>RB</player-slot>
+            <player-name>C.J. Anderson, Den RB</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>L 16-26</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr18225">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Kareem Hunt, KC RB</player-name>
+            <link/>
+            <opponent>@LAC</opponent>
+            <game-status>W 24-10</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr16737">
+            <player-slot>WR</player-slot>
+            <player-name>Mike Evans, TB WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>L 17-34</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr13215">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Dez Bryant, Dal WR</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 28-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr14054">
+            <player-slot>TE</player-slot>
+            <player-name>Kyle Rudolph, Min TE</player-name>
+            <link/>
+            <opponent>TB</opponent>
+            <game-status>W 34-17</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr60009">
+            <player-slot>D/ST</player-slot>
+            <player-name>Packers D/ST D/ST</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 27-24</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr17172">
+            <player-slot>K</player-slot>
+            <player-name>Cairo Santos, Chi K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>W 23-17</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

@@ -1,0 +1,140 @@
+<game season="2015" scoringPeriod="6" team="2">
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr10636">
+            <player-slot/>
+            <player-name>Mason Crosby, GB K</player-name>
+            <link/>
+            <opponent>SD</opponent>
+            <game-status>W 27-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr11674">
+            <player-slot/>
+            <player-name>Danny Amendola, NE WR</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 34-27</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16763">
+            <player-slot/>
+            <player-name>Jordan Matthews, Phi WR</player-name>
+            <link/>
+            <opponent>NYG</opponent>
+            <game-status>W 27-7</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr14198">
+            <player-slot/>
+            <player-name>Dion Lewis, NE RB</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>W 34-27</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr8479">
+            <player-slot/>
+            <player-name>Frank Gore, Ind RB</player-name>
+            <link/>
+            <opponent>NE</opponent>
+            <game-status>L 27-34</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr13994">
+            <player-slot/>
+            <player-name>Cam Newton, Car QB</player-name>
+            <link/>
+            <opponent>@Sea</opponent>
+            <game-status>W 27-23</game-status>
+            <points>19</points>
+         </player>
+         <player id="plyr60003">
+            <player-slot/>
+            <player-name>Bears D/ST, Chi D/ST</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 34-37</game-status>
+            <points>1</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot/>
+            <player-name>Jimmy Graham, Sea TE</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 23-27</game-status>
+            <points>16</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Apponequet Justins Box Score</header>
+      <players>
+         <player id="plyr2580">
+            <player-slot/>
+            <player-name>Drew Brees, NO QB</player-name>
+            <link/>
+            <opponent>Atl</opponent>
+            <game-status>W 31-21</game-status>
+            <points>18</points>
+         </player>
+         <player id="plyr11278">
+            <player-slot/>
+            <player-name>Matt Forte, NYJ RB</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 34-20</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr13295">
+            <player-slot/>
+            <player-name>Emmanuel Sanders, Den WR</player-name>
+            <link/>
+            <opponent>@Cle</opponent>
+            <game-status>W 26-23</game-status>
+            <points>20</points>
+         </player>
+         <player id="plyr14204">
+            <player-slot/>
+            <player-name>Julius Thomas, Jax TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>L 20-31</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr60026">
+            <player-slot/>
+            <player-name>Seahawks D/ST, Sea D/ST</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>L 23-27</game-status>
+            <points>6</points>
+         </player>
+         <player id="plyr9354">
+            <player-slot/>
+            <player-name>Robbie Gould, Chi K</player-name>
+            <link/>
+            <opponent>@Det</opponent>
+            <game-status>L 34-37</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr15818">
+            <player-slot/>
+            <player-name>Keenan Allen, SD WR</player-name>
+            <link/>
+            <opponent>@GB</opponent>
+            <game-status>L 20-27</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot/>
+            <player-name>Brandon Marshall, NYJ WR</player-name>
+            <link/>
+            <opponent>Wsh</opponent>
+            <game-status>W 34-20</game-status>
+            <points>17</points>
+         </player>
+      </players>
+   </team>
+</game>

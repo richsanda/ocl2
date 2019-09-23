@@ -1,0 +1,140 @@
+<game season="2018" scoringPeriod="2" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr5536">
+            <player-slot>QB</player-slot>
+            <player-name>Ben Roethlisberger, Pit QB</player-name>
+            <link/>
+            <opponent>KC</opponent>
+            <game-status>L 37-42</game-status>
+            <points>42</points>
+         </player>
+         <player id="plyr17683">
+            <player-slot>RB</player-slot>
+            <player-name>Todd Gurley II, LAR RB</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 34-0</game-status>
+            <points>29</points>
+         </player>
+         <player id="plyr18193">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Joe Mixon*, Cin RB   O</player-name>
+            <link/>
+            <opponent>Bal</opponent>
+            <game-status>W 34-23</game-status>
+            <points>8</points>
+         </player>
+         <player id="plyr16800">
+            <player-slot>WR</player-slot>
+            <player-name>Davante Adams, GB WR</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>T 29-29</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr16731">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandin Cooks, LAR WR</player-name>
+            <link/>
+            <opponent>Ari</opponent>
+            <game-status>W 34-0</game-status>
+            <points>17</points>
+         </player>
+         <player id="plyr13232">
+            <player-slot>TE</player-slot>
+            <player-name>Jimmy Graham, GB TE</player-name>
+            <link/>
+            <opponent>Min</opponent>
+            <game-status>T 29-29</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr60024">
+            <player-slot>D/ST</player-slot>
+            <player-name>Chargers D/ST D/ST</player-name>
+            <link/>
+            <opponent>@Buf</opponent>
+            <game-status>W 31-20</game-status>
+            <points>9</points>
+         </player>
+         <player id="plyr18178">
+            <player-slot>K</player-slot>
+            <player-name>Jake Elliott, Phi K</player-name>
+            <link/>
+            <opponent>@TB</opponent>
+            <game-status>L 21-27</game-status>
+            <points>2</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>Kidani Village Okapi Box Score</header>
+      <players>
+         <player id="plyr18566">
+            <player-slot>QB</player-slot>
+            <player-name>Sam Darnold, NYJ QB</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>L 12-20</game-status>
+            <points>15</points>
+         </player>
+         <player id="plyr17442">
+            <player-slot>RB</player-slot>
+            <player-name>David Johnson, Ari RB</player-name>
+            <link/>
+            <opponent>@LAR</opponent>
+            <game-status>L 0-34</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr17689">
+            <player-slot>RB/WR</player-slot>
+            <player-name>Tevin Coleman, Atl RB</player-name>
+            <link/>
+            <opponent>Car</opponent>
+            <game-status>W 31-24</game-status>
+            <points>13</points>
+         </player>
+         <player id="plyr14924">
+            <player-slot>WR</player-slot>
+            <player-name>T.Y. Hilton, Ind WR</player-name>
+            <link/>
+            <opponent>@Wsh</opponent>
+            <game-status>W 21-9</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr9705">
+            <player-slot>WR/TE</player-slot>
+            <player-name>Brandon Marshall, Sea WR</player-name>
+            <link/>
+            <opponent>@Chi</opponent>
+            <game-status>L 17-24</game-status>
+            <points>4</points>
+         </player>
+         <player id="plyr18303">
+            <player-slot>TE</player-slot>
+            <player-name>David Njoku, Cle TE</player-name>
+            <link/>
+            <opponent>@NO</opponent>
+            <game-status>L 18-21</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr60010">
+            <player-slot>D/ST</player-slot>
+            <player-name>Titans D/ST D/ST</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 20-17</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr8461">
+            <player-slot>K</player-slot>
+            <player-name>Mike Nugent, Oak K</player-name>
+            <link/>
+            <opponent>@Den</opponent>
+            <game-status>L 19-20</game-status>
+            <points>6</points>
+         </player>
+      </players>
+   </team>
+</game>

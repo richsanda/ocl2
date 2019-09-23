@@ -1,0 +1,140 @@
+<game season="2006" scoringPeriod="15" team="1">
+   <team>
+      <header>Jeff Knight All-Stars Box Score</header>
+      <players>
+         <player id="plyr3504">
+            <player-slot/>
+            <player-name>Shayne Graham, Cin K</player-name>
+            <link/>
+            <opponent>@Ind</opponent>
+            <game-status>L 16-34</game-status>
+            <points>10</points>
+         </player>
+         <player id="plyr5538">
+            <player-slot/>
+            <player-name>Lee Evans, Buf WR</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 21-0</game-status>
+            <points>12</points>
+         </player>
+         <player id="plyr4554">
+            <player-slot/>
+            <player-name>Justin Fargas, Oak RB</player-name>
+            <link/>
+            <opponent>StL</opponent>
+            <game-status>L 0-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr2578">
+            <player-slot/>
+            <player-name>Reggie Wayne, Ind WR</player-name>
+            <link/>
+            <opponent>Cin</opponent>
+            <game-status>W 34-16</game-status>
+            <points>14</points>
+         </player>
+         <player id="plyr2549">
+            <player-slot/>
+            <player-name>Michael Vick, Atl QB</player-name>
+            <link/>
+            <opponent>Dal</opponent>
+            <game-status>L 28-38</game-status>
+            <points>28</points>
+         </player>
+         <player id="plyr60023">
+            <player-slot/>
+            <player-name>Steelers D/ST, Pit D/ST</player-name>
+            <link/>
+            <opponent>@Car</opponent>
+            <game-status>W 37-3</game-status>
+            <points>24</points>
+         </player>
+         <player id="plyr3549">
+            <player-slot/>
+            <player-name>Daniel Graham, NE TE</player-name>
+            <link/>
+            <opponent>Hou</opponent>
+            <game-status>W 40-7</game-status>
+            <points>0</points>
+         </player>
+         <player id="plyr4485">
+            <player-slot/>
+            <player-name>Larry Johnson, KC RB</player-name>
+            <link/>
+            <opponent>@SD</opponent>
+            <game-status>L 9-20</game-status>
+            <points>8</points>
+         </player>
+      </players>
+   </team>
+   <team>
+      <header>East Cambridge Sunflies Box Score</header>
+      <players>
+         <player id="plyr139">
+            <player-slot/>
+            <player-name>John Kasay, Car K</player-name>
+            <link/>
+            <opponent>Pit</opponent>
+            <game-status>L 3-37</game-status>
+            <points>3</points>
+         </player>
+         <player id="plyr5526">
+            <player-slot/>
+            <player-name>Eli Manning, NYG QB</player-name>
+            <link/>
+            <opponent>Phi</opponent>
+            <game-status>L 22-36</game-status>
+            <points>7</points>
+         </player>
+         <player id="plyr4461">
+            <player-slot/>
+            <player-name>Andre Johnson, Hou WR</player-name>
+            <link/>
+            <opponent>@NE</opponent>
+            <game-status>L 7-40</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr2209">
+            <player-slot/>
+            <player-name>Laveranues Coles, NYJ WR</player-name>
+            <link/>
+            <opponent>@Min</opponent>
+            <game-status>W 26-13</game-status>
+            <points>22</points>
+         </player>
+         <player id="plyr9588">
+            <player-slot/>
+            <player-name>Reggie Bush, NO RB</player-name>
+            <link/>
+            <opponent>Was</opponent>
+            <game-status>L 10-16</game-status>
+            <points>2</points>
+         </player>
+         <player id="plyr9647">
+            <player-slot/>
+            <player-name>Tony Scheffler, Den TE</player-name>
+            <link/>
+            <opponent>@Ari</opponent>
+            <game-status>W 37-20</game-status>
+            <points>5</points>
+         </player>
+         <player id="plyr60002">
+            <player-slot/>
+            <player-name>Bills D/ST, Buf D/ST</player-name>
+            <link/>
+            <opponent>Mia</opponent>
+            <game-status>W 21-0</game-status>
+            <points>16</points>
+         </player>
+         <player id="plyr8523">
+            <player-slot/>
+            <player-name>Marion Barber, Dal RB</player-name>
+            <link/>
+            <opponent>@Atl</opponent>
+            <game-status>W 38-28</game-status>
+            <points>20</points>
+         </player>
+      </players>
+   </team>
+</game>
