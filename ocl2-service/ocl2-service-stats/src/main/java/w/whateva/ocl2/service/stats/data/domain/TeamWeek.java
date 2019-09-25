@@ -21,6 +21,9 @@ public class TeamWeek {
     private int lowest;
     private int highest;
     private int gameNumber;
+    private boolean win = false;
+    private boolean loss = false;
+    private boolean tie = false;
 
     @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER, mappedBy = "team")
     private List<PlayerWeek> players;

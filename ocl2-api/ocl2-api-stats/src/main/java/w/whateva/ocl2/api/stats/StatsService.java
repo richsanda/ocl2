@@ -1,8 +1,8 @@
 package w.whateva.ocl2.api.stats;
 
 import org.springframework.web.bind.annotation.*;
+import w.whateva.ocl2.api.stats.dto.GameSortType;
 import w.whateva.ocl2.api.stats.dto.PlayerStats;
-import w.whateva.ocl2.api.stats.dto.TeamPlayerStats;
 import w.whateva.ocl2.api.stats.dto.TeamPositionStats;
 import w.whateva.ocl2.api.stats.dto.box.GameBoxScore;
 
@@ -17,30 +17,25 @@ public interface StatsService {
     @ResponseBody
     List<GameBoxScore> gamesBySeasonAndScoringPeriod(@PathVariable("season") Integer season, @PathVariable("scoringPeriod") Integer scoringPeriod);
 
-    @RequestMapping(value = "/games/highestScores", method = RequestMethod.GET, produces = "application/json")
+    @RequestMapping(value = "/game/{season}/{scoringPeriod}/{teamNumber}", method = RequestMethod.GET, produces = "application/json")
     @ResponseBody
-    List<GameBoxScore> highestScoringGames(
-            @RequestParam(required = false) Integer startWeek,
-            @RequestParam(required = false) Integer startSeason,
-            @RequestParam(required = false) Integer endWeek,
-            @RequestParam(required = false) Integer endSeason,
-            @RequestParam(required = false) List<Integer> teams,
-            @RequestParam(required = false) Boolean wins,
-            @RequestParam(required = false) Boolean losses,
-            @RequestParam(required = false) Boolean ties,
-            @RequestParam(required = false) Boolean ruxbees,
-            @RequestParam(required = false) Boolean bugtons,
-            @RequestParam(required = false) Boolean sortByTotal
-    );
+    GameBoxScore gameBySeasonAndScoringPeriodAndTeam(@PathVariable("season") Integer season, @PathVariable("scoringPeriod") Integer scoringPeriod, @PathVariable("teamNumber") Integer teamNumber);
 
-    @GetMapping(value = "/teams/topPlayers")
-    List<TeamPlayerStats> topNPlayersPerTeam(
-            Integer n,
-            Integer startWeek,
-            Integer startSeason,
-            Integer endWeek,
-            Integer endSeason,
-            List<Integer> teams);
+    @RequestMapping(value = "/games", method = RequestMethod.GET, produces = "application/json")
+    @ResponseBody
+    List<GameBoxScore> games(
+            @RequestParam(required = false, defaultValue = DEFAULT_START_SCORING_PERIOD) Integer startWeek,
+            @RequestParam(required = false, defaultValue = DEFAULT_START_SEASON) Integer startSeason,
+            @RequestParam(required = false, defaultValue = DEFAULT_END_SCORING_PERIOD) Integer endWeek,
+            @RequestParam(required = false, defaultValue = DEFAULT_END_SEASON) Integer endSeason,
+            @RequestParam(required = false, defaultValue = DEFAULT_TEAMS) List<Integer> teams,
+            @RequestParam(required = false, defaultValue = DEFAULT_TRUE) Boolean wins,
+            @RequestParam(required = false, defaultValue = DEFAULT_TRUE) Boolean losses,
+            @RequestParam(required = false, defaultValue = DEFAULT_TRUE) Boolean ties,
+            @RequestParam(required = false) Integer ruxbeeLimit,
+            @RequestParam(required = false) Integer bugtonLimit,
+            @RequestParam(required = false) GameSortType sortType
+    );
 
     @GetMapping(value = "/teams/positions")
     List<TeamPositionStats> teamPositionStats(

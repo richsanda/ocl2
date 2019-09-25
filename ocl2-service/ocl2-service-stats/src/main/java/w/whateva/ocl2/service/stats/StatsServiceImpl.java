@@ -8,8 +8,8 @@ import org.springframework.util.StringUtils;
 import w.whateva.ocl2.api.stats.PointsPerTeam;
 import w.whateva.ocl2.api.stats.StatsConstants;
 import w.whateva.ocl2.api.stats.StatsService;
+import w.whateva.ocl2.api.stats.dto.GameSortType;
 import w.whateva.ocl2.api.stats.dto.PlayerStats;
-import w.whateva.ocl2.api.stats.dto.TeamPlayerStats;
 import w.whateva.ocl2.api.stats.dto.TeamPositionStats;
 import w.whateva.ocl2.api.stats.dto.box.GameBoxScore;
 import w.whateva.ocl2.api.stats.dto.box.PlayerBoxScore;
@@ -20,6 +20,7 @@ import w.whateva.ocl2.service.stats.data.domain.PlayerWeek;
 import w.whateva.ocl2.service.stats.data.domain.TeamWeek;
 import w.whateva.ocl2.service.stats.data.repository.*;
 
+import javax.persistence.EntityManager;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -42,6 +43,9 @@ public class StatsServiceImpl implements StatsService {
     @Autowired
     private TeamRepository teamRepository;
 
+    @Autowired
+    EntityManager entityManager;
+
     @Override
     public List<GameBoxScore> gamesBySeasonAndScoringPeriod(Integer season, Integer scoringPeriod) {
         return gameRepository.findBySeasonAndScoringPeriod(season, scoringPeriod)
@@ -51,18 +55,26 @@ public class StatsServiceImpl implements StatsService {
     }
 
     @Override
-    public List<GameBoxScore> highestScoringGames(Integer startWeek, Integer startSeason, Integer endWeek, Integer endSeason, List<Integer> teams, Boolean wins, Boolean losses, Boolean ties, Boolean ruxbees, Boolean bugtons, Boolean sortByTotal) {
-        return gameRepository.findAllByOrderByTotalPointsDesc().stream().map(StatsServiceImpl::toApi).collect(Collectors.toList());
+    public GameBoxScore gameBySeasonAndScoringPeriodAndTeam(Integer season, Integer scoringPeriod, Integer teamNumber) {
+        Game game = gameRepository.findGame(season, scoringPeriod, teamNumber);
+        return toApi(game);
     }
 
     @Override
-    public List<TeamPlayerStats> topNPlayersPerTeam(Integer n, Integer startWeek, Integer startSeason, Integer endWeek, Integer endSeason, List<Integer> teams) {
-        return null;
+    public List<GameBoxScore> games(Integer startWeek, Integer startSeason, Integer endWeek, Integer endSeason, List<Integer> teams, Boolean wins, Boolean losses, Boolean ties, Integer ruxbeeLimit, Integer bugtonLimit, GameSortType sortType) {
+        return gameRepository.findGames(gameNumber(startSeason, startWeek),
+                gameNumber(endSeason, endWeek),
+                teams,
+                wins,
+                losses,
+                ties,
+                ruxbeeLimit,
+                bugtonLimit).stream().map(StatsServiceImpl::toApi).collect(Collectors.toList());
     }
 
     @Override
     public List<TeamPositionStats> teamPositionStats(Integer startSeason, Integer endSeason, List<Integer> teams) {
-        return null;
+        return null; // TODO
     }
 
     @Override
@@ -90,8 +102,8 @@ public class StatsServiceImpl implements StatsService {
                                              Integer endSeason,
                                              Integer endScoringPeriod) {
 
-        Integer startGame = startSeason * 100 + startScoringPeriod;
-        Integer endGame = endSeason * 100 + endScoringPeriod;
+        Integer startGame = gameNumber(startSeason, startScoringPeriod);
+        Integer endGame = gameNumber(endSeason, endScoringPeriod);
 
         List<Player> players = null;
 
@@ -130,28 +142,6 @@ public class StatsServiceImpl implements StatsService {
                 })
                 .limit(StatsConstants.RESULT_SIZE)
                 .collect(Collectors.toList());
-    }
-
-    private static List<PointsPerTeam> pointsPerTeam(List<PlayerWeek> playerWeeks) {
-
-        Map<Integer, Integer> pointsPerTeam = new LinkedHashMap<>();
-
-        playerWeeks.forEach(pw -> {
-            Integer teamNumber = pw.getTeam().getTeamNumber();
-            pointsPerTeam.putIfAbsent(teamNumber, 0);
-            pointsPerTeam.put(teamNumber, pointsPerTeam.get(teamNumber) + pw.getPoints());
-        });
-
-        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(pointsPerTeam.entrySet());
-        list.sort(Map.Entry.<Integer, Integer>comparingByValue().reversed());
-
-        return list.stream().map(e -> {
-            PointsPerTeam result = new PointsPerTeam();
-            result.setTeamNumber(e.getKey());
-            result.setPoints(e.getValue());
-            return result;
-        })
-        .collect(Collectors.toList());
     }
 
     @Override
@@ -198,6 +188,17 @@ public class StatsServiceImpl implements StatsService {
             home.setGameNumber(game.getGameNumber());
             away.setGameNumber(game.getGameNumber());
             game.setTeamWeeks(Arrays.asList(home, away));
+            game.setHomePoints(home.getPoints());
+            game.setAwayPoints(away.getPoints());
+
+            if (game.getHomePoints() > game.getAwayPoints()) {
+                home.setWin(true);
+            } else if (game.getHomePoints() < game.getAwayPoints()) {
+                away.setWin(true);
+            } else {
+                home.setTie(true);
+                away.setTie(true);
+            }
 
             game.setHomeTeamName(home.getHeader());
             game.setHomeTeamNumber(game.getHomeTeamNumber());
@@ -228,6 +229,14 @@ public class StatsServiceImpl implements StatsService {
                 .stream()
                 .mapToInt(PlayerWeek::getPoints)
                 .sum());
+        result.setLowest(result.getPlayers()
+                .stream()
+                .mapToInt(PlayerWeek::getPoints)
+                .min().getAsInt());
+        result.setHighest(result.getPlayers()
+                .stream()
+                .mapToInt(PlayerWeek::getPoints)
+                .max().getAsInt());
 
         // establish reverse link
         result.getPlayers().forEach(p -> p.setTeam(result));
@@ -308,7 +317,7 @@ public class StatsServiceImpl implements StatsService {
     private static GameBoxScore toApi(Game game) {
 
         GameBoxScore result = new GameBoxScore();
-        result.setTotalPoints(game.getTotalPoints());
+        result.setTotalPoints(game.getHomePoints() + game.getAwayPoints());
         result.setAway(teamBoxScore(game.getAway()));
         result.setHome(teamBoxScore(game.getHome()));
         result.setSeason(game.getSeason());
@@ -326,8 +335,6 @@ public class StatsServiceImpl implements StatsService {
                 .stream()
                 .map(StatsServiceImpl::playerBoxScore)
                 .collect(Collectors.toList()));
-
-        System.out.println("my opponent is: " + teamWeek.getOpponent());
 
         return result;
     }
@@ -350,5 +357,31 @@ public class StatsServiceImpl implements StatsService {
     private static String index(String playerName) {
 
         return playerName.toLowerCase().replaceAll("\\s+", " ").trim();
+    }
+
+    private static int gameNumber(Integer season, Integer scoringPeriod) {
+        return season * 100 + scoringPeriod;
+    }
+
+    private static List<PointsPerTeam> pointsPerTeam(List<PlayerWeek> playerWeeks) {
+
+        Map<Integer, Integer> pointsPerTeam = new LinkedHashMap<>();
+
+        playerWeeks.forEach(pw -> {
+            Integer teamNumber = pw.getTeam().getTeamNumber();
+            pointsPerTeam.putIfAbsent(teamNumber, 0);
+            pointsPerTeam.put(teamNumber, pointsPerTeam.get(teamNumber) + pw.getPoints());
+        });
+
+        List<Map.Entry<Integer, Integer>> list = new ArrayList<>(pointsPerTeam.entrySet());
+        list.sort(Map.Entry.<Integer, Integer>comparingByValue().reversed());
+
+        return list.stream().map(e -> {
+            PointsPerTeam result = new PointsPerTeam();
+            result.setTeamNumber(e.getKey());
+            result.setPoints(e.getValue());
+            return result;
+        })
+                .collect(Collectors.toList());
     }
 }

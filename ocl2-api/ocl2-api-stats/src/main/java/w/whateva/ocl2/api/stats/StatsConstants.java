@@ -7,5 +7,9 @@ public class StatsConstants {
     static final String DEFAULT_END_SEASON = "2100";
     static final String DEFAULT_START_SCORING_PERIOD = "1";
     static final String DEFAULT_END_SCORING_PERIOD = "17";
+
+    static final String DEFAULT_TRUE = "true";
+    static final String DEFAULT_FALSE = "false";
+
     public static final Integer RESULT_SIZE = 50;
 }

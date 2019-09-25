@@ -28,12 +28,6 @@ public class Game {
     private String awayTeamName;
     private int homePoints;
     private int awayPoints;
-    private int totalPoints;
-    private boolean win;
-    private boolean loss;
-    private boolean tie;
-    private boolean ruxbee;
-    private boolean bugton;
     private int gameNumber;
 
     @OneToMany(mappedBy = "game", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
