@@ -111,11 +111,16 @@ div.stat-whatever {
 
 div.stat-graph {
 
-    width: 75%;
+    width: 70%;
 }
 
 div.stat-graph-component {
 
     display: inline-block;
     box-sizing: border-box;
+}
+
+div.stat-graph-active {
+
+    text-align: center;
 }

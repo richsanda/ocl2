@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+import org.springframework.util.CollectionUtils;
 import org.springframework.util.StringUtils;
 import w.whateva.ocl2.api.stats.PointsPerTeam;
 import w.whateva.ocl2.api.stats.StatsConstants;
@@ -140,6 +141,17 @@ public class StatsServiceImpl implements StatsService {
                     result.setPosition(weeks.stream().findAny().get().getPosition());
                     result.setPoints(weeks.stream().mapToInt(PlayerWeek::getPoints).sum());
                     result.setPointsPerTeam(pointsPerTeam(weeks));
+                    result.setCurrentPointsPerTeam(
+                            pointsPerTeam(weeks
+                                    .stream()
+                                    .filter(w ->
+                                            w.getTeam().getGame().getGameNumber() ==
+                                                    gameNumber(StatsConstants.CURRENT_SEASON, StatsConstants.CURRENT_SCORING_PERIOD))
+                                    .limit(1)
+                                    .collect(Collectors.toList()))
+                                    .stream()
+                                    .findFirst()
+                                    .orElse(null));
                     return result;
                 })
                 .limit(StatsConstants.RESULT_SIZE)
@@ -366,6 +378,8 @@ public class StatsServiceImpl implements StatsService {
     }
 
     private static List<PointsPerTeam> pointsPerTeam(List<PlayerWeek> playerWeeks) {
+
+        if (CollectionUtils.isEmpty(playerWeeks)) return Collections.emptyList();
 
         Map<Integer, Integer> pointsPerTeam = new LinkedHashMap<>();
 

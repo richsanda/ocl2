@@ -50,19 +50,19 @@
     </div>
 
     <div id="results" class="stat-table">
-        <!--div class="stat-row">
-            <div class="stat-rank stat-col">&nbsp;</div>
-            <div class="stat-whatever stat-col">{{ stat.position }}</div>
-            <div class="stat-whatever stat-col">{{ stat.name }}</div>
-            <div class="stat-whatever stat-col">{{ stat.points }}</div>
-            <div class="stat-whatever stat-col">{{ stat.games }}</div>
-        </div-->
         <div class="stat-row" data-ng-repeat="stat in stats" id="{{'stat' + $index}}">
             <div class="stat-rank stat-col">{{ $index + 1 }}.</div>
             <div class="stat-whatever stat-col">{{ stat.position }}</div>
             <div class="stat-whatever stat-col">{{ stat.name }}</div>
             <div class="stat-whatever stat-col">{{ stat.points }}</div>
             <div class="stat-whatever stat-col">{{ stat.games }}</div>
+            <div class="stat-whatever stat-col">
+                <div class="stat-graph-active {{ statGraphClass(stat.currentPointsPerTeam.teamNumber) }}"
+                     data-ng-style="{opacity: {{ stat.currentPointsPerTeam.points / 20 }}}"
+                     title="{{statGraphClass(stat.currentPointsPerTeam.teamNumber) + ': ' + stat.currentPointsPerTeam.points}}">
+                    &nbsp;&nbsp;
+                </div>
+            </div>
             <div class="stat-whatever stat-col stat-graph">
                 <div class="stat-graph-component {{ statGraphClass(pointsPerTeam.teamNumber) }}"
                      data-ng-style="statGraphStyle(pointsPerTeam)"

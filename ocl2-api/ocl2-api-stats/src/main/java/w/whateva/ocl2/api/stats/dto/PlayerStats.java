@@ -18,4 +18,5 @@ public class PlayerStats {
     private Integer points;
     private Double average;
     private List<PointsPerTeam> pointsPerTeam;
+    private PointsPerTeam currentPointsPerTeam;
 }
