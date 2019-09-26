@@ -6,10 +6,22 @@ app.controller('controller', function($scope, $http) {
     $scope.startSeason = 2006;
     $scope.endSeason = 2019;
     $scope.teamName = 'all';
-
-    $scope.search = function() {
-        $scope.search(null, $scope.year, $scope.month);
-    }
+    $scope.availPositions = [
+        'QB',
+        'RB',
+        'WR',
+        'TE',
+        'D/ST',
+        'K'
+    ];
+    $scope.positions = [
+        'QB',
+        'RB',
+        'WR',
+        'TE',
+        'D/ST',
+        'K'
+    ];
 
     $scope.points = function(teamNumbers) {
 
@@ -18,7 +30,7 @@ app.controller('controller', function($scope, $http) {
 
         var url = 'players/points';
 
-        $http.get(url, {params: {"teamNumbers" : teamNumbers, "startSeason" : $scope.startSeason, "endSeason" : $scope.endSeason}})
+        $http.get(url, {params: {"teamNumbers" : teamNumbers, "startSeason" : $scope.startSeason, "endSeason" : $scope.endSeason, "positions" : $scope.positions}})
             .then(function(response) {
                 $scope.maxPoints = response.data[0].points
                 $scope.stats = response.data;
@@ -62,6 +74,15 @@ app.controller('controller', function($scope, $http) {
 
     $scope.statGraphClass = function(teamNumber) {
         return teamStyle(teamNumber);
+    }
+
+    $scope.togglePosition = function(val) {
+        i = $scope.positions.indexOf(val);
+        if (i > -1) {
+            $scope.positions.splice(i, 1);
+        } else {
+            $scope.positions.push(val);
+        }
     }
 
     $scope.points();

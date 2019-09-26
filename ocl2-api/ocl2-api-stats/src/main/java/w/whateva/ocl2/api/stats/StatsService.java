@@ -49,6 +49,7 @@ public interface StatsService {
 
     @GetMapping(value = "/players/points")
     List<PlayerStats> playersByPoints(@RequestParam(value = "teamNumbers", required = false, defaultValue = DEFAULT_TEAMS) List<Integer> teamNumbers,
+                                      @RequestParam(value = "positions", required = false, defaultValue = DEFAULT_POSITIONS) List<String> positions,
                                       @RequestParam(value = "startSeason", required = false, defaultValue = DEFAULT_START_SEASON) Integer startSeason,
                                       @RequestParam(value = "startScoringPeriod", required = false, defaultValue = DEFAULT_START_SCORING_PERIOD) Integer startScoringPeriod,
                                       @RequestParam(value = "endSeason", required = false, defaultValue = DEFAULT_END_SEASON) Integer endSeason,

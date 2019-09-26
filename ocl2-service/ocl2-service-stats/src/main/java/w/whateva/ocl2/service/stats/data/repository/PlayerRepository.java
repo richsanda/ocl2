@@ -26,8 +26,17 @@ public interface PlayerRepository extends CrudRepository<Player, Long> {
     @Query("select p from Player p join p.weeks pw group by p.id order by sum(pw.points) desc")
     List<Player> findAllByPoints();
 
-    @Query("select p from Player p join p.weeks pw join pw.team t where t.teamNumber in :teamNumbers and t.gameNumber >= :startGame and t.gameNumber <= :endGame group by p.id, p.playerName order by sum(pw.points) desc")
-    List<Player> findAllByPointsForTeams(@Param("teamNumbers") List<Integer> teamNumber,
+    @Query("select p from Player p " +
+            "join p.weeks pw " +
+            "join pw.team t " +
+            "where t.teamNumber in :teamNumbers " +
+            "and pw.position in :positions " +
+            "and t.gameNumber >= :startGame and t.gameNumber <= :endGame " +
+            "group by p.id, p.playerName " +
+            "order by sum(pw.points) desc"
+    )
+    List<Player> findAllByPointsForTeams(@Param("teamNumbers") List<Integer> teamNumbers,
+                                         @Param("positions") List<String> positions,
                                          @Param("startGame") Integer startGame,
                                          @Param("endGame") Integer endGame);
 }

@@ -3,8 +3,8 @@
 <body>
 
 <script src="jquery-1.12.0.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-sanitize.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular-sanitize.min.js"></script>
 <script type="text/javascript" src="w.js"></script>
 <link rel="Stylesheet" type="text/css" href="w.css"/>
 
@@ -39,6 +39,12 @@
             </select>
 
             for {{ $scope.teamName }}
+
+            considering
+
+            <label data-ng-repeat="position in availPositions">
+                <input type="checkbox" data-checklist-model="positions" data-checklist-value="position" checked="checked" data-ng-click="togglePosition(position); points(teamNumbers)"> {{position}}
+            </label>
 
         </div>
     </div>

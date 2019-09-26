@@ -97,6 +97,7 @@ public class StatsServiceImpl implements StatsService {
 
     @Override
     public List<PlayerStats> playersByPoints(List<Integer> teamNumbers,
+                                             List<String> positions,
                                              Integer startSeason,
                                              Integer startScoringPeriod,
                                              Integer endSeason,
@@ -110,6 +111,7 @@ public class StatsServiceImpl implements StatsService {
         if (null != teamNumbers) {
             players = playerRepository.findAllByPointsForTeams(
                     teamNumbers,
+                    positions,
                     startGame,
                     endGame);
         } else {
