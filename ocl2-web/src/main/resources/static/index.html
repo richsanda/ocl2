@@ -58,8 +58,8 @@
             <div class="stat-whatever stat-col">{{ stat.games }}</div>
             <div class="stat-whatever stat-col">
                 <div class="stat-graph-active {{ statGraphClass(stat.currentPointsPerTeam.teamNumber) }}"
-                     data-ng-style="{opacity: {{ stat.currentPointsPerTeam.points / 20 }}}"
-                     title="{{statGraphClass(stat.currentPointsPerTeam.teamNumber) + ': ' + stat.currentPointsPerTeam.points}}">
+                     data-ng-style="{opacity: {{ (stat.currentPointsPerTeam.points + 10) / 40 }}}"
+                     title="{{stat.currentPointsPerTeam && statGraphClass(stat.currentPointsPerTeam.teamNumber) + ': ' + stat.currentPointsPerTeam.points || ''}}">
                     &nbsp;&nbsp;
                 </div>
             </div>
