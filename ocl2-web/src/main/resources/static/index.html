@@ -50,10 +50,12 @@
     </div>
 
     <div id="results" class="stat-table">
-        <div class="stat-row" data-ng-repeat="stat in stats" id="{{'stat' + $index}}">
+        <div class="stat-row"
+             data-ng-click="read($index, stat.playerNumber)"
+             data-ng-repeat="stat in stats" id="{{'stat' + $index}}">
             <div class="stat-rank stat-col">{{ $index + 1 }}.</div>
             <div class="stat-whatever stat-col">{{ stat.position }}</div>
-            <div class="stat-whatever stat-col" data-ng-click="read($index, stat.playerNumber)">{{ stat.name }}</div>
+            <div class="stat-whatever stat-col">{{ stat.name }}</div>
             <div class="stat-whatever stat-col">{{ stat.points }}</div>
             <div class="stat-whatever stat-col">{{ '' + stat.wins + '&#8209;' + stat.losses + (stat.ties > 0 ? '&#8209;' + stat.ties : '') }}</div>
             <div class="stat-whatever stat-col">
