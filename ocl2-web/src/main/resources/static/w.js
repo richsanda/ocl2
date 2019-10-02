@@ -53,8 +53,7 @@ app.controller('controller', function($scope, $http) {
         $http.get('player/' + playerNumber)
             .then(function(response) {
                 var answer = rangeOfScoringPeriodsWithPoints(2005, 2019, response.data.gameStats);
-                $scope.playerName = response.data.name
-                $scope.playerPosition = response.data.position
+                $scope.player = response.data
                 $scope.playerData = answer[0];
                 $scope.maxWeekPoints = answer[1];
             });
@@ -118,6 +117,18 @@ app.controller('controller', function($scope, $http) {
         return rangeOfYears();
     }
 
+    $scope.wltEmo = function(playerGame) {
+        switch (wlt(playerGame)) {
+            case 'w' : return ':)';
+            case 'l' : return ':(';
+            case 't' : return ':|';
+        }
+    }
+
+    $scope.wlt = function(playerGame) {
+        return wlt(playerGame).toUpperCase();
+    }
+
     $scope.points();
 });
 
@@ -158,15 +169,19 @@ function rangeOfScoringPeriodsWithPoints(start, end, playerWeeks) {
 
     var pwBySp = new Object();
     var max = 1;
+    var seasonMin = end;
+    var seasonMax = start;
 
     for (var i = 0; i < playerWeeks.length; i++) {
         var pw = playerWeeks[i];
         pwBySp[[pw.season, pw.scoringPeriod - 1]] = pw
         max = Math.max(max, pw.points)
+        seasonMin = Math.min(seasonMin, pw.season)
+        seasonMax = Math.max(seasonMax, pw.season)
     }
 
     result = [];
-    for (var s = start; s <= end; s++) {
+    for (var s = seasonMin; s <= seasonMax; s++) {
 
         var season = new Object();
         season.season = s;

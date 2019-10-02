@@ -77,14 +77,14 @@
 
     <div id="feature-background" data-ng-click="hideFeature()">
         <div id="feature" data-ng-click="$event.stopPropagation()">
-            <div class="player-header">{{ playerPosition && playerPosition + ' ' + playerName || '' }}</div>
+            <div class="player-header">{{ player && player.position + ' ' + player.name + ' (' + player.points + ', ' + player.wins + '&#8209;' + player.losses + (player.ties > 0 ? '&#8209;' + player.ties : '') + ')' || '' }}</div>
             <div class="grid">
-                <div data-ng-repeat="i in [].constructor(18) track by $index">{{ $index == 0 && '&nbsp;' || $index }}</div>
-                <div class="{{ statGraphClass(scoringPeriod.teamNumber) }}"
+                <div class="grid-item" data-ng-repeat="i in [].constructor(18) track by $index">{{ $index == 0 && '&nbsp;' || $index }}</div>
+                <div class="grid-item {{ statGraphClass(scoringPeriod.teamNumber) }}"
                      data-ng-style="{opacity: {{ !scoringPeriod.header && (scoringPeriod.points + 10) / 40 }}}"
                      data-ng-repeat="scoringPeriod in playerData"
                      title="{{scoringPeriod.teamNumber && playerGameStats(scoringPeriod) || 'dnp'}}">
-                    {{ scoringPeriod.header && scoringPeriod.season || '&nbsp;'}}
+                    {{ scoringPeriod.header && scoringPeriod.season || scoringPeriod.teamNumber && scoringPeriod.points + wlt(scoringPeriod) || '&nbsp;' }}
                 </div>
             </div>
         </div>

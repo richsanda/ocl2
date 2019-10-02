@@ -143,6 +143,12 @@ div.stat-graph-active {
     width: 90%;
 }
 
+.grid-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 div.player-header {
     font-size: 2em;
 }
