@@ -37,6 +37,23 @@ app.controller('controller', function($scope, $http) {
             });
     }
 
+    $scope.read = function(index, playerNumber) {
+
+        var previous = angular.element( document.querySelector('div.artifact-link-selected') );
+        previous.toggleClass('artifact-link-selected')
+        var current = angular.element( document.querySelector('#artifact' + index) );
+        current.toggleClass('artifact-link-selected');
+
+        showFeature();
+
+        $http.get('player/' + playerNumber)
+            .then(function(response) {
+                var answer = rangeOfScoringPeriodsWithPoints(2005, 2019, response.data.gameStats);
+                $scope.playerData = answer[0];
+                $scope.maxWeekPoints = answer[1];
+            });
+    }
+
     $scope.appearances = function() {
 
         var url = 'players/appearances';
@@ -85,6 +102,10 @@ app.controller('controller', function($scope, $http) {
         }
     }
 
+    $scope.playerWeeks = function(data) {
+        return rangeOfYears();
+    }
+
     $scope.points();
 });
 
@@ -94,6 +115,14 @@ function showFeature() {
 
 function hideFeature() {
   document.getElementById("feature-background").style.display = "none";
+}
+
+function rangeOfYears() {
+    var list = [];
+    for (var i = 2006; i <= 2019; i++) {
+        list.push(i);
+    }
+    return list;
 }
 
 function teamStyle(teamNumber) {
@@ -111,4 +140,37 @@ function teamStyle(teamNumber) {
         case 11: return 'bill';
         case 12: return 'dodge';
     }
+}
+
+function rangeOfScoringPeriodsWithPoints(start, end, playerWeeks) {
+
+    var pointsBySp = new Object();
+    var teamBySp = new Object();
+    var max = 1;
+
+    for (var i = 0; i < playerWeeks.length; i++) {
+        pw = playerWeeks[i];
+        pointsBySp[[pw.season, pw.scoringPeriod - 1]] = pw.points
+        teamBySp[[pw.season, pw.scoringPeriod - 1]] = pw.teamNumber
+        max = Math.max(max, pw.points)
+    }
+
+    result = [];
+    for (var s = start; s <= end; s++) {
+        var season = new Object();
+        season.season = s;
+        season.header = true;
+        result.push(season);
+        for (sp = 0; sp < 17; sp++) {
+            var scoringPeriod = new Object();
+            sp.season = s
+            scoringPeriod.scoringPeriod = sp
+            scoringPeriod.points = pointsBySp[[s, sp]];
+            scoringPeriod.teamNumber = teamBySp[[s, sp]];
+            if (!scoringPeriod.points) scoringPeriod.points = 0
+            result.push(scoringPeriod);
+        }
+    }
+
+    return [result, max];
 }

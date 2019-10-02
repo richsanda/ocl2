@@ -44,6 +44,9 @@ public interface StatsService {
             List<Integer> teams
     );
 
+    @GetMapping(value = "/player/{season}:{playerNumber}")
+    PlayerStats player(@PathVariable(value = "season") Integer season, @PathVariable(value = "playerNumber") Integer playerNumber);
+
     @GetMapping(value = "/players/appearances")
     List<PlayerStats> playersByAppearances(@RequestParam(value = "team", required = false) Integer team);
 

@@ -13,6 +13,12 @@ div.artifact-link:hover {
     cursor: pointer;
 }
 
+div.stat-row:hover {
+    border: 1px solid gray;
+    background-color: rgba(100,100,100,0.5);
+    cursor: pointer;
+}
+
 div.clickable {
     border: 1px solid gray;
     background-color: rgba(100,100,100,0.5);
@@ -88,6 +94,7 @@ div.ruggs, div.dodge {background-color: #8a9ac5;}
 
 div.stat-row {
 
+    border: 1px solid white;
     font-size: 1.2em;
     display: table-row;
 }
@@ -96,13 +103,13 @@ div.stat-col {
 
     display: table-cell;
     padding: 5px;
+    padding-right: 10px;
 }
 
 div.stat-table {
 
     display: table;
     border-collapse: separate;
-    border-spacing: 10px;
 }
 
 div.stat-whatever {
@@ -123,4 +130,14 @@ div.stat-graph-component {
 div.stat-graph-active {
 
     text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(18, 50px);
+    grid-auto-rows: 50px;
+    align: center;
+    text-align: center;
+    margin: 20px;
 }

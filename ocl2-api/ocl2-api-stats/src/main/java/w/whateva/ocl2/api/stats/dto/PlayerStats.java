@@ -11,12 +11,15 @@ import java.util.Map;
 @Setter
 public class PlayerStats {
 
-    private Integer rank;
+    private String playerNumber;
     private String position;
     private String name;
     private Integer games;
+    private Integer wins;
+    private Integer losses;
+    private Integer ties;
     private Integer points;
-    private Double average;
     private List<PointsPerTeam> pointsPerTeam;
     private PointsPerTeam currentPointsPerTeam;
+    private List<PlayerGameStats> gameStats;
 }

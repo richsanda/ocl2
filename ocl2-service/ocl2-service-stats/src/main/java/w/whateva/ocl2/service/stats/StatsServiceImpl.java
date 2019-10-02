@@ -10,6 +10,7 @@ import w.whateva.ocl2.api.stats.PointsPerTeam;
 import w.whateva.ocl2.api.stats.StatsConstants;
 import w.whateva.ocl2.api.stats.StatsService;
 import w.whateva.ocl2.api.stats.dto.GameSortType;
+import w.whateva.ocl2.api.stats.dto.PlayerGameStats;
 import w.whateva.ocl2.api.stats.dto.PlayerStats;
 import w.whateva.ocl2.api.stats.dto.TeamPositionStats;
 import w.whateva.ocl2.api.stats.dto.box.GameBoxScore;
@@ -79,6 +80,38 @@ public class StatsServiceImpl implements StatsService {
     }
 
     @Override
+    public PlayerStats player(Integer season, Integer playerNumber) {
+
+        Player player = season >= 2019 ?
+                playerRepository.findByPlayerNumber(playerNumber) :
+                playerRepository.findByPre2018PlayerNumber(playerNumber);
+
+        if (null == player) return null;
+
+        PlayerStats result = new PlayerStats();
+        result.setPlayerNumber(playerNumber(player));
+        result.setGames(player.getWeeks().size());
+        result.setWins(Math.toIntExact(player.getWeeks().stream().filter(w -> w.getTeam().isWin()).count()));
+        result.setLosses(Math.toIntExact(player.getWeeks().stream().filter(w -> w.getTeam().isLoss()).count()));
+        result.setTies(Math.toIntExact(player.getWeeks().stream().filter(w -> w.getTeam().isTie()).count()));
+        result.setPoints(player.getWeeks().stream().mapToInt(PlayerWeek::getPoints).sum());
+        result.setName(player.getPlayerName());
+        result.setPosition(player.getWeeks().stream().findAny().get().getPosition());
+        result.setGameStats(player.getWeeks().stream().map(w -> {
+            PlayerGameStats s = new PlayerGameStats();
+            s.setOpponent(w.getOpponent());
+            s.setPlayerTeam(w.getPlayerTeam());
+            s.setPoints(w.getPoints());
+            s.setScoringPeriod(w.getTeam().getGame().getScoringPeriod());
+            s.setSeason(w.getTeam().getGame().getSeason());
+            s.setTeamNumber(w.getTeam().getTeamNumber());
+            return s;
+        }).collect(Collectors.toList()));
+
+        return result;
+    }
+
+    @Override
     public List<PlayerStats> playersByAppearances(Integer team) {
 
         List<Player> players = playerRepository.findAllByAppearances();
@@ -89,7 +122,6 @@ public class StatsServiceImpl implements StatsService {
                     PlayerStats result = new PlayerStats();
                     result.setName(p.getPlayerName());
                     result.setGames(p.getWeeks().size());
-                    // result.setRank(i);
                     return result;
                 })
                 .limit(StatsConstants.RESULT_SIZE)
@@ -136,8 +168,12 @@ public class StatsServiceImpl implements StatsService {
                             p.getWeeks();
 
                     PlayerStats result = new PlayerStats();
+                    result.setPlayerNumber(playerNumber(p));
                     result.setName(p.getPlayerName());
                     result.setGames(weeks.size());
+                    result.setWins(Math.toIntExact(weeks.stream().filter(w -> w.getTeam().isWin()).count()));
+                    result.setLosses(Math.toIntExact(weeks.stream().filter(w -> w.getTeam().isLoss()).count()));
+                    result.setTies(Math.toIntExact(weeks.stream().filter(w -> w.getTeam().isTie()).count()));
                     result.setPosition(weeks.stream().findAny().get().getPosition());
                     result.setPoints(weeks.stream().mapToInt(PlayerWeek::getPoints).sum());
                     result.setPointsPerTeam(pointsPerTeam(weeks));
@@ -207,8 +243,10 @@ public class StatsServiceImpl implements StatsService {
 
             if (game.getHomePoints() > game.getAwayPoints()) {
                 home.setWin(true);
+                away.setLoss(true);
             } else if (game.getHomePoints() < game.getAwayPoints()) {
                 away.setWin(true);
+                home.setLoss(true);
             } else {
                 home.setTie(true);
                 away.setTie(true);
@@ -399,5 +437,9 @@ public class StatsServiceImpl implements StatsService {
             return result;
         })
                 .collect(Collectors.toList());
+    }
+
+    private static String playerNumber(Player player) {
+        return null != player.getPlayerNumber() ? "2019:" + player.getPlayerNumber() : "2018:" + player.getPre2018PlayerNumber();
     }
 }

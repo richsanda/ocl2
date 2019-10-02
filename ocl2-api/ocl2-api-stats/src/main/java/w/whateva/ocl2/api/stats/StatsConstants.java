@@ -14,5 +14,5 @@ public class StatsConstants {
 
     public static final Integer RESULT_SIZE = 50;
     public static final Integer CURRENT_SEASON = 2019;
-    public static final Integer CURRENT_SCORING_PERIOD = 3;
+    public static final Integer CURRENT_SCORING_PERIOD = 4;
 }
