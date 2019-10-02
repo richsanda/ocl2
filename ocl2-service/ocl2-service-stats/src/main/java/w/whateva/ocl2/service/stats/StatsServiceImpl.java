@@ -90,6 +90,7 @@ public class StatsServiceImpl implements StatsService {
 
         PlayerStats result = new PlayerStats();
         result.setPlayerNumber(playerNumber(player));
+        result.setName(player.getPlayerName());
         result.setGames(player.getWeeks().size());
         result.setWins(Math.toIntExact(player.getWeeks().stream().filter(w -> w.getTeam().isWin()).count()));
         result.setLosses(Math.toIntExact(player.getWeeks().stream().filter(w -> w.getTeam().isLoss()).count()));
@@ -105,6 +106,9 @@ public class StatsServiceImpl implements StatsService {
             s.setScoringPeriod(w.getTeam().getGame().getScoringPeriod());
             s.setSeason(w.getTeam().getGame().getSeason());
             s.setTeamNumber(w.getTeam().getTeamNumber());
+            s.setTeamPoints(w.getTeam().getPoints());
+            s.setOpponentPoints(w.getTeam().getOpponent().getPoints());
+            s.setOpponentTeamNumber(w.getTeam().getOpponent().getTeamNumber());
             return s;
         }).collect(Collectors.toList()));
 
@@ -408,7 +412,11 @@ public class StatsServiceImpl implements StatsService {
 
     private static String index(String playerName) {
 
-        return playerName.toLowerCase().replaceAll("\\s+", " ").trim();
+        return playerName
+                .toLowerCase()
+                .replaceAll("[^(A-Z|a-z|\\s+)]+", "")
+                .replaceAll("\\s+", " ")
+                .trim();
     }
 
     private static int gameNumber(Integer season, Integer scoringPeriod) {

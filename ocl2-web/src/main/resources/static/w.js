@@ -44,11 +44,17 @@ app.controller('controller', function($scope, $http) {
         var current = angular.element( document.querySelector('#artifact' + index) );
         current.toggleClass('artifact-link-selected');
 
+        $scope.playerName = null;
+        $scope.playerPosition = null;
+        $scope.playerData = [];
+
         showFeature();
 
         $http.get('player/' + playerNumber)
             .then(function(response) {
                 var answer = rangeOfScoringPeriodsWithPoints(2005, 2019, response.data.gameStats);
+                $scope.playerName = response.data.name
+                $scope.playerPosition = response.data.position
                 $scope.playerData = answer[0];
                 $scope.maxWeekPoints = answer[1];
             });
@@ -89,8 +95,14 @@ app.controller('controller', function($scope, $http) {
         return result;
     }
 
-    $scope.statGraphClass = function(teamNumber) {
-        return teamStyle(teamNumber);
+    $scope.statGraphClass = function(teamNumber, season) {
+        return teamStyle(teamNumber, season);
+    }
+
+    $scope.playerGameStats = function(playerGame) {
+        return $scope.statGraphClass(playerGame.teamNumber, playerGame.season) +
+        ': ' + playerGame.points +
+        ' (' + wlt(playerGame) + ' ' + vs(playerGame) + ', ' + playerGame.teamPoints + '-' + playerGame.opponentPoints + ')';
     }
 
     $scope.togglePosition = function(val) {
@@ -125,52 +137,72 @@ function rangeOfYears() {
     return list;
 }
 
-function teamStyle(teamNumber) {
+function teamStyle(teamNumber, season) {
     switch(teamNumber) {
         case 1: return 'trav';
         case 2: return 'nick';
         case 3: return 'grum';
         case 4: return 'justin';
-        case 5: return 'baird';
+        case 5: return season < 2016 ? "rux" : 'baird';
         case 6: return 'rich';
         case 7: return 'greg';
         case 8: return 'spoth';
-        case 9: return 'paul';
+        case 9: return season < 2016 ? "mbug" : "paul";
         case 10: return 'argo';
         case 11: return 'bill';
-        case 12: return 'dodge';
+        case 12: return season < 2015 ? "ruggs" : "dodge";
     }
 }
 
 function rangeOfScoringPeriodsWithPoints(start, end, playerWeeks) {
 
-    var pointsBySp = new Object();
-    var teamBySp = new Object();
+    var pwBySp = new Object();
     var max = 1;
 
     for (var i = 0; i < playerWeeks.length; i++) {
-        pw = playerWeeks[i];
-        pointsBySp[[pw.season, pw.scoringPeriod - 1]] = pw.points
-        teamBySp[[pw.season, pw.scoringPeriod - 1]] = pw.teamNumber
+        var pw = playerWeeks[i];
+        pwBySp[[pw.season, pw.scoringPeriod - 1]] = pw
         max = Math.max(max, pw.points)
     }
 
     result = [];
     for (var s = start; s <= end; s++) {
+
         var season = new Object();
         season.season = s;
         season.header = true;
         result.push(season);
+
         for (sp = 0; sp < 17; sp++) {
+
             var scoringPeriod = new Object();
             sp.season = s
             scoringPeriod.scoringPeriod = sp
-            scoringPeriod.points = pointsBySp[[s, sp]];
-            scoringPeriod.teamNumber = teamBySp[[s, sp]];
-            if (!scoringPeriod.points) scoringPeriod.points = 0
+
+            if (pwBySp[[s, sp]]) {
+                var pw = pwBySp[[s, sp]];
+                scoringPeriod.points = pw.points;
+                scoringPeriod.teamNumber = pw.teamNumber;
+                scoringPeriod.teamPoints = pw.teamPoints;
+                scoringPeriod.opponentPoints = pw.opponentPoints;
+                scoringPeriod.opponentTeamNumber = pw.opponentTeamNumber;
+                scoringPeriod.season = s;
+            } else {
+                scoringPeriod.points = 0
+            }
+
             result.push(scoringPeriod);
         }
     }
 
     return [result, max];
+}
+
+function wlt(playerGame) {
+    return playerGame.teamPoints > playerGame.opponentPoints ? 'w' :
+    playerGame.opponentPoints > playerGame.teamPoints ? 'l' : 't';
+}
+
+function vs(playerGame) {
+    return 'v ' + teamStyle(playerGame.opponentTeamNumber, playerGame.season);
 }

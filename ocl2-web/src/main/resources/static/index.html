@@ -33,10 +33,10 @@
     <div>
         <div class="criteria" data-ng-init="$scope.teamName = 'all'">
             between <select data-ng-model="startSeason" data-ng-options="s for s in seasons" data-ng-change="points(teamNumbers)">
-            </select>
+        </select>
 
             and <select data-ng-model="endSeason" data-ng-options="s for s in seasons" data-ng-change="points(teamNumbers)">
-            </select>
+        </select>
 
             for {{ $scope.teamName }}
 
@@ -61,7 +61,7 @@
             <div class="stat-whatever stat-col">
                 <div class="stat-graph-active {{ statGraphClass(stat.currentPointsPerTeam.teamNumber) }}"
                      data-ng-style="{opacity: {{ (stat.currentPointsPerTeam.points + 10) / 40 }}}"
-                     title="{{stat.currentPointsPerTeam && statGraphClass(stat.currentPointsPerTeam.teamNumber) + ': ' + stat.currentPointsPerTeam.points || ''}}">
+                     title="{{stat.currentPointsPerTeam && statGraphClass(stat.currentPointsPerTeam.teamNumber, stat.currentPointsPerTeam.season) + ': ' + stat.currentPointsPerTeam.points || ''}}">
                     &nbsp;&nbsp;
                 </div>
             </div>
@@ -76,13 +76,16 @@
     </div>
 
     <div id="feature-background" data-ng-click="hideFeature()">
-        <div class="grid" id="feature" data-ng-click="$event.stopPropagation()">
-            <div data-ng-repeat="i in [].constructor(18) track by $index">{{ $index == 0 && '&nbsp;' || $index }}</div>
-            <div class="{{ statGraphClass(scoringPeriod.teamNumber) }}"
-                 data-ng-style="{opacity: {{ !scoringPeriod.header && (scoringPeriod.points + 10) / 40 }}}"
-                 data-ng-repeat="scoringPeriod in playerData"
-                 title="{{scoringPeriod.teamNumber && statGraphClass(scoringPeriod.teamNumber) + ': ' + scoringPeriod.points || 'dnp'}}">
-                {{ scoringPeriod.header && scoringPeriod.season || '&nbsp;'}}
+        <div id="feature" data-ng-click="$event.stopPropagation()">
+            <div class="player-header">{{ playerPosition && playerPosition + ' ' + playerName || '' }}</div>
+            <div class="grid">
+                <div data-ng-repeat="i in [].constructor(18) track by $index">{{ $index == 0 && '&nbsp;' || $index }}</div>
+                <div class="{{ statGraphClass(scoringPeriod.teamNumber) }}"
+                     data-ng-style="{opacity: {{ !scoringPeriod.header && (scoringPeriod.points + 10) / 40 }}}"
+                     data-ng-repeat="scoringPeriod in playerData"
+                     title="{{scoringPeriod.teamNumber && playerGameStats(scoringPeriod) || 'dnp'}}">
+                    {{ scoringPeriod.header && scoringPeriod.season || '&nbsp;'}}
+                </div>
             </div>
         </div>
     </div>
