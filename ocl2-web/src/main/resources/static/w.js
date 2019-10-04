@@ -59,6 +59,16 @@ app.controller('controller', function($scope, $http) {
             });
     }
 
+    $scope.readGame = function(season, scoringPeriod, teamNumber) {
+
+        showGame();
+
+        $http.get('game/' + season + '/' + scoringPeriod + '/' + teamNumber)
+            .then(function(response) {
+                $scope.game = response.data
+            });
+    }
+
     $scope.appearances = function() {
 
         var url = 'players/appearances';
@@ -79,13 +89,13 @@ app.controller('controller', function($scope, $http) {
         hideFeature();
     }
 
-    $scope.preify = function(text) {
-        if (!text) return "<div>&nbsp;</div>";
-        return "<div>&nbsp;</div><div>" + text + "</div>";
+    $scope.hideGame = function() {
+       $scope.game = ''
+       hideGame();
     }
 
-    $scope.pretty = function(entry) {
-        return entry.name + ", " + entry.position + " " + entry.points + " / " + entry.games;
+    $scope.sortByPosition = function(players) {
+        return sortByPosition(players);
     }
 
     $scope.statGraphStyle = function(pointsPerTeam) {
@@ -138,6 +148,14 @@ function showFeature() {
 
 function hideFeature() {
   document.getElementById("feature-background").style.display = "none";
+}
+
+function showGame() {
+  document.getElementById("game-background").style.display = "block";
+}
+
+function hideGame() {
+  document.getElementById("game-background").style.display = "none";
 }
 
 function rangeOfYears() {
@@ -220,4 +238,36 @@ function wlt(playerGame) {
 
 function vs(playerGame) {
     return 'v ' + teamStyle(playerGame.opponentTeamNumber, playerGame.season);
+}
+
+function sortByPosition(players) {
+
+    if (!players) return [];
+
+    var positions = ["QB", "RB", "RB/WR", "WR", "WR/TE", "TE", "D/ST", "K"];
+    var playersByPosition = new Object();
+    for (var i = 0; i < positions.length; i++) {
+        playersByPosition[positions[i]] = [];
+    }
+
+    for (var i = 0; i < players.length; i++) {
+        var player = players[i];
+        var pos = player.position;
+        if ($.inArray(pos, positions) != -1) {
+            playersByPosition[pos].push(player);
+        } else {
+            // pass
+        }
+    }
+
+    result = [];
+    for (var i = 0; i < positions.length; i++) {
+        var pos = positions[i];
+        for (var j = 0; j < playersByPosition[pos].length; j++) {
+            var player = playersByPosition[pos][j];
+            result.push(player);
+        }
+    }
+
+    return result;
 }

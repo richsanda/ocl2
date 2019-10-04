@@ -377,7 +377,7 @@ public class StatsServiceImpl implements StatsService {
         result.setAway(teamBoxScore(game.getAway()));
         result.setHome(teamBoxScore(game.getHome()));
         result.setSeason(game.getSeason());
-        result.setScoringPeriod(result.getScoringPeriod());
+        result.setScoringPeriod(game.getScoringPeriod());
         return result;
     }
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-    <title>Welcome to the OCL !!</title>
+    <title>This is the OCL, yahdude !!</title>
 </head>
 <body>
 
@@ -83,11 +83,52 @@
             <div class="player-header">{{ player && player.position + ' ' + player.name + ' (' + player.points + ', ' + player.wins + '&#8209;' + player.losses + (player.ties > 0 ? '&#8209;' + player.ties : '') + ')' || '' }}</div>
             <div class="grid">
                 <div class="grid-item" data-ng-repeat="i in [].constructor(18) track by $index">{{ $index == 0 && '&nbsp;' || $index }}</div>
-                <div class="grid-item {{ statGraphClass(scoringPeriod.teamNumber) }}"
+                <div class="grid-item {{ statGraphClass(scoringPeriod.teamNumber) }} {{ scoringPeriod.teamNumber && 'game-summary' || '' }}"
                      data-ng-style="{opacity: {{ !scoringPeriod.header && (scoringPeriod.points + 10) / 40 }}}"
                      data-ng-repeat="scoringPeriod in playerData"
+                     data-ng-click="readGame(scoringPeriod.season, scoringPeriod.scoringPeriod + 1, scoringPeriod.teamNumber)"
                      title="{{scoringPeriod.teamNumber && playerGameStats(scoringPeriod) || 'dnp'}}">
                     {{ scoringPeriod.header && scoringPeriod.season || scoringPeriod.teamNumber && scoringPeriod.points + wlt(scoringPeriod) || '&nbsp;' }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="game-background" data-ng-click="hideGame()">
+        <div id="game" data-ng-click="$event.stopPropagation()">
+            <div class="game-header">{{ game.season + ', week ' + (game.scoringPeriod + 1) }}</div>
+            <div class="game-table game-home game-team {{ statGraphClass(game.home.teamNumber) }}">
+                <div class="game-row game-row-title">
+                    <div class="game-col"></div>
+                    <div class="game-col">{{ statGraphClass(game.home.teamNumber, game.season) }}</div>
+                    <div class="game-col"></div>
+                </div>
+                <div class="game-row" data-ng-repeat="player in sortByPosition(game.home.players)">
+                    <div class="game-col">{{ player.position }}</div>
+                    <div class="game-col">{{ player.playerName }}</div>
+                    <div class="game-col game-col-points">{{ player.points }}</div>
+                </div>
+                <div class="game-row">
+                    <div class="game-col">&nbsp;</div>
+                    <div class="game-col">&nbsp;</div>
+                    <div class="game-col game-col-points">{{ game.home.points }}</div>
+                </div>
+            </div>
+            <div class="game-table game-away game-team {{ statGraphClass(game.away.teamNumber) }}">
+                <div class="game-row game-row-title">
+                    <div class="game-col"></div>
+                    <div class="game-col">{{ statGraphClass(game.away.teamNumber, game.season) }}</div>
+                    <div class="game-col"></div>
+                </div>
+                <div class="game-row" data-ng-repeat="player in sortByPosition(game.away.players)">
+                    <div class="game-col">{{ player.position }}</div>
+                    <div class="game-col">{{ player.playerName }}</div>
+                    <div class="game-col game-col-points">{{ player.points }}</div>
+                </div>
+                <div class="game-row">
+                    <div class="game-col">&nbsp;</div>
+                    <div class="game-col">&nbsp;</div>
+                    <div class="game-col game-col-points">{{ game.away.points }}</div>
                 </div>
             </div>
         </div>
