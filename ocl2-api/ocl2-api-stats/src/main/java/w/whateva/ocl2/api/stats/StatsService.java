@@ -32,7 +32,7 @@ public interface StatsService {
             @RequestParam(required = false, defaultValue = DEFAULT_TRUE) Boolean wins,
             @RequestParam(required = false, defaultValue = DEFAULT_TRUE) Boolean losses,
             @RequestParam(required = false, defaultValue = DEFAULT_TRUE) Boolean ties,
-            @RequestParam(required = false) Integer ruxbeeLimit,
+            @RequestParam(value = "ruxbeeLimit", required = false) Integer ruxbeeLimit,
             @RequestParam(required = false) Integer bugtonLimit,
             @RequestParam(required = false) GameSortType sortType
     );

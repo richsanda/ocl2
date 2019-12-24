@@ -8,6 +8,7 @@ import lombok.Setter;
 public class PlayerBoxScore {
 
     private Integer playerId;
+    private String playerNumber;
     private String playerName;
     private String playerTeam;
     private String position;

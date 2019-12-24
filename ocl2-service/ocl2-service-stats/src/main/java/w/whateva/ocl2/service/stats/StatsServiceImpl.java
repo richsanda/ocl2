@@ -185,9 +185,9 @@ public class StatsServiceImpl implements StatsService {
                             pointsPerTeam(weeks
                                     .stream()
                                     .filter(w ->
-                                            w.getTeam().getGame().getGameNumber() ==
-                                                    gameNumber(StatsConstants.CURRENT_SEASON, StatsConstants.CURRENT_SCORING_PERIOD))
-                                    .limit(1)
+                                            w.getTeam().getGame().getGameNumber() >=
+                                                    gameNumber(StatsConstants.CURRENT_SEASON, 1))
+                                    // .limit(1)
                                     .collect(Collectors.toList()))
                                     .stream()
                                     .findFirst()
@@ -402,7 +402,7 @@ public class StatsServiceImpl implements StatsService {
         result.setLink(playerWeek.getLink());
         result.setPlayerName(playerWeek.getPlayerName());
         result.setGameStatus(playerWeek.getGameStatus());
-        result.setPlayerId(playerWeek.getPlayerNumber());
+        result.setPlayerNumber(playerNumber(playerWeek.getPlayer()));
         result.setPoints(playerWeek.getPoints());
         result.setPosition(playerWeek.getPosition());
         result.setPlayerTeam(playerWeek.getPlayerTeam());

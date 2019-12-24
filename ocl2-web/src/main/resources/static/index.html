@@ -46,7 +46,7 @@
             considering
 
             <label data-ng-repeat="position in availPositions">
-                <input type="checkbox" data-checklist-model="positions" data-checklist-value="position" checked="checked" data-ng-click="togglePosition(position); points(teamNumbers)"> {{position}}
+                <input type="checkbox" data-checklist-model="positions" data-checklist-value="position" data-ng-click="togglePosition(position); points(teamNumbers)"> {{position}}
             </label>
 
         </div>
@@ -63,7 +63,7 @@
             <div class="stat-whatever stat-col">{{ '' + stat.wins + '&#8209;' + stat.losses + (stat.ties > 0 ? '&#8209;' + stat.ties : '') }}</div>
             <div class="stat-whatever stat-col">
                 <div class="stat-graph-active {{ statGraphClass(stat.currentPointsPerTeam.teamNumber) }}"
-                     data-ng-style="{opacity: {{ (stat.currentPointsPerTeam.points + 10) / 40 }}}"
+                     data-ng-style="{opacity: {{ (stat.currentPointsPerTeam.points + 30) / 300 }}}"
                      title="{{stat.currentPointsPerTeam && statGraphClass(stat.currentPointsPerTeam.teamNumber, stat.currentPointsPerTeam.season) + ': ' + stat.currentPointsPerTeam.points || ''}}">
                     &nbsp;&nbsp;
                 </div>
@@ -96,7 +96,7 @@
 
     <div id="game-background" data-ng-click="hideGame()">
         <div id="game" data-ng-click="$event.stopPropagation()">
-            <div class="game-header">{{ game.season + ', week ' + (game.scoringPeriod + 1) }}</div>
+            <div class="game-header">{{ game.season + ', week ' + (game.scoringPeriod + 0) }}</div>
             <div class="game-table game-home game-team {{ statGraphClass(game.home.teamNumber) }}">
                 <div class="game-row game-row-title">
                     <div class="game-col"></div>
@@ -105,7 +105,10 @@
                 </div>
                 <div class="game-row" data-ng-repeat="player in sortByPosition(game.home.players)">
                     <div class="game-col">{{ player.position }}</div>
-                    <div class="game-col">{{ player.playerName }}</div>
+                    <div class="game-col game-col-player"
+                         data-ng-click="hideGame(); hideFeature(); read($index, player.playerNumber)">
+                        {{ player.playerName }}
+                    </div>
                     <div class="game-col game-col-points">{{ player.points }}</div>
                 </div>
                 <div class="game-row">
@@ -122,7 +125,10 @@
                 </div>
                 <div class="game-row" data-ng-repeat="player in sortByPosition(game.away.players)">
                     <div class="game-col">{{ player.position }}</div>
-                    <div class="game-col">{{ player.playerName }}</div>
+                    <div class="game-col game-col-player"
+                         data-ng-click="hideGame(); hideFeature(); read($index, player.playerNumber)">
+                        {{ player.playerName }}
+                    </div>
                     <div class="game-col game-col-points">{{ player.points }}</div>
                 </div>
                 <div class="game-row">

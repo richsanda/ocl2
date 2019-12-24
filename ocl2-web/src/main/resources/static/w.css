@@ -188,10 +188,6 @@ div.game-team {
     padding: 20px;
 }
 
-div.game-player-col {
-    display: inline-block;
-}
-
 div.game-row {
 
     border: 1px solid white;
@@ -226,6 +222,12 @@ div.game-table {
 div.game-summary:hover {
 
     border: 1px solid gray;
+    background-color: rgba(100,100,100,0.5);
+    cursor: pointer;
+}
+
+div.game-col-player:hover {
+
     background-color: rgba(100,100,100,0.5);
     cursor: pointer;
 }
