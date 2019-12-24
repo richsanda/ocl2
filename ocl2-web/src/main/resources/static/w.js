@@ -14,14 +14,14 @@ app.controller('controller', function($scope, $http) {
         'D/ST',
         'K'
     ];
-    $scope.positions = [
-        'QB',
-        'RB',
-        'WR',
-        'TE',
-        'D/ST',
-        'K'
-    ];
+    $scope.positions = [];
+//        'QB',
+//        'RB',
+//        'WR',
+//        'TE',
+//        'D/ST',
+//        'K'
+//    ];
 
     $scope.points = function(teamNumbers) {
 
