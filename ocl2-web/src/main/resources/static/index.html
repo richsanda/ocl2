@@ -63,7 +63,7 @@
             <div class="stat-whatever stat-col">{{ '' + stat.wins + '&#8209;' + stat.losses + (stat.ties > 0 ? '&#8209;' + stat.ties : '') }}</div>
             <div class="stat-whatever stat-col">
                 <div class="stat-graph-active {{ statGraphClass(stat.currentPointsPerTeam.teamNumber) }}"
-                     data-ng-style="{opacity: {{ (stat.currentPointsPerTeam.points + 30) / 300 }}}"
+                     data-ng-style="{opacity: {{ (stat.currentPointsPerTeam.points + 10) / 45 }}}"
                      title="{{stat.currentPointsPerTeam && statGraphClass(stat.currentPointsPerTeam.teamNumber, stat.currentPointsPerTeam.season) + ': ' + stat.currentPointsPerTeam.points || ''}}">
                     &nbsp;&nbsp;
                 </div>

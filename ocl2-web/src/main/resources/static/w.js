@@ -2,9 +2,9 @@ var app = angular.module('app', ['ngSanitize']);
 
 app.controller('controller', function($scope, $http) {
 
-    $scope.seasons = [2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019];
+    $scope.seasons = [2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020];
     $scope.startSeason = 2006;
-    $scope.endSeason = 2019;
+    $scope.endSeason = 2020;
     $scope.teamName = 'all';
     $scope.availPositions = [
         'QB',
@@ -52,7 +52,7 @@ app.controller('controller', function($scope, $http) {
 
         $http.get('player/' + playerNumber)
             .then(function(response) {
-                var answer = rangeOfScoringPeriodsWithPoints(2005, 2019, response.data.gameStats);
+                var answer = rangeOfScoringPeriodsWithPoints(2005, 2020, response.data.gameStats);
                 $scope.player = response.data
                 $scope.playerData = answer[0];
                 $scope.maxWeekPoints = answer[1];
@@ -160,7 +160,7 @@ function hideGame() {
 
 function rangeOfYears() {
     var list = [];
-    for (var i = 2006; i <= 2019; i++) {
+    for (var i = 2006; i <= 2020; i++) {
         list.push(i);
     }
     return list;

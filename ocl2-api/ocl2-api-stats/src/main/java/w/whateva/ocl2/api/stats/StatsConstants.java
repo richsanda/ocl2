@@ -13,6 +13,6 @@ public class StatsConstants {
     static final String DEFAULT_FALSE = "false";
 
     public static final Integer RESULT_SIZE = 50;
-    public static final Integer CURRENT_SEASON = 2019;
+    public static final Integer CURRENT_SEASON = 2020;
     public static final Integer CURRENT_SCORING_PERIOD = 16;
 }

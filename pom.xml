@@ -11,13 +11,12 @@
     <name>ocl2</name>
 
     <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <java.version>11</java.version>
         <maven.processor.version>3.3.2</maven.processor.version>
         <utilities.version>1.0-SNAPSHOT</utilities.version>
-        <spring.boot.version>2.0.6.RELEASE</spring.boot.version>
-        <spring.oxm.version>5.0.10.RELEASE</spring.oxm.version>
-        <spring.orm.version>5.0.10.RELEASE</spring.orm.version>
+        <spring.boot.version>2.2.6.RELEASE</spring.boot.version>
+        <spring.oxm.version>5.1.2.RELEASE</spring.oxm.version>
+        <spring.orm.version>5.1.2.RELEASE</spring.orm.version>
         <h2.version>1.4.199</h2.version>
         <hibernate.version>5.1.0.Final</hibernate.version>
         <hibernate-jpa-2.1-api.version>1.0.0.Final</hibernate-jpa-2.1-api.version>

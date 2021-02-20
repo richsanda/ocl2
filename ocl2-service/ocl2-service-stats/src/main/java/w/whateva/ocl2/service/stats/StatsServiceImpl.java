@@ -1,11 +1,10 @@
 package w.whateva.ocl2.service.stats;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.Primary;
-import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.CollectionUtils;
 import org.springframework.util.StringUtils;
+import org.springframework.web.bind.annotation.RestController;
 import w.whateva.ocl2.api.stats.PointsPerTeam;
 import w.whateva.ocl2.api.stats.StatsConstants;
 import w.whateva.ocl2.api.stats.StatsService;
@@ -26,8 +25,10 @@ import javax.persistence.EntityManager;
 import java.util.*;
 import java.util.stream.Collectors;
 
-@Service
-@Primary
+import static w.whateva.ocl2.api.stats.StatsConstants.CURRENT_SCORING_PERIOD;
+import static w.whateva.ocl2.api.stats.StatsConstants.CURRENT_SEASON;
+
+@RestController
 public class StatsServiceImpl implements StatsService {
 
     @Autowired
@@ -63,7 +64,7 @@ public class StatsServiceImpl implements StatsService {
     }
 
     @Override
-    public List<GameBoxScore> games(Integer startWeek, Integer startSeason, Integer endWeek, Integer endSeason, List<Integer> teams, Boolean wins, Boolean losses, Boolean ties, Integer ruxbeeLimit, Integer bugtonLimit, GameSortType sortType) {
+    public List<GameBoxScore> games(Integer startWeek, Integer startSeason, Integer endWeek, Integer endSeason, ArrayList<Integer> teams, Boolean wins, Boolean losses, Boolean ties, Integer ruxbeeLimit, Integer bugtonLimit, GameSortType sortType) {
         return gameRepository.findGames(gameNumber(startSeason, startWeek),
                 gameNumber(endSeason, endWeek),
                 teams,
@@ -133,8 +134,8 @@ public class StatsServiceImpl implements StatsService {
     }
 
     @Override
-    public List<PlayerStats> playersByPoints(List<Integer> teamNumbers,
-                                             List<String> positions,
+    public List<PlayerStats> playersByPoints(ArrayList<Integer> teamNumbers,
+                                             ArrayList<String> positions,
                                              Integer startSeason,
                                              Integer startScoringPeriod,
                                              Integer endSeason,
@@ -185,8 +186,8 @@ public class StatsServiceImpl implements StatsService {
                             pointsPerTeam(weeks
                                     .stream()
                                     .filter(w ->
-                                            w.getTeam().getGame().getGameNumber() >=
-                                                    gameNumber(StatsConstants.CURRENT_SEASON, 1))
+                                            w.getTeam().getGame().getGameNumber() ==
+                                                    gameNumber(CURRENT_SEASON, CURRENT_SCORING_PERIOD))
                                     // .limit(1)
                                     .collect(Collectors.toList()))
                                     .stream()
@@ -448,6 +449,38 @@ public class StatsServiceImpl implements StatsService {
     }
 
     private static String playerNumber(Player player) {
-        return null != player.getPlayerNumber() ? "2019:" + player.getPlayerNumber() : "2018:" + player.getPre2018PlayerNumber();
+        return null == player ? null : null != player.getPlayerNumber() ? "2019:" + player.getPlayerNumber() : "2018:" + player.getPre2018PlayerNumber();
+    }
+
+
+
+
+
+    @Override
+    public List<String> gamesText(Integer startWeek, Integer startSeason, Integer endWeek, Integer endSeason, ArrayList<Integer> teams, Boolean wins, Boolean losses, Boolean ties, Integer ruxbeeLimit, Integer bugtonLimit, GameSortType sortType) {
+        return gameRepository.findGames(gameNumber(startSeason, startWeek),
+                gameNumber(endSeason, endWeek),
+                teams,
+                wins,
+                losses,
+                ties,
+                ruxbeeLimit,
+                bugtonLimit)
+                .stream()
+                .map(StatsServiceImpl::toApi)
+                .map(StatsServiceImpl::toText)
+                .collect(Collectors.toUnmodifiableList());
+    }
+
+    private static String toText(GameBoxScore gameBoxScore) {
+        StringBuilder sb = new StringBuilder();
+        sb.append(gameBoxScore.getHome());
+        return sb.toString();
+    }
+
+    public List<String> playerWeeks() {
+        return playerWeekRepository.findPlayerWeeks().stream().map(p ->
+                "" + p.getPlayerName() + "|" + p.getPoints() + "|" + p.getTeam().getGame().getScoringPeriod() + "|" + p.getTeam().getGame().getSeason()
+        ).collect(Collectors.toUnmodifiableList());
     }
 }

@@ -32,7 +32,7 @@ public interface GameRepository extends CrudRepository<Game, Long> {
                     "(w.tie = true AND :ties = true)) " +
                     "AND ((:ruxbeeLimit IS NULL) OR (:ruxbeeLimit <= w.lowest)) " +
                     "AND ((:bugtonLimit IS NULL) OR (:bugtonLimit >= w.highest)) " +
-                    "GROUP BY g.id " +
+                    "GROUP BY g.id, g.awayPoints " +
                     "ORDER BY max(w.points) DESC"
     )
     List<Game> findGames(@Param("startGameNumber") Integer startGameNumber,

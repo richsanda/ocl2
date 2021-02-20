@@ -34,7 +34,7 @@
                 </configuration>
             </plugin>
 
-            <plugin>
+            <!--plugin>
                 <groupId>org.bsc.maven</groupId>
                 <artifactId>maven-processor-plugin</artifactId>
                 <version>${maven.processor.version}</version>
@@ -53,7 +53,7 @@
                         <processor>w.whateva.service.utilities.controller.AutoControllerProcessor</processor>
                     </processors>
                 </configuration>
-            </plugin>
+            </plugin-->
         </plugins>
     </build>
 

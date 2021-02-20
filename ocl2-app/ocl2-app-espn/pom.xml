@@ -13,18 +13,19 @@
     <name>ocl2-app-espn</name>
 
     <properties>
+        <jaxb.version>2.3.0</jaxb.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
 
     <dependencies>
 
-        <dependency>
+        <!--dependency>
             <groupId>w.whateva</groupId>
             <artifactId>utilities</artifactId>
             <version>${utilities.version}</version>
-        </dependency>
+        </dependency-->
 
         <dependency>
             <groupId>w.whateva</groupId>
@@ -43,6 +44,19 @@
             <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>org.javassist</groupId>
+            <artifactId>javassist</artifactId>
+            <version>3.25.0-GA</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/javax.activation/javax.activation-api -->
+        <dependency>
+            <groupId>javax.activation</groupId>
+            <artifactId>javax.activation-api</artifactId>
+            <version>1.2.0</version>
+        </dependency>
+
         <!--dependency>
             <groupId>org.hsqldb</groupId>
             <artifactId>hsqldb</artifactId>
@@ -59,6 +73,12 @@
             <groupId>w.whateva</groupId>
             <artifactId>ocl2-job-espn</artifactId>
             <version>${project.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>javax.xml.bind</groupId>
+            <artifactId>jaxb-api</artifactId>
+            <version>${jaxb.version}</version>
         </dependency>
 
         <dependency>
