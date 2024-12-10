@@ -14,7 +14,7 @@
         <java.version>11</java.version>
         <maven.processor.version>3.3.2</maven.processor.version>
         <utilities.version>1.0-SNAPSHOT</utilities.version>
-        <spring.boot.version>2.2.6.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
         <spring.oxm.version>5.1.2.RELEASE</spring.oxm.version>
         <spring.orm.version>5.1.2.RELEASE</spring.orm.version>
         <h2.version>1.4.199</h2.version>
