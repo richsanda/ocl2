@@ -2,3 +2,11 @@
 *.iml
 target/
 */*.iml
+
+# ocl2-pyapp
+ocl2-pyapp/.env
+ocl2-pyapp/data/ocl.db
+ocl2-pyapp/data/raw/
+ocl2-pyapp/dist/data/
+ocl2-pyapp/__pycache__/
+ocl2-pyapp/venv/

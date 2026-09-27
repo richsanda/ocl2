@@ -1,0 +1,324 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: sans-serif;
+    color: #eee;
+    background: #222;
+}
+
+div.teams {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, auto);
+    grid-auto-flow: column;
+    column-gap: 20px;
+    row-gap: 10px;
+    margin: 20px 20px 10px 20px;
+    text-align: center;
+}
+
+div.clickable {
+    border: 1px solid gray;
+    background-color: rgba(100, 100, 100, 0.5);
+    text-align: center;
+    padding: 2px;
+    color: #fff;
+}
+
+div.clickable:hover, div.stat-row:hover, div.game-summary:hover, div.game-col-player:hover {
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
+
+span.owner-dropdown-arrow {
+    opacity: 0.8;
+}
+
+span.owner-dropdown-arrow:hover {
+    opacity: 1;
+}
+
+div.owner-dropdown-menu {
+    position: fixed;
+    z-index: 5;
+    background-color: #333;
+    border: 1px solid #666;
+    border-radius: 3px;
+    margin-top: 2px;
+    text-align: left;
+}
+
+div.owner-dropdown-item {
+    padding: 6px 10px;
+    color: #eee;
+    white-space: nowrap;
+}
+
+div.owner-dropdown-item:hover {
+    background-color: rgba(100, 100, 100, 0.5);
+    cursor: pointer;
+}
+
+#all-teams {
+    width: 100px;
+    margin: 0 20px 10px 20px;
+}
+
+div.criteria {
+    margin: 10px 20px;
+    font-size: 1.1em;
+}
+
+div.criteria label {
+    margin-right: 8px;
+}
+
+div.criteria select {
+    margin-right: 12px;
+}
+
+.mode-toggle {
+    margin: 20px 20px 0 20px;
+}
+
+button.mode-btn {
+    background-color: rgba(100, 100, 100, 0.5);
+    color: #eee;
+    border: 1px solid gray;
+    padding: 6px 16px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+button.mode-btn.active {
+    background-color: #56b365;
+    color: #111;
+    font-weight: bold;
+}
+
+#games-results {
+    margin: 20px;
+}
+
+details.game-entry {
+    border: 1px solid #444;
+    margin-bottom: 6px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+details.game-entry summary {
+    display: grid;
+    grid-template-columns: 320px 130px 140px;
+    align-items: center;
+    column-gap: 12px;
+    width: 100%;
+    padding: 8px 10px;
+    cursor: pointer;
+    list-style: none;
+    font-size: 1.05em;
+    box-sizing: border-box;
+}
+
+details.game-entry summary::-webkit-details-marker {
+    display: none;
+}
+
+details.game-entry summary:hover {
+    background-color: rgba(100, 100, 100, 0.35);
+}
+
+div.game-summary-col {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+span.owner-chip {
+    display: inline-flex;
+    align-items: center;
+}
+
+span.owner-chip-swatch {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+details.game-entry[open] summary {
+    background-color: rgba(100, 100, 100, 0.2);
+    border-bottom: 1px solid #444;
+}
+
+div.game-entry-box {
+    padding: 15px;
+}
+
+div.game-entry-box::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+div.stat-table, div.game-table {
+    display: table;
+    border-collapse: separate;
+    margin: 20px;
+}
+
+div.stat-row, div.game-row {
+    border: 1px solid #444;
+    font-size: 1.1em;
+    display: table-row;
+}
+
+div.stat-col, div.game-col {
+    display: table-cell;
+    padding: 5px;
+    padding-right: 10px;
+    vertical-align: middle;
+}
+
+div.stat-graph {
+    width: 40vw;
+}
+
+div.stat-graph-component {
+    display: inline-block;
+    box-sizing: border-box;
+    height: 1em;
+}
+
+div.stat-graph-active {
+    width: 20px;
+    text-align: center;
+}
+
+#feature-background, #game-background {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+#feature-background { z-index: 2; }
+#game-background { z-index: 3; }
+
+#feature, #game {
+    max-height: 80%;
+    overflow-y: auto;
+    font-size: 1.1em;
+    color: #111;
+    margin: 50px auto;
+    padding: 30px;
+    max-width: 1000px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 6px;
+}
+
+div.player-header {
+    font-size: 1.6em;
+    margin-bottom: 10px;
+}
+
+.grid-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.grid {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(18, 44px);
+    grid-auto-rows: 40px;
+    text-align: center;
+    width: max-content;
+}
+
+.grid-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85em;
+    color: #111;
+}
+
+.grid-header {
+    font-weight: bold;
+    color: #333;
+}
+
+div.game-header {
+    font-size: 1.6em;
+    padding-bottom: 15px;
+}
+
+div.game-team {
+    float: left;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 6px;
+    color: #fff;
+}
+
+div.game-row-title {
+    text-align: center;
+    font-size: 1.3em;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+@media (max-width: 640px) {
+    div.teams {
+        grid-template-columns: 1fr;
+        grid-template-rows: none;
+        grid-auto-flow: row;
+    }
+
+    div.criteria {
+        font-size: 1em;
+    }
+
+    div.clickable {
+        padding: 8px;
+    }
+
+    button.mode-btn {
+        padding: 10px 16px;
+    }
+
+    details.game-entry summary {
+        grid-template-columns: 1fr;
+        row-gap: 4px;
+    }
+
+    div.game-summary-col {
+        white-space: normal;
+        overflow: visible;
+        text-overflow: clip;
+    }
+
+    #feature, #game {
+        margin: 10px auto;
+        padding: 15px;
+        max-width: 100%;
+        max-height: 92%;
+        box-sizing: border-box;
+    }
+
+    div.game-team {
+        float: none;
+        width: 100%;
+        margin: 10px 0;
+        box-sizing: border-box;
+    }
+}
+
+div.game-col-points {
+    text-align: right;
+}
