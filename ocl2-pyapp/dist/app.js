@@ -239,6 +239,206 @@ function queryGamesList({ teamNumbers, startSeason, endSeason, startWeek = 1, en
     return results.slice(0, RESULT_SIZE);
 }
 
+const CONTRIBUTOR_THRESHOLD_PCT = 10;
+const MAX_CONTRIBUTORS = 4;
+
+// sortedPlayers: [{name, points}, ...] descending by points. Always includes the top
+// player; additional players only if their share of the total exceeds
+// CONTRIBUTOR_THRESHOLD_PCT, capped at MAX_CONTRIBUTORS total. Returns {capped, all}.
+function splitContributors(sortedPlayers, total) {
+    const all = [];
+    const capped = [];
+    sortedPlayers.forEach((p, i) => {
+        const pct = total ? Math.round((p.points / total) * 1000) / 10 : 0;
+        all.push({ name: p.name, pct });
+        if (capped.length < MAX_CONTRIBUTORS && (i === 0 || pct > CONTRIBUTOR_THRESHOLD_PCT)) {
+            capped.push({ name: p.name, pct });
+        }
+    });
+    return { capped, all };
+}
+
+function queryPositions({ teamNumbers, positions, startSeason, endSeason, sort }) {
+    const teams = teamNumbers && teamNumbers.length ? new Set(teamNumbers) : new Set(META.teams.map(t => t.teamNumber));
+    const wantedPositions = positions && positions.length ? positions : META.positions;
+    const lo = startSeason == null ? META.minSeason : startSeason;
+    const hi = endSeason == null ? META.maxSeason : endSeason;
+
+    const records = new Map(); // "teamNumber:season" -> {wins, losses, ties}
+    for (const g of GAMES) {
+        if (g.season < lo || g.season > hi) continue;
+        for (const side of [
+            { teamNumber: g.home, points: g.homePoints, opp: g.awayPoints },
+            { teamNumber: g.away, points: g.awayPoints, opp: g.homePoints },
+        ]) {
+            if (!teams.has(side.teamNumber)) continue;
+            const key = side.teamNumber + ":" + g.season;
+            if (!records.has(key)) records.set(key, { wins: 0, losses: 0, ties: 0 });
+            const rec = records.get(key);
+            if (side.points > side.opp) rec.wins++;
+            else if (side.opp > side.points) rec.losses++;
+            else rec.ties++;
+        }
+    }
+
+    const buckets = new Map(); // "teamNumber:season:position" -> Map(playerId -> {name, points})
+    for (const pw of PLAYER_WEEKS) {
+        if (!teams.has(pw.teamNumber)) continue;
+        if (pw.season < lo || pw.season > hi) continue;
+        const key = pw.teamNumber + ":" + pw.season + ":" + pw.position;
+        if (!buckets.has(key)) buckets.set(key, new Map());
+        const bucket = buckets.get(key);
+        const existing = bucket.get(pw.playerId) || { name: pw.name, points: 0 };
+        existing.points += pw.points;
+        bucket.set(pw.playerId, existing);
+    }
+
+    const byPosition = {};
+    wantedPositions.forEach(pos => { byPosition[pos] = []; });
+
+    for (const [key, players] of buckets) {
+        const [teamNumberStr, seasonStr, position] = key.split(":");
+        if (!(position in byPosition)) continue;
+        const teamNumber = Number(teamNumberStr);
+        const season = Number(seasonStr);
+
+        const sortedPlayers = Array.from(players.values()).sort((a, b) => b.points - a.points);
+        const total = sortedPlayers.reduce((s, p) => s + p.points, 0);
+        const { capped, all } = splitContributors(sortedPlayers, total);
+        const rec = records.get(teamNumber + ":" + season) || { wins: 0, losses: 0, ties: 0 };
+
+        byPosition[position].push({
+            teamNumber, season, position, points: total,
+            wins: rec.wins, losses: rec.losses, ties: rec.ties,
+            contributors: capped, allContributors: all,
+        });
+    }
+
+    // rank is always "Nth best season at THIS position for this team-number pool" --
+    // computed within each position's own group, since points aren't comparable across
+    // positions (a 140-pt kicker season isn't "worse" than a 300-pt QB season).
+    for (const rows of Object.values(byPosition)) {
+        rows.sort((a, b) => (b.points - a.points) || (a.teamNumber - b.teamNumber) || (a.season - b.season));
+        rows.forEach((row, i) => { row.rank = i + 1; });
+    }
+
+    // but DISPLAY is one flat, interleaved list across every selected position (no
+    // per-position grouping/headers) -- secondary (team, season, position) keys just
+    // make ties deterministic across repeated calls.
+    const leadPct = (x) => (x.contributors.length ? x.contributors[0].pct : 0);
+
+    const allRows = Object.values(byPosition).flat();
+    const sortKeys = {
+        points_desc: (a, b) => (b.points - a.points) || (a.teamNumber - b.teamNumber) || (a.season - b.season) || a.position.localeCompare(b.position),
+        points_asc: (a, b) => (a.points - b.points) || (a.teamNumber - b.teamNumber) || (a.season - b.season) || a.position.localeCompare(b.position),
+        year_desc: (a, b) => (b.season - a.season) || (a.teamNumber - b.teamNumber) || a.position.localeCompare(b.position),
+        year_asc: (a, b) => (a.season - b.season) || (a.teamNumber - b.teamNumber) || a.position.localeCompare(b.position),
+        lead_pct_desc: (a, b) => (leadPct(b) - leadPct(a)) || (a.teamNumber - b.teamNumber) || (a.season - b.season) || a.position.localeCompare(b.position),
+        lead_pct_asc: (a, b) => (leadPct(a) - leadPct(b)) || (a.teamNumber - b.teamNumber) || (a.season - b.season) || a.position.localeCompare(b.position),
+    };
+    allRows.sort(sortKeys[sort] || sortKeys.points_desc);
+
+    return allRows;
+}
+
+// same shape/algorithm as queryPositions, but totals span a team's WHOLE roster for
+// the season instead of one position -- no position grouping/column.
+function queryTeamSeasons({ teamNumbers, startSeason, endSeason, sort }) {
+    const teams = teamNumbers && teamNumbers.length ? new Set(teamNumbers) : new Set(META.teams.map(t => t.teamNumber));
+    const lo = startSeason == null ? META.minSeason : startSeason;
+    const hi = endSeason == null ? META.maxSeason : endSeason;
+
+    const records = new Map(); // "teamNumber:season" -> {wins, losses, ties}
+    for (const g of GAMES) {
+        if (g.season < lo || g.season > hi) continue;
+        for (const side of [
+            { teamNumber: g.home, points: g.homePoints, opp: g.awayPoints },
+            { teamNumber: g.away, points: g.awayPoints, opp: g.homePoints },
+        ]) {
+            if (!teams.has(side.teamNumber)) continue;
+            const key = side.teamNumber + ":" + g.season;
+            if (!records.has(key)) records.set(key, { wins: 0, losses: 0, ties: 0 });
+            const rec = records.get(key);
+            if (side.points > side.opp) rec.wins++;
+            else if (side.opp > side.points) rec.losses++;
+            else rec.ties++;
+        }
+    }
+
+    const buckets = new Map(); // "teamNumber:season" -> Map(playerId -> {name, points})
+    for (const pw of PLAYER_WEEKS) {
+        if (!teams.has(pw.teamNumber)) continue;
+        if (pw.season < lo || pw.season > hi) continue;
+        const key = pw.teamNumber + ":" + pw.season;
+        if (!buckets.has(key)) buckets.set(key, new Map());
+        const bucket = buckets.get(key);
+        const existing = bucket.get(pw.playerId) || { name: pw.name, points: 0 };
+        existing.points += pw.points;
+        bucket.set(pw.playerId, existing);
+    }
+
+    const rows = [];
+    for (const [key, players] of buckets) {
+        const [teamNumberStr, seasonStr] = key.split(":");
+        const teamNumber = Number(teamNumberStr);
+        const season = Number(seasonStr);
+
+        const sortedPlayers = Array.from(players.values()).sort((a, b) => b.points - a.points);
+        const total = sortedPlayers.reduce((s, p) => s + p.points, 0);
+        const { capped, all } = splitContributors(sortedPlayers, total);
+        const rec = records.get(key) || { wins: 0, losses: 0, ties: 0 };
+
+        rows.push({
+            teamNumber, season, points: total,
+            wins: rec.wins, losses: rec.losses, ties: rec.ties,
+            contributors: capped, allContributors: all,
+        });
+    }
+
+    rows.sort((a, b) => (b.points - a.points) || (a.teamNumber - b.teamNumber) || (a.season - b.season));
+    rows.forEach((row, i) => { row.rank = i + 1; });
+
+    const leadPct = (x) => (x.contributors.length ? x.contributors[0].pct : 0);
+    const sortKeys = {
+        points_desc: (a, b) => (b.points - a.points) || (a.teamNumber - b.teamNumber) || (a.season - b.season),
+        points_asc: (a, b) => (a.points - b.points) || (a.teamNumber - b.teamNumber) || (a.season - b.season),
+        year_desc: (a, b) => (b.season - a.season) || (a.teamNumber - b.teamNumber),
+        year_asc: (a, b) => (a.season - b.season) || (a.teamNumber - b.teamNumber),
+        lead_pct_desc: (a, b) => (leadPct(b) - leadPct(a)) || (a.teamNumber - b.teamNumber) || (a.season - b.season),
+        lead_pct_asc: (a, b) => (leadPct(a) - leadPct(b)) || (a.teamNumber - b.teamNumber) || (a.season - b.season),
+    };
+    rows.sort(sortKeys[sort] || sortKeys.points_desc);
+
+    return rows;
+}
+
+// position is optional: given, returns just that position's players (single group);
+// omitted, returns EVERY position's players together, grouped in canonical position
+// order then first appearance within each group -- used by the teams view to show a
+// full roster sectioned QB/RB/WR/TE/D-ST/K like a baseball box score.
+function queryPositionDetail({ teamNumber, season, position }) {
+    let rows = PLAYER_WEEKS.filter(pw => pw.teamNumber === teamNumber && pw.season === season);
+    if (position) rows = rows.filter(pw => pw.position === position);
+    rows.sort((a, b) => a.week - b.week);
+
+    const players = new Map(); // playerId -> {playerId, name, position, weeks, firstWeek}
+    for (const pw of rows) {
+        if (!players.has(pw.playerId)) {
+            players.set(pw.playerId, { playerId: pw.playerId, name: pw.name, position: pw.position, weeks: {}, firstWeek: pw.week });
+        }
+        const info = GAME_TEAM_INFO.get(pw.gameNumber + ":" + pw.teamNumber);
+        players.get(pw.playerId).weeks[pw.week] = {
+            points: pw.points, win: !!info.win, loss: !!info.loss, tie: !!info.tie,
+        };
+    }
+
+    const positionOrder = new Map(META.positions.map((p, i) => [p, i]));
+    const ordered = Array.from(players.values()).sort((a, b) =>
+        ((positionOrder.get(a.position) ?? 99) - (positionOrder.get(b.position) ?? 99)) ||
+        (a.firstWeek - b.firstWeek) || (a.playerId - b.playerId));
+    return { players: ordered };
+}
+
 // -- UI (unchanged from the Flask-backed build) --
 
 function buildTeamButtons() {
@@ -434,16 +634,24 @@ function setMode(newMode) {
     mode = newMode;
     document.getElementById("mode-players").classList.toggle("active", mode === "players");
     document.getElementById("mode-games").classList.toggle("active", mode === "games");
-    document.getElementById("players-filters").style.display = mode === "players" ? "" : "none";
+    document.getElementById("mode-positions").classList.toggle("active", mode === "positions");
+    document.getElementById("mode-teams").classList.toggle("active", mode === "teams");
+    document.getElementById("position-filter-wrap").style.display = (mode === "players" || mode === "positions") ? "" : "none";
     document.getElementById("games-filters").style.display = mode === "games" ? "" : "none";
+    document.getElementById("positions-filters").style.display = mode === "positions" ? "" : "none";
+    document.getElementById("teams-filters").style.display = mode === "teams" ? "" : "none";
     document.getElementById("results").style.display = mode === "players" ? "" : "none";
     document.getElementById("games-results").style.display = mode === "games" ? "" : "none";
+    document.getElementById("positions-results").style.display = mode === "positions" ? "" : "none";
+    document.getElementById("team-seasons-results").style.display = mode === "teams" ? "" : "none";
     refresh();
 }
 
 function refresh() {
     if (mode === "players") loadStats();
-    else loadGames();
+    else if (mode === "games") loadGames();
+    else if (mode === "positions") loadPositions();
+    else loadTeamSeasons();
 }
 
 function selectTeams(teamNumbers, label) {
@@ -539,6 +747,94 @@ function summaryCol(text) {
     return div;
 }
 
+function buildPositionsFilters() {
+    document.getElementById("positions-sort-filter").onchange = refresh;
+}
+
+function loadPositions() {
+    const rows = queryPositions({
+        teamNumbers: selectedTeams,
+        positions: Array.from(selectedPositions),
+        startSeason: Number(document.getElementById("start-season").value),
+        endSeason: Number(document.getElementById("end-season").value),
+        sort: document.getElementById("positions-sort-filter").value,
+    });
+    renderPositions(rows);
+}
+
+function contributorsText(contributors) {
+    return contributors.map(c => c.name + " " + c.pct + "%").join(", ");
+}
+
+function recordText(row) {
+    let s = row.wins + "-" + row.losses;
+    if (row.ties > 0) s += "-" + row.ties;
+    return "(" + s + ")";
+}
+
+function renderPositions(rows) {
+    const container = document.getElementById("positions-results");
+    container.innerHTML = "";
+
+    rows.forEach((row, index) => {
+        const div = document.createElement("div");
+        div.className = "position-row";
+        div.title = contributorsText(row.allContributors);
+        div.onclick = () => showPositionDetail(row);
+
+        div.appendChild(summaryCol((index + 1) + "."));
+        div.appendChild(summaryCol(String(row.points)));
+        div.appendChild(summaryCol(row.position));
+        const owner = document.createElement("div");
+        owner.className = "game-summary-col";
+        owner.appendChild(ownerChip(row.teamNumber, row.season));
+        div.appendChild(owner);
+        div.appendChild(summaryCol(String(row.season)));
+        div.appendChild(summaryCol(recordText(row)));
+        div.appendChild(summaryCol(contributorsText(row.contributors)));
+
+        container.appendChild(div);
+    });
+}
+
+function buildTeamsFilters() {
+    document.getElementById("teams-sort-filter").onchange = refresh;
+}
+
+function loadTeamSeasons() {
+    const rows = queryTeamSeasons({
+        teamNumbers: selectedTeams,
+        startSeason: Number(document.getElementById("start-season").value),
+        endSeason: Number(document.getElementById("end-season").value),
+        sort: document.getElementById("teams-sort-filter").value,
+    });
+    renderTeamSeasons(rows);
+}
+
+function renderTeamSeasons(rows) {
+    const container = document.getElementById("team-seasons-results");
+    container.innerHTML = "";
+
+    rows.forEach((row, index) => {
+        const div = document.createElement("div");
+        div.className = "team-season-row";
+        div.title = contributorsText(row.allContributors);
+        div.onclick = () => showPositionDetail(row);
+
+        div.appendChild(summaryCol((index + 1) + "."));
+        div.appendChild(summaryCol(String(row.points)));
+        const owner = document.createElement("div");
+        owner.className = "game-summary-col";
+        owner.appendChild(ownerChip(row.teamNumber, row.season));
+        div.appendChild(owner);
+        div.appendChild(summaryCol(String(row.season)));
+        div.appendChild(summaryCol(recordText(row)));
+        div.appendChild(summaryCol(contributorsText(row.contributors)));
+
+        container.appendChild(div);
+    });
+}
+
 function renderStats(stats) {
     const container = document.getElementById("results");
     container.innerHTML = "";
@@ -590,7 +886,7 @@ function col(text, cls) {
 }
 
 function showPlayer(playerId) {
-    document.getElementById("feature-background").style.display = "block";
+    pushModal("feature-background");
     const player = queryPlayerDetail(playerId);
     if (!player) return;
 
@@ -648,16 +944,131 @@ function gridItem(text, isHeader) {
     return div;
 }
 
+// -- modal stack: opening a modal pushes it on top WITHOUT hiding whatever's already
+// open beneath it (each modal type only ever occupies one stack slot -- reopening an
+// already-open type just moves it to the top and refreshes its content). Closing the
+// topmost modal (via clicking its backdrop) pops it and reveals whichever was
+// underneath, instead of dropping all the way back to the main page.
+const MODAL_IDS = ["feature-background", "game-background", "position-detail-background", "schedule-background"];
+let modalStack = [];
+
+function pushModal(id) {
+    modalStack = modalStack.filter(x => x !== id);
+    modalStack.push(id);
+    reindexModals();
+}
+
+function popModal(id) {
+    modalStack = modalStack.filter(x => x !== id);
+    reindexModals();
+}
+
+function reindexModals() {
+    MODAL_IDS.forEach(id => {
+        const el = document.getElementById(id);
+        const pos = modalStack.indexOf(id);
+        if (pos === -1) {
+            el.style.display = "none";
+        } else {
+            el.style.zIndex = 100 + pos * 10;
+            el.style.display = "block";
+        }
+    });
+}
+
 function hideFeature() {
-    document.getElementById("feature-background").style.display = "none";
+    popModal("feature-background");
 }
 
 document.getElementById("feature-background").onclick = (e) => {
     if (e.target.id === "feature-background") hideFeature();
 };
 
+function hidePositionDetail() {
+    popModal("position-detail-background");
+}
+
+document.getElementById("position-detail-background").onclick = (e) => {
+    if (e.target.id === "position-detail-background") hidePositionDetail();
+};
+
+function showPositionDetail(row) {
+    pushModal("position-detail-background");
+
+    const header = document.getElementById("position-detail-header");
+    header.innerHTML = "";
+    const posPrefix = row.position ? row.position + " " : "";
+    header.appendChild(document.createTextNode(
+        posPrefix + ownerName(row.teamNumber, row.season) + " " + row.season +
+        " (" + row.points + ") " + recordText(row) + " "
+    ));
+    const scheduleBtn = document.createElement("button");
+    scheduleBtn.type = "button";
+    scheduleBtn.className = "schedule-btn";
+    scheduleBtn.textContent = "schedule";
+    scheduleBtn.style.backgroundColor = TEAM_COLORS[row.teamNumber];
+    scheduleBtn.style.opacity = (5 + 10) / 40; // ~a "5-point week" cell's intensity
+    scheduleBtn.onclick = () => showSchedule(row);
+    header.appendChild(scheduleBtn);
+
+    const detail = queryPositionDetail({ teamNumber: row.teamNumber, season: row.season, position: row.position });
+    renderPositionDetail(row, detail);
+}
+
+function renderPositionDetail(row, detail) {
+    const grid = document.getElementById("position-detail-grid");
+    grid.innerHTML = "";
+
+    // header row: 2 blank (position + name) + week numbers 1-17
+    grid.appendChild(gridItem("", true));
+    grid.appendChild(gridItem("", true));
+    for (let w = 1; w <= 17; w++) grid.appendChild(gridItem(String(w), true));
+
+    const columnCount = 19; // position + name + 17 weeks
+    let previousPosition = null;
+    detail.players.forEach(player => {
+        const isNewGroup = player.position !== previousPosition;
+        if (isNewGroup && previousPosition !== null) {
+            for (let i = 0; i < columnCount; i++) {
+                const spacer = document.createElement("div");
+                spacer.className = "grid-divider";
+                grid.appendChild(spacer);
+            }
+        }
+        previousPosition = player.position;
+        const rowCells = [];
+
+        const posCell = gridItem(isNewGroup ? player.position : "", true);
+        posCell.classList.add("grid-row-label");
+        rowCells.push(posCell);
+
+        const nameCell = gridItem(player.name, true);
+        nameCell.classList.add("grid-row-label");
+        nameCell.onclick = () => showPlayer(player.playerId);
+        rowCells.push(nameCell);
+
+        for (let w = 1; w <= 17; w++) {
+            const wk = player.weeks[w];
+            if (wk) {
+                const outcome = wk.win ? "w" : wk.loss ? "l" : "t";
+                const item = gridItem(wk.points + outcome, false);
+                item.style.backgroundColor = TEAM_COLORS[row.teamNumber];
+                item.style.opacity = (wk.points + 10) / 40;
+                item.title = player.name + ", week " + w + ": " + wk.points + " (" + outcome.toUpperCase() + ")";
+                item.classList.add("game-summary");
+                item.onclick = () => showGame(row.season, w, row.teamNumber);
+                rowCells.push(item);
+            } else {
+                rowCells.push(gridItem("", false));
+            }
+        }
+
+        rowCells.forEach(c => grid.appendChild(c));
+    });
+}
+
 function hideGame() {
-    document.getElementById("game-background").style.display = "none";
+    popModal("game-background");
 }
 
 document.getElementById("game-background").onclick = (e) => {
@@ -665,7 +1076,7 @@ document.getElementById("game-background").onclick = (e) => {
 };
 
 function showGame(season, scoringPeriod, teamNumber) {
-    document.getElementById("game-background").style.display = "block";
+    pushModal("game-background");
     const game = queryGameDetail(season, scoringPeriod, teamNumber);
     if (!game) return;
 
@@ -674,6 +1085,47 @@ function showGame(season, scoringPeriod, teamNumber) {
     const awayEl = document.getElementById("game-away");
     homeEl.replaceWith(buildGameTeamPanel(game.home, season, "game-home"));
     awayEl.replaceWith(buildGameTeamPanel(game.away, season, "game-away"));
+}
+
+function hideSchedule() {
+    popModal("schedule-background");
+}
+
+document.getElementById("schedule-background").onclick = (e) => {
+    if (e.target.id === "schedule-background") hideSchedule();
+};
+
+function showSchedule(row) {
+    pushModal("schedule-background");
+    document.getElementById("schedule-header").textContent =
+        ownerName(row.teamNumber, row.season) + " " + row.season + " schedule";
+
+    const games = queryGamesList({
+        teamNumbers: [row.teamNumber], startSeason: row.season, endSeason: row.season,
+        includeMultiWeek: true, sort: "points_desc",
+    });
+    games.sort((a, b) => a.scoringPeriod - b.scoringPeriod);
+    renderSchedule(games);
+}
+
+function renderSchedule(games) {
+    const container = document.getElementById("schedule-results");
+    container.innerHTML = "";
+
+    games.forEach(g => {
+        const label = document.createElement("div");
+        label.className = "schedule-week-label";
+        const outcome = g.win ? "W" : g.loss ? "L" : "T";
+        label.textContent = "week " + g.scoringPeriod + (g.weeksCovered > 1 ? " (2wk)" : "") +
+            " -- " + g.teamPoints + "-" + g.opponentPoints + " (" + outcome + ")";
+        container.appendChild(label);
+
+        const box = document.createElement("div");
+        box.className = "game-entry-box";
+        box.appendChild(buildGameTeamPanel({ teamNumber: g.teamNumber, points: g.teamPoints, players: g.players }, g.season));
+        box.appendChild(buildGameTeamPanel({ teamNumber: g.opponentTeamNumber, points: g.opponentPoints, players: g.opponentPlayers }, g.season));
+        container.appendChild(box);
+    });
 }
 
 const POSITION_ORDER = ["QB", "RB", "RB/WR", "WR", "WR/TE", "TE", "D/ST", "K"];
@@ -719,7 +1171,6 @@ function buildGameTeamPanel(side, season, elementId, onPlayerClick) {
 }
 
 function defaultPlayerClick(playerNumber) {
-    hideGame();
     showPlayer(playerNumber);
 }
 
@@ -741,8 +1192,12 @@ async function init() {
     buildPositionCheckboxes();
     buildSeasonSelects();
     buildGamesFilters();
+    buildPositionsFilters();
+    buildTeamsFilters();
     document.getElementById("mode-players").onclick = () => setMode("players");
     document.getElementById("mode-games").onclick = () => setMode("games");
+    document.getElementById("mode-positions").onclick = () => setMode("positions");
+    document.getElementById("mode-teams").onclick = () => setMode("teams");
     document.addEventListener("click", closeAllOwnerDropdowns);
     loadStats();
 }

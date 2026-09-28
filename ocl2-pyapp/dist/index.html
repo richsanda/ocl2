@@ -14,6 +14,8 @@
 
 <div class="mode-toggle">
     <button type="button" class="mode-btn active" id="mode-players">players</button>
+    <button type="button" class="mode-btn" id="mode-positions">positions</button>
+    <button type="button" class="mode-btn" id="mode-teams">teams</button>
     <button type="button" class="mode-btn" id="mode-games">games</button>
 </div>
 
@@ -22,7 +24,7 @@
     and <select id="end-season"></select>
     for <span id="team-name">all</span>
 
-    <span id="players-filters">
+    <span id="position-filter-wrap">
         considering
         <span id="positions"></span>
     </span>
@@ -48,10 +50,36 @@
             <option value="total_asc">total (least)</option>
         </select>
     </span>
+
+    <span id="positions-filters" style="display:none">
+        sort by
+        <select id="positions-sort-filter">
+            <option value="points_desc">points (most)</option>
+            <option value="points_asc">points (least)</option>
+            <option value="year_desc">year (newest)</option>
+            <option value="year_asc">year (oldest)</option>
+            <option value="lead_pct_desc">lead % (most)</option>
+            <option value="lead_pct_asc">lead % (least)</option>
+        </select>
+    </span>
+
+    <span id="teams-filters" style="display:none">
+        sort by
+        <select id="teams-sort-filter">
+            <option value="points_desc">points (most)</option>
+            <option value="points_asc">points (least)</option>
+            <option value="year_desc">year (newest)</option>
+            <option value="year_asc">year (oldest)</option>
+            <option value="lead_pct_desc">lead % (most)</option>
+            <option value="lead_pct_asc">lead % (least)</option>
+        </select>
+    </span>
 </div>
 
 <div id="results" class="stat-table"></div>
 <div id="games-results"></div>
+<div id="positions-results"></div>
+<div id="team-seasons-results"></div>
 
 <div id="feature-background">
     <div id="feature">
@@ -67,6 +95,22 @@
         <div class="game-header" id="game-header"></div>
         <div class="game-table game-home game-team" id="game-home"></div>
         <div class="game-table game-away game-team" id="game-away"></div>
+    </div>
+</div>
+
+<div id="position-detail-background">
+    <div id="position-detail">
+        <div class="player-header" id="position-detail-header"></div>
+        <div class="grid-scroll">
+            <div class="grid grid-wide-label" id="position-detail-grid"></div>
+        </div>
+    </div>
+</div>
+
+<div id="schedule-background">
+    <div id="schedule">
+        <div class="player-header" id="schedule-header"></div>
+        <div id="schedule-results"></div>
     </div>
 </div>
 

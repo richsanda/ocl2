@@ -221,16 +221,24 @@ function setMode(newMode) {
     mode = newMode;
     document.getElementById("mode-players").classList.toggle("active", mode === "players");
     document.getElementById("mode-games").classList.toggle("active", mode === "games");
-    document.getElementById("players-filters").style.display = mode === "players" ? "" : "none";
+    document.getElementById("mode-positions").classList.toggle("active", mode === "positions");
+    document.getElementById("mode-teams").classList.toggle("active", mode === "teams");
+    document.getElementById("position-filter-wrap").style.display = (mode === "players" || mode === "positions") ? "" : "none";
     document.getElementById("games-filters").style.display = mode === "games" ? "" : "none";
+    document.getElementById("positions-filters").style.display = mode === "positions" ? "" : "none";
+    document.getElementById("teams-filters").style.display = mode === "teams" ? "" : "none";
     document.getElementById("results").style.display = mode === "players" ? "" : "none";
     document.getElementById("games-results").style.display = mode === "games" ? "" : "none";
+    document.getElementById("positions-results").style.display = mode === "positions" ? "" : "none";
+    document.getElementById("team-seasons-results").style.display = mode === "teams" ? "" : "none";
     refresh();
 }
 
 function refresh() {
     if (mode === "players") loadStats();
-    else loadGames();
+    else if (mode === "games") loadGames();
+    else if (mode === "positions") loadPositions();
+    else loadTeamSeasons();
 }
 
 function selectTeams(teamNumbers, label) {
@@ -332,6 +340,96 @@ function summaryCol(text) {
     return div;
 }
 
+function buildPositionsFilters() {
+    document.getElementById("positions-sort-filter").onchange = refresh;
+}
+
+async function loadPositions() {
+    const params = new URLSearchParams();
+    if (selectedTeams) params.set("teamNumbers", selectedTeams.join(","));
+    if (selectedPositions.size) params.set("positions", Array.from(selectedPositions).join(","));
+    params.set("startSeason", document.getElementById("start-season").value);
+    params.set("endSeason", document.getElementById("end-season").value);
+    params.set("sort", document.getElementById("positions-sort-filter").value);
+
+    const rows = await getJSON("/api/positions?" + params.toString());
+    renderPositions(rows || []);
+}
+
+function contributorsText(contributors) {
+    return contributors.map(c => c.name + " " + c.pct + "%").join(", ");
+}
+
+function recordText(row) {
+    let s = row.wins + "-" + row.losses;
+    if (row.ties > 0) s += "-" + row.ties;
+    return "(" + s + ")";
+}
+
+function renderPositions(rows) {
+    const container = document.getElementById("positions-results");
+    container.innerHTML = "";
+
+    rows.forEach((row, index) => {
+        const div = document.createElement("div");
+        div.className = "position-row";
+        div.title = contributorsText(row.allContributors);
+        div.onclick = () => showPositionDetail(row);
+
+        div.appendChild(summaryCol((index + 1) + "."));
+        div.appendChild(summaryCol(String(row.points)));
+        div.appendChild(summaryCol(row.position));
+        const owner = document.createElement("div");
+        owner.className = "game-summary-col";
+        owner.appendChild(ownerChip(row.teamNumber, row.season));
+        div.appendChild(owner);
+        div.appendChild(summaryCol(String(row.season)));
+        div.appendChild(summaryCol(recordText(row)));
+        div.appendChild(summaryCol(contributorsText(row.contributors)));
+
+        container.appendChild(div);
+    });
+}
+
+function buildTeamsFilters() {
+    document.getElementById("teams-sort-filter").onchange = refresh;
+}
+
+async function loadTeamSeasons() {
+    const params = new URLSearchParams();
+    if (selectedTeams) params.set("teamNumbers", selectedTeams.join(","));
+    params.set("startSeason", document.getElementById("start-season").value);
+    params.set("endSeason", document.getElementById("end-season").value);
+    params.set("sort", document.getElementById("teams-sort-filter").value);
+
+    const rows = await getJSON("/api/team-seasons?" + params.toString());
+    renderTeamSeasons(rows || []);
+}
+
+function renderTeamSeasons(rows) {
+    const container = document.getElementById("team-seasons-results");
+    container.innerHTML = "";
+
+    rows.forEach((row, index) => {
+        const div = document.createElement("div");
+        div.className = "team-season-row";
+        div.title = contributorsText(row.allContributors);
+        div.onclick = () => showPositionDetail(row);
+
+        div.appendChild(summaryCol((index + 1) + "."));
+        div.appendChild(summaryCol(String(row.points)));
+        const owner = document.createElement("div");
+        owner.className = "game-summary-col";
+        owner.appendChild(ownerChip(row.teamNumber, row.season));
+        div.appendChild(owner);
+        div.appendChild(summaryCol(String(row.season)));
+        div.appendChild(summaryCol(recordText(row)));
+        div.appendChild(summaryCol(contributorsText(row.contributors)));
+
+        container.appendChild(div);
+    });
+}
+
 function renderStats(stats) {
     const container = document.getElementById("results");
     container.innerHTML = "";
@@ -383,7 +481,7 @@ function col(text, cls) {
 }
 
 async function showPlayer(playerId) {
-    document.getElementById("feature-background").style.display = "block";
+    pushModal("feature-background");
     const player = await getJSON("/api/player/" + playerId);
     if (!player) return;
 
@@ -444,16 +542,133 @@ function gridItem(text, isHeader) {
     return div;
 }
 
+// -- modal stack: opening a modal pushes it on top WITHOUT hiding whatever's already
+// open beneath it (each modal type only ever occupies one stack slot -- reopening an
+// already-open type just moves it to the top and refreshes its content). Closing the
+// topmost modal (via clicking its backdrop) pops it and reveals whichever was
+// underneath, instead of dropping all the way back to the main page.
+const MODAL_IDS = ["feature-background", "game-background", "position-detail-background", "schedule-background"];
+let modalStack = [];
+
+function pushModal(id) {
+    modalStack = modalStack.filter(x => x !== id);
+    modalStack.push(id);
+    reindexModals();
+}
+
+function popModal(id) {
+    modalStack = modalStack.filter(x => x !== id);
+    reindexModals();
+}
+
+function reindexModals() {
+    MODAL_IDS.forEach(id => {
+        const el = document.getElementById(id);
+        const pos = modalStack.indexOf(id);
+        if (pos === -1) {
+            el.style.display = "none";
+        } else {
+            el.style.zIndex = 100 + pos * 10;
+            el.style.display = "block";
+        }
+    });
+}
+
 function hideFeature() {
-    document.getElementById("feature-background").style.display = "none";
+    popModal("feature-background");
 }
 
 document.getElementById("feature-background").onclick = (e) => {
     if (e.target.id === "feature-background") hideFeature();
 };
 
+function hidePositionDetail() {
+    popModal("position-detail-background");
+}
+
+document.getElementById("position-detail-background").onclick = (e) => {
+    if (e.target.id === "position-detail-background") hidePositionDetail();
+};
+
+async function showPositionDetail(row) {
+    pushModal("position-detail-background");
+
+    const header = document.getElementById("position-detail-header");
+    header.innerHTML = "";
+    const posPrefix = row.position ? row.position + " " : "";
+    header.appendChild(document.createTextNode(
+        posPrefix + ownerName(row.teamNumber, row.season) + " " + row.season +
+        " (" + row.points + ") " + recordText(row) + " "
+    ));
+    const scheduleBtn = document.createElement("button");
+    scheduleBtn.type = "button";
+    scheduleBtn.className = "schedule-btn";
+    scheduleBtn.textContent = "schedule";
+    scheduleBtn.style.backgroundColor = TEAM_COLORS[row.teamNumber];
+    scheduleBtn.style.opacity = (5 + 10) / 40; // ~a "5-point week" cell's intensity
+    scheduleBtn.onclick = () => showSchedule(row);
+    header.appendChild(scheduleBtn);
+
+    const params = new URLSearchParams({ teamNumber: row.teamNumber, season: row.season });
+    if (row.position) params.set("position", row.position);
+    const detail = await getJSON("/api/position-detail?" + params.toString());
+    renderPositionDetail(row, detail || { players: [] });
+}
+
+function renderPositionDetail(row, detail) {
+    const grid = document.getElementById("position-detail-grid");
+    grid.innerHTML = "";
+
+    // header row: 2 blank (position + name) + week numbers 1-17
+    grid.appendChild(gridItem("", true));
+    grid.appendChild(gridItem("", true));
+    for (let w = 1; w <= 17; w++) grid.appendChild(gridItem(String(w), true));
+
+    const columnCount = 19; // position + name + 17 weeks
+    let previousPosition = null;
+    detail.players.forEach(player => {
+        const isNewGroup = player.position !== previousPosition;
+        if (isNewGroup && previousPosition !== null) {
+            for (let i = 0; i < columnCount; i++) {
+                const spacer = document.createElement("div");
+                spacer.className = "grid-divider";
+                grid.appendChild(spacer);
+            }
+        }
+        previousPosition = player.position;
+        const rowCells = [];
+
+        const posCell = gridItem(isNewGroup ? player.position : "", true);
+        posCell.classList.add("grid-row-label");
+        rowCells.push(posCell);
+
+        const nameCell = gridItem(player.name, true);
+        nameCell.classList.add("grid-row-label");
+        nameCell.onclick = () => showPlayer(player.playerId);
+        rowCells.push(nameCell);
+
+        for (let w = 1; w <= 17; w++) {
+            const wk = player.weeks[w];
+            if (wk) {
+                const outcome = wk.win ? "w" : wk.loss ? "l" : "t";
+                const item = gridItem(wk.points + outcome, false);
+                item.style.backgroundColor = TEAM_COLORS[row.teamNumber];
+                item.style.opacity = (wk.points + 10) / 40;
+                item.title = player.name + ", week " + w + ": " + wk.points + " (" + outcome.toUpperCase() + ")";
+                item.classList.add("game-summary");
+                item.onclick = () => showGame(row.season, w, row.teamNumber);
+                rowCells.push(item);
+            } else {
+                rowCells.push(gridItem("", false));
+            }
+        }
+
+        rowCells.forEach(c => grid.appendChild(c));
+    });
+}
+
 function hideGame() {
-    document.getElementById("game-background").style.display = "none";
+    popModal("game-background");
 }
 
 document.getElementById("game-background").onclick = (e) => {
@@ -461,7 +676,7 @@ document.getElementById("game-background").onclick = (e) => {
 };
 
 async function showGame(season, scoringPeriod, teamNumber) {
-    document.getElementById("game-background").style.display = "block";
+    pushModal("game-background");
     const game = await getJSON("/api/game/" + season + "/" + scoringPeriod + "/" + teamNumber);
     if (!game) return;
 
@@ -470,6 +685,48 @@ async function showGame(season, scoringPeriod, teamNumber) {
     const awayEl = document.getElementById("game-away");
     homeEl.replaceWith(buildGameTeamPanel(game.home, season, "game-home"));
     awayEl.replaceWith(buildGameTeamPanel(game.away, season, "game-away"));
+}
+
+function hideSchedule() {
+    popModal("schedule-background");
+}
+
+document.getElementById("schedule-background").onclick = (e) => {
+    if (e.target.id === "schedule-background") hideSchedule();
+};
+
+async function showSchedule(row) {
+    pushModal("schedule-background");
+    document.getElementById("schedule-header").textContent =
+        ownerName(row.teamNumber, row.season) + " " + row.season + " schedule";
+
+    const params = new URLSearchParams({
+        teamNumbers: row.teamNumber, startSeason: row.season, endSeason: row.season,
+        includeMultiWeek: "true", sort: "points_desc",
+    });
+    const games = (await getJSON("/api/games?" + params.toString())) || [];
+    games.sort((a, b) => a.scoringPeriod - b.scoringPeriod);
+    renderSchedule(games);
+}
+
+function renderSchedule(games) {
+    const container = document.getElementById("schedule-results");
+    container.innerHTML = "";
+
+    games.forEach(g => {
+        const label = document.createElement("div");
+        label.className = "schedule-week-label";
+        const outcome = g.win ? "W" : g.loss ? "L" : "T";
+        label.textContent = "week " + g.scoringPeriod + (g.weeksCovered > 1 ? " (2wk)" : "") +
+            " -- " + g.teamPoints + "-" + g.opponentPoints + " (" + outcome + ")";
+        container.appendChild(label);
+
+        const box = document.createElement("div");
+        box.className = "game-entry-box";
+        box.appendChild(buildGameTeamPanel({ teamNumber: g.teamNumber, points: g.teamPoints, players: g.players }, g.season));
+        box.appendChild(buildGameTeamPanel({ teamNumber: g.opponentTeamNumber, points: g.opponentPoints, players: g.opponentPlayers }, g.season));
+        container.appendChild(box);
+    });
 }
 
 const POSITION_ORDER = ["QB", "RB", "RB/WR", "WR", "WR/TE", "TE", "D/ST", "K"];
@@ -515,7 +772,6 @@ function buildGameTeamPanel(side, season, elementId, onPlayerClick) {
 }
 
 function defaultPlayerClick(playerNumber) {
-    hideGame();
     showPlayer(playerNumber);
 }
 
@@ -532,8 +788,12 @@ async function init() {
     buildPositionCheckboxes();
     buildSeasonSelects();
     buildGamesFilters();
+    buildPositionsFilters();
+    buildTeamsFilters();
     document.getElementById("mode-players").onclick = () => setMode("players");
     document.getElementById("mode-games").onclick = () => setMode("games");
+    document.getElementById("mode-positions").onclick = () => setMode("positions");
+    document.getElementById("mode-teams").onclick = () => setMode("teams");
     document.addEventListener("click", closeAllOwnerDropdowns);
     loadStats();
 }

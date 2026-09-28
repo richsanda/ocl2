@@ -117,14 +117,50 @@ def strip_injury_flag(name):
     return m.group(1) if m else name
 
 
+_TEAM_RE = re.compile(r",\s*(\S+)\s+" + _POSITION_TOKEN + r"\s*$")
+
+
+def extract_team(name):
+    """Pulls the pro-team abbreviation out of an old-format raw name (e.g. "Chi" from
+    "Adrian Peterson, Chi RB"), used only to disambiguate IDENTITY_OVERRIDES below --
+    this old scraped data apparently assigns a fresh internal plyr id fairly often even
+    for the SAME real athlete (e.g. one player using 10 different ids across a single
+    season), so splitting by raw id alone is unreliable; the team code is a much more
+    stable per-person-per-era signal."""
+    m = _TEAM_RE.search(name)
+    return m.group(1) if m else None
+
+
+# hand-confirmed real-world name collisions where two different actual NFL players
+# share an exact name and our normal number/name-index merge logic combined them into
+# one identity. Keyed by (clean display name, team abbrev from the raw old-format
+# name) -> a distinct, disambiguated identity. Any (name, team) combo NOT listed here
+# keeps falling through to the normal resolution logic (number match, then name-index
+# fallback) unaffected -- e.g. "Mike Williams"+"LAC" is deliberately absent here since
+# that's the current Chargers Mike Williams, who should stay the default identity.
+IDENTITY_OVERRIDES = {
+    ("Adrian Peterson", "Chi"): "Adrian Peterson (Bears, 2002-2010)",
+    ("Mike Williams", "TB"): "Mike Williams (Bucs/Bills, 2010-2014)",
+    ("Mike Williams", "Buf"): "Mike Williams (Bucs/Bills, 2010-2014)",
+    ("Mike Williams", "Sea"): "Mike Williams (Seahawks, 2010)",
+    ("Zach Miller", "Chi"): "Zach Miller (Bears, 2015-2017)",
+    ("Alex Smith", "TB"): "Alex Smith (TE)",
+    ("Chris Henry", "Ten"): "Chris Henry (Titans RB)",
+    ("Matt Jones", "Wsh"): "Matt Jones (Redskins RB)",
+}
+
+
 def display_name(name):
     """Old-format names carry a trailing ", Team POS" (the position is already recorded
     separately, see derive_position_from_name()) that only ever got cleaned up if the
     player also appeared in post-2019 data, which overwrites the stored display name.
     Strip it uniformly so a player who retired before 2019 shows just as cleanly as one
     who didn't (e.g. "Tony Romo" instead of "Tony Romo, Dal QB"). D/ST names have no
-    comma and pass through unchanged."""
-    return name.split(",", 1)[0].strip()
+    comma and pass through unchanged. Some years also mark an injury-flagged player
+    with a literal "*" before the comma (e.g. "Zach Miller*, Chi TE  IR") -- same idea
+    as the trailing Q/D/O/IR flags stripped elsewhere, just positioned differently;
+    drop it too so it doesn't survive into the display name or break name matching."""
+    return name.split(",", 1)[0].strip().rstrip("*").strip()
 
 
 def index_name(name):
@@ -144,7 +180,23 @@ class PlayerRegistry:
         self.by_key = {}       # ("pre2018"|"v3", source_id) -> player_id
         self.by_name = {}      # indexed name -> set(player_id)
 
-    def resolve(self, name, source_id, is_v3):
+    def resolve(self, name, source_id, is_v3, team=None):
+        override_label = IDENTITY_OVERRIDES.get((name, team))
+        if override_label:
+            key = ("override", override_label)
+            player_id = self.by_key.get(key)
+            if player_id is None:
+                cur = self.conn.execute(
+                    "INSERT INTO players (name, name_indexed, pre2018_player_number, player_number) VALUES (?, ?, ?, ?)",
+                    (override_label, index_name(override_label), source_id if not is_v3 else None, source_id if is_v3 else None),
+                )
+                player_id = cur.lastrowid
+            self.by_key[key] = player_id
+            # deliberately NOT added to self.by_name -- must stay unreachable via the
+            # ordinary name-fallback match, or a later same-name-different-team record
+            # could get merged right back into it.
+            return player_id
+
         scheme = "v3" if is_v3 else "pre2018"
         key = (scheme, source_id)
 
@@ -288,6 +340,7 @@ def parse_xml_games():
                 players.append({
                     "source_id": int(m.group()),
                     "name": display_name(raw_name),
+                    "team": extract_team(raw_name),
                     "position": slot or derive_position_from_name(raw_name),
                     "opponent": (p.findtext("opponent") or "").strip(),
                     "game_status": (p.findtext("game-status") or "").strip(),
@@ -466,7 +519,7 @@ def insert_game(conn, registry, *, season, scoring_period, home_number, home_hea
         for p in players:
             if not p["name"] or p["source_id"] is None:
                 continue
-            player_id = registry.resolve(p["name"], p["source_id"], is_v3)
+            player_id = registry.resolve(p["name"], p["source_id"], is_v3, team=p.get("team"))
             conn.execute(
                 "INSERT INTO player_weeks (team_week_id, player_id, player_name, position, player_pro_team, "
                 "opponent, game_status, points) VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
@@ -485,6 +538,69 @@ def insert_team_week(conn, game_id, team_number, header, is_home, points, wlt):
     return cur.lastrowid
 
 
+# players who never had a single clean (non-flex) week anywhere in the dataset -- no
+# internal signal to resolve from, so their true position is filled in by hand here.
+FLEX_ONLY_POSITION_OVERRIDES = {
+    "C.J. Prosise": "RB",
+    "Corey Coleman": "WR",
+    "Dontrelle Inman": "WR",
+    "Dwayne Washington": "RB",
+    "Eli Rogers": "WR",
+    "J.J. Nelson": "WR",
+    "Josh Adams": "RB",
+    "Keelan Cole": "WR",
+    "Marquise Goodwin": "WR",
+    "Mike Gillislee": "RB",
+    "Peyton Barber": "RB",
+    "Phillip Dorsett": "WR",
+    "Quincy Enunwa": "WR",
+    "Rob Kelley": "RB",
+    "Royce Freeman": "RB",
+}
+
+
+def resolve_flex_positions(conn):
+    """Old-format years label a flex start's position as the roster SLOT ("RB/WR",
+    "WR/TE") rather than the player's true position. If we know that player's TRUE
+    position from any of their OTHER weeks (any era -- v3-era rows are always a true
+    position, never a flex slot), retroactively relabel the flex rows to match, so
+    e.g. Alshon Jeffery's flex-started weeks count toward WR instead of fragmenting
+    into a separate "WR/TE" bucket. A player whose every single week happens to be
+    flex-labeled has no internal signal to resolve from -- those fall back to
+    FLEX_ONLY_POSITION_OVERRIDES (filled in by hand), and anyone not in that table
+    either is left as-is."""
+    from collections import Counter
+
+    counts = {}  # player_id -> Counter(clean position -> count)
+    placeholders = ",".join("?" * len(KNOWN_POSITIONS))
+    for player_id, position in conn.execute(
+        f"SELECT player_id, position FROM player_weeks WHERE position IN ({placeholders})",
+        list(KNOWN_POSITIONS),
+    ):
+        counts.setdefault(player_id, Counter())[position] += 1
+    canonical = {pid: c.most_common(1)[0][0] for pid, c in counts.items()}
+
+    flex_rows = conn.execute(
+        f"""
+        SELECT pw.id, pw.player_id, pw.position, p.name
+        FROM player_weeks pw JOIN players p ON p.id = pw.player_id
+        WHERE pw.position NOT IN ({placeholders})
+        """,
+        list(KNOWN_POSITIONS),
+    ).fetchall()
+
+    updated = 0
+    manual = 0
+    for row_id, player_id, position, name in flex_rows:
+        new_position = canonical.get(player_id) or FLEX_ONLY_POSITION_OVERRIDES.get(name)
+        if new_position and new_position != position:
+            conn.execute("UPDATE player_weeks SET position = ? WHERE id = ?", (new_position, row_id))
+            updated += 1
+            if player_id not in canonical:
+                manual += 1
+    print(f"  resolved {updated}/{len(flex_rows)} flex-slot rows to their player's true position ({manual} via hand-filled overrides)")
+
+
 def main():
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     if DB_PATH.exists():
@@ -501,6 +617,8 @@ def main():
 
     print("Loading ESPN v3 JSON matchups (2019+)...")
     load_json_matchups(conn, registry)
+
+    resolve_flex_positions(conn)
 
     conn.commit()
 

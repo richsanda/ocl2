@@ -100,6 +100,44 @@ button.mode-btn.active {
     margin: 20px;
 }
 
+#positions-results {
+    margin: 20px;
+}
+
+#team-seasons-results {
+    margin: 20px;
+}
+
+div.position-row {
+    display: grid;
+    grid-template-columns: 36px 60px 50px 130px 60px 70px 1fr;
+    align-items: center;
+    column-gap: 12px;
+    padding: 4px 10px;
+    border-bottom: 1px solid #333;
+    font-size: 1.02em;
+}
+
+div.team-season-row {
+    display: grid;
+    grid-template-columns: 36px 60px 130px 60px 70px 1fr;
+    align-items: center;
+    column-gap: 12px;
+    padding: 4px 10px;
+    border-bottom: 1px solid #333;
+    font-size: 1.02em;
+}
+
+div.team-season-row:hover {
+    background-color: rgba(100, 100, 100, 0.35);
+    cursor: pointer;
+}
+
+div.position-row:hover {
+    background-color: rgba(100, 100, 100, 0.35);
+    cursor: pointer;
+}
+
 details.game-entry {
     border: 1px solid #444;
     margin-bottom: 6px;
@@ -196,7 +234,9 @@ div.stat-graph-active {
     text-align: center;
 }
 
-#feature-background, #game-background {
+/* z-index assigned dynamically per modal by pushModal()/reindexModals() in app.js,
+   reflecting stack order rather than a fixed per-type tier */
+#feature-background, #game-background, #position-detail-background, #schedule-background {
     position: fixed;
     display: none;
     width: 100%;
@@ -206,10 +246,7 @@ div.stat-graph-active {
     background-color: rgba(0, 0, 0, 0.6);
 }
 
-#feature-background { z-index: 2; }
-#game-background { z-index: 3; }
-
-#feature, #game {
+#feature, #game, #position-detail, #schedule {
     max-height: 80%;
     overflow-y: auto;
     font-size: 1.1em;
@@ -219,6 +256,43 @@ div.stat-graph-active {
     max-width: 1000px;
     background-color: rgb(240, 240, 240);
     border-radius: 6px;
+}
+
+button.schedule-btn {
+    /* background-color/opacity set inline in JS, team-colored at "5-point week" intensity */
+    font-size: 0.6em;
+    padding: 4px 10px;
+    color: #111;
+    border: 1px solid gray;
+    border-radius: 3px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+button.schedule-btn:hover {
+    border-color: #333;
+}
+
+div.schedule-week-label {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin: 20px 0 4px 0;
+    border-bottom: 1px solid #999;
+    padding-bottom: 4px;
+}
+
+div.schedule-week-label:first-child {
+    margin-top: 0;
+}
+
+/* a dedicated thin spacer ROW between position groups (rather than a border on the
+   content cells themselves), so it doesn't collide with the colored cells' own
+   backgrounds right up against it */
+.grid-divider {
+    height: 3px;
+    align-self: center;
+    background-color: #888;
+    border-radius: 2px;
 }
 
 div.player-header {
@@ -251,6 +325,23 @@ div.player-header {
 .grid-header {
     font-weight: bold;
     color: #333;
+}
+
+.grid-wide-label {
+    grid-template-columns: 55px 150px repeat(17, 44px);
+}
+
+.grid-row-label {
+    justify-content: flex-start;
+    padding-left: 6px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.grid-row-label:hover {
+    background-color: rgba(100, 100, 100, 0.2);
+    cursor: pointer;
 }
 
 div.game-header {
@@ -303,7 +394,7 @@ div.game-row-title {
         text-overflow: clip;
     }
 
-    #feature, #game {
+    #feature, #game, #position-detail, #schedule {
         margin: 10px auto;
         padding: 15px;
         max-width: 100%;
@@ -316,6 +407,12 @@ div.game-row-title {
         width: 100%;
         margin: 10px 0;
         box-sizing: border-box;
+    }
+
+    div.position-row, div.team-season-row {
+        grid-template-columns: 1fr;
+        row-gap: 2px;
+        padding: 8px 10px;
     }
 }
 

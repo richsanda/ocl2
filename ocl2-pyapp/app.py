@@ -319,6 +319,251 @@ def games_list():
     return jsonify(results[:RESULT_SIZE])
 
 
+CONTRIBUTOR_THRESHOLD_PCT = 10
+MAX_CONTRIBUTORS = 4
+
+
+def split_contributors(sorted_players, total):
+    """sorted_players: [(player_id, name, points), ...] descending by points.
+    Always includes the top player; additional players only if their share of the
+    season's total at that position exceeds CONTRIBUTOR_THRESHOLD_PCT, capped at
+    MAX_CONTRIBUTORS total. Returns (capped_list, full_list), both [{name, pct}, ...]."""
+    all_contributors = []
+    capped = []
+    for i, (player_id, name, points) in enumerate(sorted_players):
+        pct = round(points / total * 100, 1) if total else 0.0
+        all_contributors.append({"name": name, "pct": pct})
+        if len(capped) < MAX_CONTRIBUTORS and (i == 0 or pct > CONTRIBUTOR_THRESHOLD_PCT):
+            capped.append({"name": name, "pct": pct})
+    return capped, all_contributors
+
+
+@app.route("/api/positions")
+def positions_view():
+    db = get_db()
+
+    team_numbers = csv_ints(request.args.get("teamNumbers", "")) or list(TEAM_OWNERS.keys())
+    positions = csv_strs(request.args.get("positions", "")) or ALL_POSITIONS
+    start_season = int(request.args.get("startSeason", 2005))
+    end_season = int(request.args.get("endSeason", 2100))
+    sort = request.args.get("sort", "points_desc")
+
+    team_placeholders = ",".join("?" * len(team_numbers))
+
+    records = {}
+    for r in db.execute(
+        f"SELECT tw.team_number, g.season, tw.win, tw.loss, tw.tie FROM team_weeks tw "
+        f"JOIN games g ON g.id = tw.game_id "
+        f"WHERE tw.team_number IN ({team_placeholders}) AND g.season BETWEEN ? AND ?",
+        (*team_numbers, start_season, end_season),
+    ):
+        key = (r["team_number"], r["season"])
+        rec = records.setdefault(key, {"wins": 0, "losses": 0, "ties": 0})
+        rec["wins"] += r["win"]
+        rec["losses"] += r["loss"]
+        rec["ties"] += r["tie"]
+
+    # (team_number, season, position) -> {player_id: (name, points)}
+    buckets = {}
+    for r in db.execute(
+        f"""
+        SELECT pw.points, pw.position, p.id AS player_id, p.name, tw.team_number, g.season
+        FROM player_weeks pw
+        JOIN players p ON p.id = pw.player_id
+        JOIN team_weeks tw ON tw.id = pw.team_week_id
+        JOIN games g ON g.id = tw.game_id
+        WHERE tw.team_number IN ({team_placeholders}) AND g.season BETWEEN ? AND ?
+        """,
+        (*team_numbers, start_season, end_season),
+    ):
+        key = (r["team_number"], r["season"], r["position"])
+        bucket = buckets.setdefault(key, {})
+        pid = r["player_id"]
+        name, points = bucket.get(pid, (r["name"], 0.0))
+        bucket[pid] = (name, points + r["points"])
+
+    by_position = {pos: [] for pos in positions}
+    for (team_number, season, position), players in buckets.items():
+        if position not in by_position:
+            continue
+        sorted_players = sorted(
+            ((pid, name, points) for pid, (name, points) in players.items()),
+            key=lambda x: -x[2],
+        )
+        total = sum(p[2] for p in sorted_players)
+        contributors, all_contributors = split_contributors(sorted_players, total)
+        rec = records.get((team_number, season), {"wins": 0, "losses": 0, "ties": 0})
+        by_position[position].append({
+            "teamNumber": team_number,
+            "season": season,
+            "position": position,
+            "points": total,
+            "wins": rec["wins"],
+            "losses": rec["losses"],
+            "ties": rec["ties"],
+            "contributors": contributors,
+            "allContributors": all_contributors,
+        })
+
+    # rank is always "Nth best season at THIS position for this team-number pool" --
+    # computed within each position's own group, since points aren't comparable across
+    # positions (a 140-pt kicker season isn't "worse" than a 300-pt QB season).
+    for rows in by_position.values():
+        rows.sort(key=lambda x: (-x["points"], x["teamNumber"], x["season"]))
+        for i, row in enumerate(rows):
+            row["rank"] = i + 1
+
+    # but DISPLAY is one flat, interleaved list across every selected position (no
+    # per-position grouping/headers) -- secondary (team, season, position) keys just
+    # make ties deterministic across repeated calls.
+    def lead_pct(x):
+        return x["contributors"][0]["pct"] if x["contributors"] else 0
+
+    all_rows = [row for rows in by_position.values() for row in rows]
+    sort_keys = {
+        "points_desc": lambda x: (-x["points"], x["teamNumber"], x["season"], x["position"]),
+        "points_asc": lambda x: (x["points"], x["teamNumber"], x["season"], x["position"]),
+        "year_desc": lambda x: (-x["season"], x["teamNumber"], x["position"]),
+        "year_asc": lambda x: (x["season"], x["teamNumber"], x["position"]),
+        "lead_pct_desc": lambda x: (-lead_pct(x), x["teamNumber"], x["season"], x["position"]),
+        "lead_pct_asc": lambda x: (lead_pct(x), x["teamNumber"], x["season"], x["position"]),
+    }
+    all_rows.sort(key=sort_keys.get(sort, sort_keys["points_desc"]))
+
+    return jsonify(all_rows)
+
+
+@app.route("/api/team-seasons")
+def team_seasons_view():
+    """Same shape and algorithm as /api/positions, but totals span a team's WHOLE
+    roster for the season instead of one position -- no position grouping/column."""
+    db = get_db()
+
+    team_numbers = csv_ints(request.args.get("teamNumbers", "")) or list(TEAM_OWNERS.keys())
+    start_season = int(request.args.get("startSeason", 2005))
+    end_season = int(request.args.get("endSeason", 2100))
+    sort = request.args.get("sort", "points_desc")
+
+    team_placeholders = ",".join("?" * len(team_numbers))
+
+    records = {}
+    for r in db.execute(
+        f"SELECT tw.team_number, g.season, tw.win, tw.loss, tw.tie FROM team_weeks tw "
+        f"JOIN games g ON g.id = tw.game_id "
+        f"WHERE tw.team_number IN ({team_placeholders}) AND g.season BETWEEN ? AND ?",
+        (*team_numbers, start_season, end_season),
+    ):
+        key = (r["team_number"], r["season"])
+        rec = records.setdefault(key, {"wins": 0, "losses": 0, "ties": 0})
+        rec["wins"] += r["win"]
+        rec["losses"] += r["loss"]
+        rec["ties"] += r["tie"]
+
+    # (team_number, season) -> {player_id: (name, points)}
+    buckets = {}
+    for r in db.execute(
+        f"""
+        SELECT pw.points, p.id AS player_id, p.name, tw.team_number, g.season
+        FROM player_weeks pw
+        JOIN players p ON p.id = pw.player_id
+        JOIN team_weeks tw ON tw.id = pw.team_week_id
+        JOIN games g ON g.id = tw.game_id
+        WHERE tw.team_number IN ({team_placeholders}) AND g.season BETWEEN ? AND ?
+        """,
+        (*team_numbers, start_season, end_season),
+    ):
+        key = (r["team_number"], r["season"])
+        bucket = buckets.setdefault(key, {})
+        pid = r["player_id"]
+        name, points = bucket.get(pid, (r["name"], 0.0))
+        bucket[pid] = (name, points + r["points"])
+
+    rows = []
+    for (team_number, season), players in buckets.items():
+        sorted_players = sorted(
+            ((pid, name, points) for pid, (name, points) in players.items()),
+            key=lambda x: -x[2],
+        )
+        total = sum(p[2] for p in sorted_players)
+        contributors, all_contributors = split_contributors(sorted_players, total)
+        rec = records.get((team_number, season), {"wins": 0, "losses": 0, "ties": 0})
+        rows.append({
+            "teamNumber": team_number,
+            "season": season,
+            "points": total,
+            "wins": rec["wins"],
+            "losses": rec["losses"],
+            "ties": rec["ties"],
+            "contributors": contributors,
+            "allContributors": all_contributors,
+        })
+
+    rows.sort(key=lambda x: (-x["points"], x["teamNumber"], x["season"]))
+    for i, row in enumerate(rows):
+        row["rank"] = i + 1
+
+    def lead_pct(x):
+        return x["contributors"][0]["pct"] if x["contributors"] else 0
+
+    sort_keys = {
+        "points_desc": lambda x: (-x["points"], x["teamNumber"], x["season"]),
+        "points_asc": lambda x: (x["points"], x["teamNumber"], x["season"]),
+        "year_desc": lambda x: (-x["season"], x["teamNumber"]),
+        "year_asc": lambda x: (x["season"], x["teamNumber"]),
+        "lead_pct_desc": lambda x: (-lead_pct(x), x["teamNumber"], x["season"]),
+        "lead_pct_asc": lambda x: (lead_pct(x), x["teamNumber"], x["season"]),
+    }
+    rows.sort(key=sort_keys.get(sort, sort_keys["points_desc"]))
+
+    return jsonify(rows)
+
+
+@app.route("/api/position-detail")
+def position_detail():
+    """position is optional: given, returns just that position's players (single
+    group); omitted, returns EVERY position's players together, grouped in canonical
+    position order then first appearance within each group -- used by the teams view
+    to show a full roster sectioned QB/RB/WR/TE/D-ST/K like a baseball box score."""
+    db = get_db()
+    team_number = request.args.get("teamNumber", type=int)
+    season = request.args.get("season", type=int)
+    position = request.args.get("position")
+
+    query = """
+        SELECT pw.points, pw.position, g.scoring_period, p.id AS player_id, p.name, tw.win, tw.loss, tw.tie
+        FROM player_weeks pw
+        JOIN players p ON p.id = pw.player_id
+        JOIN team_weeks tw ON tw.id = pw.team_week_id
+        JOIN games g ON g.id = tw.game_id
+        WHERE tw.team_number = ? AND g.season = ?
+    """
+    params = [team_number, season]
+    if position:
+        query += " AND pw.position = ?"
+        params.append(position)
+    query += " ORDER BY g.scoring_period"
+
+    rows = db.execute(query, params).fetchall()
+
+    players = {}
+    first_week = {}
+    for r in rows:
+        pid = r["player_id"]
+        if pid not in players:
+            players[pid] = {"playerId": pid, "name": r["name"], "position": r["position"], "weeks": {}}
+            first_week[pid] = r["scoring_period"]
+        players[pid]["weeks"][r["scoring_period"]] = {
+            "points": r["points"], "win": bool(r["win"]), "loss": bool(r["loss"]), "tie": bool(r["tie"]),
+        }
+
+    position_order = {pos: i for i, pos in enumerate(ALL_POSITIONS)}
+    ordered = sorted(
+        players.values(),
+        key=lambda p: (position_order.get(p["position"], 99), first_week[p["playerId"]], p["playerId"]),
+    )
+    return jsonify({"players": ordered})
+
+
 @app.route("/api/game/<int:season>/<int:scoring_period>/<int:team_number>")
 def game_detail(season, scoring_period, team_number):
     db = get_db()
