@@ -38,6 +38,20 @@ function ownerName(teamNumber, season) {
 }
 
 function buildIndices() {
+    // distinct (season, week, weeksCovered) per season, ordered by week -- mirrors
+    // app.py's /api/meta periodsBySeason, derived here from GAMES instead of a live query
+    const periodSet = new Map(); // season -> Map(week -> weeksCovered)
+    for (const g of GAMES) {
+        if (!periodSet.has(g.season)) periodSet.set(g.season, new Map());
+        periodSet.get(g.season).set(g.week, g.weeksCovered);
+    }
+    META.periodsBySeason = {};
+    for (const [season, weekMap] of periodSet) {
+        META.periodsBySeason[season] = [...weekMap.entries()]
+            .sort((a, b) => a[0] - b[0])
+            .map(([period, weeksCovered]) => ({ period, weeksCovered }));
+    }
+
     GAME_TEAM_INFO = new Map();
     for (const g of GAMES) {
         const homeWlt = g.homePoints > g.awayPoints ? [1, 0, 0] : g.awayPoints > g.homePoints ? [0, 1, 0] : [0, 0, 1];
@@ -62,6 +76,10 @@ function buildIndices() {
         if (!PLAYERS_BY_GAME_TEAM.has(key)) PLAYERS_BY_GAME_TEAM.set(key, []);
         PLAYERS_BY_GAME_TEAM.get(key).push(pw);
     }
+
+    META.maxGames = Math.max(0, ...[...WEEKS_BY_PLAYER.values()].map(weeks =>
+        weeks.reduce((s, w) => s + GAME_TEAM_INFO.get(w.gameNumber + ":" + w.teamNumber).weeksCovered, 0)
+    ));
 }
 
 function gameNumber(season, week) {
@@ -77,7 +95,7 @@ function pointsPerTeam(rows) {
 
 // -- ports of the three Flask endpoints, now querying in-memory arrays --
 
-function queryPlayersPoints({ teamNumbers, positions, startSeason, endSeason, startWeek = 1, endWeek = 17 }) {
+function queryPlayersPoints({ teamNumbers, positions, startSeason, endSeason, startWeek = 1, endWeek = 17, sort, minGames }) {
     const teams = teamNumbers && teamNumbers.length ? new Set(teamNumbers) : new Set(META.teams.map(t => t.teamNumber));
     const posSet = positions && positions.length ? new Set(positions) : new Set(META.positions);
     const startGame = gameNumber(startSeason, startWeek);
@@ -98,12 +116,18 @@ function queryPlayersPoints({ teamNumbers, positions, startSeason, endSeason, st
         const info = weeks.map(w => GAME_TEAM_INFO.get(w.gameNumber + ":" + w.teamNumber));
         const currentWeeks = weeks.filter(w => w.gameNumber === currentGame);
         const currentPpt = currentWeeks.length ? pointsPerTeam(currentWeeks)[0] : null;
+        const totalPoints = weeks.reduce((s, w) => s + w.points, 0);
+        // a 2-week combined playoff round already carries its full 2-week point total in a
+        // single player-week entry -- count it as 2 games (not 1) so the average isn't
+        // inflated by treating a double-length game as if it were a normal single week
+        const games = info.reduce((s, i) => s + i.weeksCovered, 0);
         results.push({
             playerId,
             name: weeks[0].name,
             position: weeks[0].position,
-            points: weeks.reduce((s, w) => s + w.points, 0),
-            games: weeks.length,
+            points: totalPoints,
+            games,
+            average: Math.round((totalPoints / games) * 10) / 10,
             wins: info.reduce((s, i) => s + i.win, 0),
             losses: info.reduce((s, i) => s + i.loss, 0),
             ties: info.reduce((s, i) => s + i.tie, 0),
@@ -112,8 +136,16 @@ function queryPlayersPoints({ teamNumbers, positions, startSeason, endSeason, st
         });
     }
 
-    results.sort((a, b) => b.points - a.points);
-    return results.slice(0, RESULT_SIZE);
+    const filtered = minGames != null ? results.filter(r => r.games >= minGames) : results;
+
+    const sortKeys = {
+        points_desc: (a, b) => b.points - a.points,
+        games_desc: (a, b) => b.games - a.games,
+        average_desc: (a, b) => b.average - a.average,
+        average_asc: (a, b) => a.average - b.average,
+    };
+    filtered.sort(sortKeys[sort] || sortKeys.points_desc);
+    return filtered.slice(0, RESULT_SIZE);
 }
 
 function queryPlayerDetail(playerId) {
@@ -234,6 +266,8 @@ function queryGamesList({ teamNumbers, startSeason, endSeason, startWeek = 1, en
         margin_asc: (a, b) => (Math.abs(a.teamPoints - a.opponentPoints) - Math.abs(b.teamPoints - b.opponentPoints)) || totalDesc(a, b) || winFirst(a, b),
         total_desc: (a, b) => totalDesc(a, b) || winFirst(a, b),
         total_asc: (a, b) => ((a.teamPoints + a.opponentPoints) - (b.teamPoints + b.opponentPoints)) || winFirst(a, b),
+        chrono_asc: (a, b) => (a.season - b.season) || (a.scoringPeriod - b.scoringPeriod) || winFirst(a, b),
+        chrono_desc: (a, b) => (b.season - a.season) || (b.scoringPeriod - a.scoringPeriod) || winFirst(a, b),
     };
     results.sort(sortKeys[sort] || sortKeys.points_desc);
     return results.slice(0, RESULT_SIZE);
@@ -614,6 +648,15 @@ function buildSeasonSelects() {
     endSel.onchange = refresh;
 }
 
+function buildPlayersFilters() {
+    const minGamesSel = document.getElementById("min-games-filter");
+    for (let n = 2; n <= META.maxGames; n += (n < 20 ? 1 : 5)) minGamesSel.appendChild(new Option(n, n));
+
+    document.getElementById("players-sort-filter").onchange = refresh;
+    document.getElementById("min-games-filter-enabled").onchange = refresh;
+    minGamesSel.onchange = refresh;
+}
+
 function buildGamesFilters() {
     const ruxbeeSel = document.getElementById("ruxbee-filter");
     ruxbeeSel.appendChild(new Option("none", ""));
@@ -637,6 +680,7 @@ function setMode(newMode) {
     document.getElementById("mode-positions").classList.toggle("active", mode === "positions");
     document.getElementById("mode-teams").classList.toggle("active", mode === "teams");
     document.getElementById("position-filter-wrap").style.display = (mode === "players" || mode === "positions") ? "" : "none";
+    document.getElementById("players-filters").style.display = mode === "players" ? "" : "none";
     document.getElementById("games-filters").style.display = mode === "games" ? "" : "none";
     document.getElementById("positions-filters").style.display = mode === "positions" ? "" : "none";
     document.getElementById("teams-filters").style.display = mode === "teams" ? "" : "none";
@@ -666,6 +710,9 @@ function loadStats() {
         positions: Array.from(selectedPositions),
         startSeason: Number(document.getElementById("start-season").value),
         endSeason: Number(document.getElementById("end-season").value),
+        sort: document.getElementById("players-sort-filter").value,
+        minGames: document.getElementById("min-games-filter-enabled").checked
+            ? Number(document.getElementById("min-games-filter").value) : null,
     });
     renderStats(stats);
 }
@@ -838,7 +885,10 @@ function renderTeamSeasons(rows) {
 function renderStats(stats) {
     const container = document.getElementById("results");
     container.innerHTML = "";
-    const maxPoints = stats.length ? stats[0].points : 1;
+    // was assuming stats[0] (the top-sorted row) had the highest points total, which only
+    // holds when sorting by points -- with games/average sorts the longest bar can be
+    // anywhere in the list, so scale against the true max or bars overflow past 100% width
+    const maxPoints = stats.length ? Math.max(...stats.map(s => s.points)) : 1;
 
     stats.forEach((stat, index) => {
         const row = document.createElement("div");
@@ -849,6 +899,8 @@ function renderStats(stats) {
         const position = col(stat.position, "");
         const name = col(stat.name, "");
         const points = col(String(stat.points), "");
+        const games = col(String(stat.games), "");
+        const average = col(String(stat.average), "");
         const record = col(record_(stat), "");
         const current = col("", "stat-graph-active");
         if (stat.currentPointsPerTeam) {
@@ -867,7 +919,7 @@ function renderStats(stats) {
             graph.appendChild(bar);
         }
 
-        [rank, position, name, points, record, current, graph].forEach(c => row.appendChild(c));
+        [rank, position, name, points, games, average, record, current, graph].forEach(c => row.appendChild(c));
         container.appendChild(row);
     });
 }
@@ -900,33 +952,40 @@ function renderPlayerGrid(player) {
     const grid = document.getElementById("player-grid");
     grid.innerHTML = "";
 
-    const bySeasonWeek = {};
+    const bySeasonPeriod = {};
     let minSeason = META.maxSeason, maxSeason = META.minSeason;
     for (const g of player.gameStats) {
-        bySeasonWeek[g.season + ":" + g.scoringPeriod] = g;
+        bySeasonPeriod[g.season + ":" + g.scoringPeriod] = g;
         minSeason = Math.min(minSeason, g.season);
         maxSeason = Math.max(maxSeason, g.season);
     }
 
-    grid.appendChild(gridItem("", true));
-    for (let w = 1; w <= 17; w++) grid.appendChild(gridItem(String(w), true));
+    // header row: blank + running real-week numbers (a 2-week combined period counts as 2
+    // columns here, so these numbers track real NFL week, not raw scoringPeriodId)
+    const maxCols = maxWeekColumns();
+    placeGridItem(grid, gridItem("", true), 1, 1, 1);
+    for (let w = 1; w <= maxCols; w++) placeGridItem(grid, gridItem(String(w), true), 1, w + 1, 1);
 
     for (let season = minSeason; season <= maxSeason; season++) {
-        grid.appendChild(gridItem(String(season), true));
-        for (let w = 1; w <= 17; w++) {
-            const g = bySeasonWeek[season + ":" + w];
+        const row = season - minSeason + 2;
+        placeGridItem(grid, gridItem(String(season), true), row, 1, 1);
+
+        const layout = seasonPeriodLayout(season);
+        for (const p of layout.periods) {
+            const g = bySeasonPeriod[season + ":" + p.period];
+            let item;
             if (g) {
-                const item = gridItem(g.points + wlt(g), false);
+                item = gridItem(g.points + wlt(g), false);
                 item.style.backgroundColor = TEAM_COLORS[g.teamNumber];
                 item.style.opacity = (g.points + 10) / 40;
                 item.title = ownerName(g.teamNumber, g.season) + ": " + g.points + " (" + wlt(g).toUpperCase() +
                     " v " + ownerName(g.opponentTeamNumber, g.season) + ", " + g.teamPoints + "-" + g.opponentPoints + ")";
                 item.classList.add("game-summary");
                 item.onclick = () => showGame(g.season, g.scoringPeriod, g.teamNumber);
-                grid.appendChild(item);
             } else {
-                grid.appendChild(gridItem("", false));
+                item = gridItem("", false);
             }
+            placeGridItem(grid, item, row, p.colStart + 1, p.span);
         }
     }
 }
@@ -942,6 +1001,53 @@ function gridItem(text, isHeader) {
     div.className = "grid-item" + (isHeader ? " grid-header" : "");
     div.textContent = text;
     return div;
+}
+
+// explicit grid-row/grid-column placement -- every cell in a week-grid declares its own
+// position rather than relying on auto-flow, since a season's periods can span a variable
+// number of real-week columns (2-week combined playoff rounds) and still need to line up
+// under the correct real-week header across rows/seasons that don't share that layout.
+function placeGridItem(grid, item, row, col, span) {
+    item.style.gridRow = String(row);
+    item.style.gridColumn = span > 1 ? `${col} / span ${span}` : String(col);
+    grid.appendChild(item);
+    return item;
+}
+
+const _periodLayoutCache = {};
+
+// {periods: [{period, colStart, span}, ...] in period order, totalCols}. colStart/span are
+// real-week column positions (1-based) -- a 2-week combined period occupies 2 columns, so
+// column numbers "run" ahead of raw scoringPeriodId once the first one appears. That's
+// intentional: the displayed axis is real NFL week, not ESPN's period index.
+function seasonPeriodLayout(season) {
+    if (_periodLayoutCache[season]) return _periodLayoutCache[season];
+    const periods = (META.periodsBySeason && META.periodsBySeason[season]) || [];
+    let col = 1;
+    const list = [];
+    for (const p of periods) {
+        list.push({ period: p.period, colStart: col, span: p.weeksCovered });
+        col += p.weeksCovered;
+    }
+    const layout = { periods: list, totalCols: col - 1 };
+    _periodLayoutCache[season] = layout;
+    return layout;
+}
+
+let _maxWeekColumnsCache = null;
+
+function maxWeekColumns() {
+    if (_maxWeekColumnsCache != null) return _maxWeekColumnsCache;
+    let max = 0;
+    for (const season in (META.periodsBySeason || {})) {
+        max = Math.max(max, seasonPeriodLayout(Number(season)).totalCols);
+    }
+    _maxWeekColumnsCache = max || 17;
+    return _maxWeekColumnsCache;
+}
+
+function weekLabel(p) {
+    return p.span > 1 ? (p.colStart + "-" + (p.colStart + p.span - 1)) : String(p.colStart);
 }
 
 // -- modal stack: opening a modal pushes it on top WITHOUT hiding whatever's already
@@ -1019,12 +1125,17 @@ function renderPositionDetail(row, detail) {
     const grid = document.getElementById("position-detail-grid");
     grid.innerHTML = "";
 
-    // header row: 2 blank (position + name) + week numbers 1-17
-    grid.appendChild(gridItem("", true));
-    grid.appendChild(gridItem("", true));
-    for (let w = 1; w <= 17; w++) grid.appendChild(gridItem(String(w), true));
+    const maxCols = maxWeekColumns();
+    const columnCount = maxCols + 2; // position + name + real weeks
 
-    const columnCount = 19; // position + name + 17 weeks
+    // header row: 2 blank (position + name) + running real-week numbers
+    placeGridItem(grid, gridItem("", true), 1, 1, 1);
+    placeGridItem(grid, gridItem("", true), 1, 2, 1);
+    for (let w = 1; w <= maxCols; w++) placeGridItem(grid, gridItem(String(w), true), 1, w + 2, 1);
+
+    const layout = seasonPeriodLayout(row.season);
+
+    let gridRow = 2;
     let previousPosition = null;
     detail.players.forEach(player => {
         const isNewGroup = player.position !== previousPosition;
@@ -1032,38 +1143,39 @@ function renderPositionDetail(row, detail) {
             for (let i = 0; i < columnCount; i++) {
                 const spacer = document.createElement("div");
                 spacer.className = "grid-divider";
-                grid.appendChild(spacer);
+                placeGridItem(grid, spacer, gridRow, i + 1, 1);
             }
+            gridRow++;
         }
         previousPosition = player.position;
-        const rowCells = [];
 
         const posCell = gridItem(isNewGroup ? player.position : "", true);
         posCell.classList.add("grid-row-label");
-        rowCells.push(posCell);
+        placeGridItem(grid, posCell, gridRow, 1, 1);
 
         const nameCell = gridItem(player.name, true);
         nameCell.classList.add("grid-row-label");
         nameCell.onclick = () => showPlayer(player.playerId);
-        rowCells.push(nameCell);
+        placeGridItem(grid, nameCell, gridRow, 2, 1);
 
-        for (let w = 1; w <= 17; w++) {
-            const wk = player.weeks[w];
+        for (const p of layout.periods) {
+            const wk = player.weeks[p.period];
+            let item;
             if (wk) {
                 const outcome = wk.win ? "w" : wk.loss ? "l" : "t";
-                const item = gridItem(wk.points + outcome, false);
+                item = gridItem(wk.points + outcome, false);
                 item.style.backgroundColor = TEAM_COLORS[row.teamNumber];
                 item.style.opacity = (wk.points + 10) / 40;
-                item.title = player.name + ", week " + w + ": " + wk.points + " (" + outcome.toUpperCase() + ")";
+                item.title = player.name + ", week " + weekLabel(p) + ": " + wk.points + " (" + outcome.toUpperCase() + ")";
                 item.classList.add("game-summary");
-                item.onclick = () => showGame(row.season, w, row.teamNumber);
-                rowCells.push(item);
+                item.onclick = () => showGame(row.season, p.period, row.teamNumber);
             } else {
-                rowCells.push(gridItem("", false));
+                item = gridItem("", false);
             }
+            placeGridItem(grid, item, gridRow, p.colStart + 2, p.span);
         }
 
-        rowCells.forEach(c => grid.appendChild(c));
+        gridRow++;
     });
 }
 
@@ -1191,6 +1303,7 @@ async function init() {
     buildTeamButtons();
     buildPositionCheckboxes();
     buildSeasonSelects();
+    buildPlayersFilters();
     buildGamesFilters();
     buildPositionsFilters();
     buildTeamsFilters();
@@ -1199,7 +1312,7 @@ async function init() {
     document.getElementById("mode-positions").onclick = () => setMode("positions");
     document.getElementById("mode-teams").onclick = () => setMode("teams");
     document.addEventListener("click", closeAllOwnerDropdowns);
-    loadStats();
+    setMode(mode);
 }
 
 init();

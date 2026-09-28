@@ -69,6 +69,23 @@ def meta():
     current_game_number = db.execute("SELECT MAX(game_number) FROM games").fetchone()[0]
     current_season, current_scoring_period = divmod(current_game_number, 100)
     ruxbee_max, bugton_min = ruxbee_bugton_bounds(db)
+    max_games = db.execute(
+        "SELECT MAX(cnt) FROM ("
+        "  SELECT SUM(g.weeks_covered) cnt FROM player_weeks pw "
+        "  JOIN team_weeks tw ON tw.id = pw.team_week_id "
+        "  JOIN games g ON g.id = tw.game_id "
+        "  GROUP BY pw.player_id"
+        ")"
+    ).fetchone()[0] or 0
+
+    periods_by_season = {}
+    for r in db.execute(
+        "SELECT DISTINCT season, scoring_period, weeks_covered FROM games ORDER BY season, scoring_period"
+    ):
+        periods_by_season.setdefault(r["season"], []).append(
+            {"period": r["scoring_period"], "weeksCovered": r["weeks_covered"]}
+        )
+
     return jsonify({
         "teams": [{"teamNumber": n, "owner": o} for n, o in sorted(TEAM_OWNERS.items())],
         "ownerHistory": {
@@ -83,6 +100,8 @@ def meta():
         "currentScoringPeriod": current_scoring_period,
         "ruxbeeMax": ruxbee_max,
         "bugtonMin": bugton_min,
+        "maxGames": max_games,
+        "periodsBySeason": periods_by_season,
     })
 
 
@@ -111,12 +130,15 @@ def players_points():
     start_game = game_number(start_season, start_period)
     end_game = game_number(end_season, end_period)
 
+    sort = request.args.get("sort", "points_desc")
+    min_games = request.args.get("minGames", type=int)
+
     current_game = db.execute("SELECT MAX(game_number) FROM games").fetchone()[0]
 
     rows = db.execute(
         """
         SELECT pw.player_id, p.name, pw.position, pw.points,
-               tw.team_number, tw.win, tw.loss, tw.tie, g.game_number
+               tw.team_number, tw.win, tw.loss, tw.tie, g.game_number, g.weeks_covered
         FROM player_weeks pw
         JOIN players p ON p.id = pw.player_id
         JOIN team_weeks tw ON tw.id = pw.team_week_id
@@ -138,13 +160,18 @@ def players_points():
     results = []
     for player_id, weeks in by_player.items():
         total_points = sum(w["points"] for w in weeks)
+        # a 2-week combined playoff round already carries its full 2-week point total in a
+        # single player_weeks row -- count it as 2 games (not 1) so the average isn't
+        # inflated by treating a double-length game as if it were a normal single week
+        games = sum(w["weeks_covered"] for w in weeks)
         current_weeks = [w for w in weeks if w["game_number"] == current_game]
         results.append({
             "playerId": player_id,
             "name": weeks[0]["name"],
             "position": weeks[0]["position"],
             "points": total_points,
-            "games": len(weeks),
+            "games": games,
+            "average": round(total_points / games, 1),
             "wins": sum(1 for w in weeks if w["win"]),
             "losses": sum(1 for w in weeks if w["loss"]),
             "ties": sum(1 for w in weeks if w["tie"]),
@@ -152,7 +179,16 @@ def players_points():
             "currentPointsPerTeam": points_per_team(current_weeks)[0] if current_weeks else None,
         })
 
-    results.sort(key=lambda r: -r["points"])
+    if min_games is not None:
+        results = [r for r in results if r["games"] >= min_games]
+
+    sort_keys = {
+        "points_desc": lambda r: -r["points"],
+        "games_desc": lambda r: -r["games"],
+        "average_desc": lambda r: -r["average"],
+        "average_asc": lambda r: r["average"],
+    }
+    results.sort(key=sort_keys.get(sort, sort_keys["points_desc"]))
     return jsonify(results[:RESULT_SIZE])
 
 
@@ -313,6 +349,8 @@ def games_list():
         "margin_asc": lambda x: (abs(x["teamPoints"] - x["opponentPoints"]), -(x["teamPoints"] + x["opponentPoints"]), win_first(x)),
         "total_desc": lambda x: (-(x["teamPoints"] + x["opponentPoints"]), win_first(x)),
         "total_asc": lambda x: (x["teamPoints"] + x["opponentPoints"], win_first(x)),
+        "chrono_asc": lambda x: (x["season"], x["scoringPeriod"], win_first(x)),
+        "chrono_desc": lambda x: (-x["season"], -x["scoringPeriod"], win_first(x)),
     }
     results.sort(key=sort_keys.get(sort, sort_keys["points_desc"]))
 

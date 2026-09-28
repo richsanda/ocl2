@@ -29,6 +29,17 @@
         <span id="positions"></span>
     </span>
 
+    <span id="players-filters" style="display:none">
+        sort by
+        <select id="players-sort-filter">
+            <option value="points_desc">points (most)</option>
+            <option value="games_desc">games (most)</option>
+            <option value="average_desc">average (most)</option>
+            <option value="average_asc">average (least)</option>
+        </select>
+        <label><input type="checkbox" id="min-games-filter-enabled"> min games <select id="min-games-filter"></select></label>
+    </span>
+
     <span id="games-filters" style="display:none">
         outcome
         <select id="outcome-filter">
@@ -48,6 +59,8 @@
             <option value="margin_asc">margin (least)</option>
             <option value="total_desc">total (most)</option>
             <option value="total_asc">total (least)</option>
+            <option value="chrono_asc">date (oldest)</option>
+            <option value="chrono_desc">date (newest)</option>
         </select>
     </span>
 
